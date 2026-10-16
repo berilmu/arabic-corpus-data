@@ -1,0 +1,29 @@
+
+{
+  "schema_version": "1.0.0",
+  "books": [
+    {
+      "id": "bina-wal-asas",
+      "title": "البناء والأساس",
+      "title_latin": "Bina wal Asas",
+      "language": "ar",
+      "subject": [
+        "sharaf",
+        "morphology"
+      ],
+      "description": "Kitab pembelajaran ilmu sharaf.",
+      "status": "in_progress",
+      "source": {
+        "author": null,
+        "edition": null,
+        "publisher": null,
+        "publication_year": null,
+        "notes": "Detail bibliografi menunggu verifikasi dari edisi kitab yang digunakan."
+      },
+      "content": {
+        "type": "json",
+        "path": "books/bina-wal-asas/"
+      }
+    }
+  ]
+}
