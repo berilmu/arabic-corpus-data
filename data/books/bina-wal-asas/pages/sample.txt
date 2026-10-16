@@ -1,0 +1,107 @@
+{
+  "schema_version": "1.0.0",
+  "id": "bwa-page-001",
+  "book_id": "bina-wal-asas",
+  "page_number": 1,
+  "source": {
+    "printed_page_number": null,
+    "image_file": null
+  },
+  "sections": [
+    {
+      "id": "bwa-page-001-section-001",
+      "type": "basmala",
+      "title": null,
+      "transcription_status": "verified",
+      "translations": {
+        "id": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang"
+      },
+      "text": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ"
+    },
+    {
+      "id": "bwa-page-001-section-002",
+      "type": "introduction",
+      "title": null,
+      "transcription_status": "verified",
+      "translations": {
+        "id": "Ketahuilah bahwa bab-bab ilmu tashrif berjumlah tiga puluh lima bab. Enam di antaranya termasuk kelompok tsulatsi mujarrad."
+      },
+      "text": "اِعْلَمْ أَنَّ أَبْوَابَ التَّصْرِيفِ خَمْسَةٌ وَثَلَاثُونَ بَابًا، سِتَّةٌ مِنْهَا لِلثُّلَاثِيِّ الْمُجَرَّدِ."
+    },
+    {
+      "id": "bwa-page-001-section-003",
+      "type": "morphology_pattern",
+      "title": "الْبَابُ الْأَوَّلُ",
+      "transcription_status": "draft",
+      "pattern": {
+        "past": "فَعَلَ",
+        "present": "يَفْعُلُ"
+      },
+      "text": "الباب الأول: فَعَلَ — يَفْعُلُ موزونه: نَصَرَ يَنْصُرُ، وعلامته أن يكون عين فعله مفتوحًا في الماضي ومضمومًا في المضارع وبناؤه للتعدية غالبًا وقد يكون لازمًا",
+      "examples": [
+        {
+          "text": "نَصَرَ زيدٌ عَمْرًا",
+          "notes": null
+        },
+        {
+          "text": "خَرَجَ زيدٌ",
+          "notes": null
+        }
+      ],
+      "footnote_refs": [
+        "bwa-footnote-001",
+        "bwa-footnote-002"
+      ],
+      "continues_on_next_page": false
+    },
+    {
+      "id": "bwa-page-001-section-004",
+      "type": "morphology_pattern",
+      "title": "الباب الثاني",
+      "transcription_status": "draft",
+      "pattern": {
+        "past": "فَعَلَ",
+        "present": "يَفْعِلُ"
+      },
+      "text": "الباب الثاني: فَعَلَ — يَفْعِلُ وموزونه ضَرَبَ يَضْرِبُ وعلامته أن يكون عين فعله مفتوحًا في الماضي ومكسورًا في المضارع وبناؤه أيضًا للتعدية غالبًا وقد يكون لازمًا",
+      "examples": [
+        {
+          "text": "ضَرَبَ زيدٌ عَمْرًا",
+          "notes": null
+        },
+        {
+          "text": "جَلَسَ زيدٌ",
+          "notes": null
+        }
+      ],
+      "footnote_refs": [],
+      "continues_on_next_page": false
+    },
+    {
+      "id": "bwa-page-001-section-005",
+      "type": "morphology_pattern",
+      "title": "الباب الثالث",
+      "transcription_status": "draft",
+      "pattern": {
+        "past": "فَعَلَ",
+        "present": "يَفْعَلُ"
+      },
+      "text": "الباب الثالث: فَعَلَ — يَفْعَلُ موزونه: فَتَحَ يَفْتَحُ وعلامته أن يكون عين فعله",
+      "examples": [],
+      "footnote_refs": [],
+      "continues_on_next_page": true
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "bwa-footnote-001",
+      "transcription_status": "draft",
+      "text": "والمتعدي ما يتجاوز فعل الفاعل إلى المفعول به"
+    },
+    {
+      "id": "bwa-footnote-002",
+      "transcription_status": "draft",
+      "text": "واللازم هو ما لم يتجاوز فعل الفاعل إلى المفعول به بل وقع في نفسه"
+    }
+  ]
+}

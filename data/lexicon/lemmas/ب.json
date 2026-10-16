@@ -1,0 +1,32 @@
+
+{
+  "schema_version": "1.0.0",
+  "initial": "ب",
+  "lemmas": [
+    {
+      "id": "lemma-bi",
+      "lemma": "بِـ",
+      "text_plain": "بـ",
+      "root_id": null,
+      "pattern_id": null,
+      "part_of_speech_id": "pos-harf",
+      "subtype_id": "subtype-harf-jarr",
+      "meanings": [
+        {
+          "text": "Dengan",
+          "language": "id",
+          "notes": "Salah satu makna yang dapat ditunjukkan oleh huruf بِـ sesuai konteks."
+        },
+        {
+          "text": "Melalui",
+          "language": "id",
+          "notes": "Kemungkinan makna kontekstual; bukan makna yang otomatis berlaku pada setiap kemunculan."
+        }
+      ],
+      "notes": "Huruf jar yang dapat memengaruhi keadaan i'rab isim yang berkaitan dengannya.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    }
+  ]
+}

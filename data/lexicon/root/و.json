@@ -1,0 +1,17 @@
+
+{
+  "schema_version": "1.0.0",
+  "initial": "و",
+  "roots": [
+    {
+      "id": "root-wsm",
+      "radicals": ["و", "س", "م"],
+      "display": "و س م",
+      "radical_count": 3,
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z",
+      "meaning_note": "Berkaitan dengan makna tinggi, luhur, atau mulia."
+    }
+  ]
+}

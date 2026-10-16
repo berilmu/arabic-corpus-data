@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0.0",
+  "id": "bwa-page-001",
+  "book_id": "bina-wal-asas",
+  "page_number": 1,
+  "source": {
+    "printed_page_number": null,
+    "image_file": null
+  },
+  "sections": [
+    {
+      "id": "bwa-page-001-section-001",
+      "type": "basmala",
+      "title": null,
+      "translations": {
+        "id": "Dengan menyebut nama Allah Yang Maha Pengasih lagi Maha Penyayang"
+      },
+      "text": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+      "transcription_status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "bwa-page-001-section-002",
+      "type": "introduction",
+      "title": null,
+      "transcription_status": "draft",
+      "translations": {
+        "id": "Ketahuilah bahwa bab-bab ilmu tashrif berjumlah tiga puluh lima bab. Enam di antaranya termasuk kelompok tsulatsi mujarrad."
+      },
+      "text": "اِعْلَمْ أَنَّ أَبْوَابَ التَّصْرِيفِ خَمْسَةٌ وَثَلَاثُونَ بَابًا، سِتَّةٌ مِنْهَا لِلثُّلَاثِيِّ الْمُجَرَّدِ."
+    },
+    {
+      "id": "bwa-page-001-section-003",
+      "type": "morphology_pattern",
+      "title": "الْبَابُ الْأَوَّلُ",
+      "transcription_status": "draft",
+      "pattern": {
+        "past": "فَعَلَ",
+        "present": "يَفْعُلُ"
+      },
+      "text": [
+        "فَعَلَ—يَفْعُلُ مَوْزُوْنُهُ نَصَرَ—يَنْصُرُ، وَعَلَامَتُهُ أَنْ يَكُوْنَ عَيْنُ فِعْلِهِ مَفْتُوْحًا فِي الْمَاضِي وَمَضْمُومُ مًا فِي الْمُضَارِعِ وَبِنَاؤُهُ لِلتَّعْدِيَةِ غَالِبًا، وَقَدْ يَكُونُ لَازِمًا،",
+        "مِثَالُ الْمُتَعَدِّي نَحْوُ : نَصَرَ زَيْدٌ عَمْرًا،",
+        "وَمِثَالُ اللَّازِمِ نَحْوُ : خَرَجَ زَيْدٌ.",
+        "وَالْمُتَعَدِّي هُوَ مَا يَتَجَاوَزُ فَعْلُ الْفَاعِلِ إِلَى الْمَفْعُولِ بِهِ. وَاللَّازِمُ هُوَ مَا لَمْ يَتَجَاوَزُ فَعْلُ الْفَاعِلِ إِلَى الْمَفْعُولِ بِهِ."
+      ],
+      "translations": {
+        "id": [
+          "fa'ala yaf'ulu, contohnya: nasara yansuru, dan cirinya adalah bahwa 'ain fi'ilnya terbuka pada masa lampau dan terlipat pada masa sekarang. Bentuknya biasanya transitif, tetapi bisa juga intransitif.",
+          "Contoh kata kerja transitif: nashara Zaidun Amran.",
+          "Contoh kata kerja intransitif: kharaja Zaidun.",
+          "Transitif adalah kata kerja yang melampaui subjeknya untuk mengenai objek. Lazim adalah kata kerja yang tidak melampaui subjeknya ke objek, tetapi terjadi pada subjek itu sendiri."
+        ]
+      },
+      "examples": [
+        {
+          "text": "نَصَرَ زيدٌ عَمْرًا",
+          "translations": {
+            "id": "Zaid menolong Amr."
+          },
+          "notes": null
+        },
+        {
+          "text": "خَرَجَ زيدٌ",
+          "translations": {
+            "id": "Zaid keluar."
+          },
+          "notes": null
+        }
+      ],
+      "continues_on_next_page": false
+    },
+    {
+      "id": "bwa-page-001-section-004",
+      "type": "morphology_pattern",
+      "title": "الباب الثاني",
+      "transcription_status": "draft",
+      "pattern": {
+        "past": "فَعَلَ",
+        "present": "يَفْعِلُ"
+      },
+      "text": "الباب الثاني: فَعَلَ — يَفْعِلُ وموزونه ضَرَبَ يَضْرِبُ وعلامته أن يكون عين فعله مفتوحًا في الماضي ومكسورًا في المضارع وبناؤه أيضًا للتعدية غالبًا وقد يكون لازمًا",
+      "examples": [
+        {
+          "text": "ضَرَبَ زيدٌ عَمْرًا",
+          "notes": null
+        },
+        {
+          "text": "جَلَسَ زيدٌ",
+          "notes": null
+        }
+      ],
+      "footnote_refs": [],
+      "continues_on_next_page": false
+    },
+    {
+      "id": "bwa-page-001-section-005",
+      "type": "morphology_pattern",
+      "title": "الباب الثالث",
+      "transcription_status": "draft",
+      "pattern": {
+        "past": "فَعَلَ",
+        "present": "يَفْعَلُ"
+      },
+      "text": "الباب الثالث: فَعَلَ — يَفْعَلُ موزونه: فَتَحَ يَفْتَحُ وعلامته أن يكون عين فعله",
+      "examples": [],
+      "footnote_refs": [],
+      "continues_on_next_page": true
+    }
+  ],
+  "footnotes": [
+    {
+      "id": "bwa-footnote-001",
+      "transcription_status": "draft",
+      "text": "والمتعدي ما يتجاوز فعل الفاعل إلى المفعول به"
+    },
+    {
+      "id": "bwa-footnote-002",
+      "transcription_status": "draft",
+      "text": "واللازم هو ما لم يتجاوز فعل الفاعل إلى المفعول به بل وقع في نفسه"
+    }
+  ]
+}

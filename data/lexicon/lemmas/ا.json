@@ -1,0 +1,92 @@
+
+{
+  "schema_version": "1.0.0",
+  "initial": "ا",
+  "lemmas": [
+    {
+      "id": "lemma-ismun",
+      "lemma": "اِسْمٌ",
+      "text_plain": "اسم",
+      "root_id": ["root-wsm", "root-swm"],
+      "pattern_id": null,
+      "part_of_speech_id": "pos-isim",
+      "subtype_id": "subtype-isim-mufrad",
+      "meanings": [
+        {
+          "text": "Nama",
+          "language": "id",
+          "notes": "Makna leksikal dasar."
+        },
+        {
+          "text": "Istilah",
+          "language": "id",
+          "notes": "Makna yang dapat digunakan sesuai konteks."
+        }
+      ],
+      "notes": "## Dua Pendapat tentang Akar Kata اِسْمٌ\n\n### 1. Pendapat Basrah\n\n- **Akar kata:** س م و (سَمَا)\n- **Makna dasar:** Ketinggian atau keluhuran.\n\n### 2. Pendapat Kufah\n\n- **Akar kata:** و س م (وَسَمَ)\n- **Makna dasar:** Tanda atau penanda.\n\n### Pendapat yang Dipilih\n\nPendapat yang umum dipilih dalam kamus klasik seperti *Lisān al-‘Arab* adalah bahwa اِسْمٌ berasal dari akar kata س م و. Dalam pendapat ini, huruf و merupakan huruf akar yang tidak tampak dalam bentuk اِسْمٌ.\n\nSalah satu alasan yang dikemukakan adalah bentuk jamaknya أَسْمَاءُ dan bentuk tasghir-nya سُمَيٌّ.\n\nPendapat tentang asal kata اِسْمٌ juga dibahas dalam literatur bahasa Arab klasik.\n\n### Referensi\n\n- *Lisān al-‘Arab* — pembahasan kata اِسْمٌ.\n- Rafed Library — referensi pembahasan etimologi اِسْمٌ.\n- Islamweb — referensi pembahasan akar kata اِسْمٌ.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "lemma-allahu",
+      "lemma": "اللَّهُ",
+      "text_plain": "الله",
+      "root_id": null,
+      "pattern_id": null,
+      "part_of_speech_id": "pos-isim",
+      "subtype_id": "subtype-isim-mufrad",
+      "meanings": [
+        {
+          "text": "Allah",
+          "language": "id",
+          "notes": "Nama khusus Tuhan dalam Islam."
+        }
+      ],
+      "notes": "Hubungan historis antara اللَّه dan الإِلٰه merupakan persoalan etimologis yang perlu dicatat terpisah dari analisis morfologi sinkronis.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "lemma-arrahmaanu",
+      "lemma": "الرَّحْمَٰنُ",
+      "text_plain": "الرحمن",
+      "root_id": "root-rhm",
+      "pattern_id": "pattern-fa'laan",
+      "part_of_speech_id": "pos-isim",
+      "subtype_id": "subtype-isim-mufrad",
+      "meanings": [
+        {
+          "text": "Maha Pengasih",
+          "language": "id",
+          "notes": "Makna leksikal yang berkaitan dengan rahmat."
+        }
+      ],
+      "notes": "Berkaitan dengan akar ر ح م. Pola فَعْلَان dicatat sebagai pola morfologis; kontribusi maknanya perlu dibedakan dari makna khusus lema ini.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "lemma-arrahiimu",
+      "lemma": "الرَّحِيمُ",
+      "text_plain": "الرحيم",
+      "root_id": "root-rhm",
+      "pattern_id": "pattern-fa'iil",
+      "part_of_speech_id": "pos-isim",
+      "subtype_id": "subtype-isim-mufrad",
+      "meanings": [
+        {
+          "text": "Maha Penyayang",
+          "language": "id",
+          "notes": "Makna leksikal yang berkaitan dengan rahmat."
+        }
+      ],
+      "notes": "Berkaitan dengan akar ر ح م. Pola فَعِيل dicatat sebagai pola morfologis dan tidak dianggap memiliki satu makna universal yang otomatis menentukan makna lema.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    }
+  ]
+}

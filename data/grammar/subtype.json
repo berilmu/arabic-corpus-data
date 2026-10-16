@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0.0",
+  "subtypes": [
+    {
+      "id": "subtype-isim-mufrad",
+      "category": "number",
+      "label_ar": "مُفْرَد",
+      "label_id": "Isim mufrad",
+      "description": "Isim yang menunjukkan satu, sebagai lawan dari mutsanna dan jamak.",
+      "applies_to": [
+        "pos-isim"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-isim-muthanna",
+      "category": "number",
+      "label_ar": "مُثَنَّى",
+      "label_id": "Isim mutsanna",
+      "description": "Isim yang menunjukkan dua.",
+      "applies_to": [
+        "pos-isim"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-isim-jam",
+      "category": "number",
+      "label_ar": "جَمْع",
+      "label_id": "Isim jamak",
+      "description": "Isim yang menunjukkan lebih dari dua menurut klasifikasi jumlah bahasa Arab.",
+      "applies_to": [
+        "pos-isim"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-isim-jamid",
+      "category": "derivation",
+      "label_ar": "اسم جامد",
+      "label_id": "Isim jamid",
+      "description": "Isim yang tidak diklasifikasikan sebagai kata turunan dalam analisis morfologi yang digunakan.",
+      "applies_to": [
+        "pos-isim"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-isim-mushtaq",
+      "category": "derivation",
+      "label_ar": "اسم مشتق",
+      "label_id": "Isim musytaq",
+      "description": "Isim yang dibentuk melalui proses derivasi dari dasar kata menurut analisis morfologi Arab.",
+      "applies_to": [
+        "pos-isim"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-ism-fa'il",
+      "category": "derivational_form",
+      "label_ar": "اسم الفاعل",
+      "label_id": "Isim fa'il",
+      "description": "Bentuk derivatif yang umumnya menunjukkan pelaku atau pihak yang melakukan suatu perbuatan.",
+      "applies_to": [
+        "pos-isim"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-ism-maf'ul",
+      "category": "derivational_form",
+      "label_ar": "اسم المفعول",
+      "label_id": "Isim maf'ul",
+      "description": "Bentuk derivatif yang umumnya menunjukkan pihak atau sesuatu yang dikenai perbuatan.",
+      "applies_to": [
+        "pos-isim"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-sifah-mushabbahah",
+      "category": "derivational_form",
+      "label_ar": "صفة مشبهة",
+      "label_id": "Sifah musyabbahah",
+      "description": "Bentuk sifat yang dalam pembahasan morfologi Arab memiliki karakteristik derivatif tersendiri.",
+      "applies_to": [
+        "pos-isim"
+      ],
+      "status": "draft"
+    }
+  ]
+}

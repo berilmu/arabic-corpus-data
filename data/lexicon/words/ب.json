@@ -1,0 +1,78 @@
+{
+"schema_version": "1.0.0",
+  "initial": "ب",
+  "words": [
+    {
+      "id": "word-bismi",
+      "surface": "بِسْمِ",
+      "normalized_form": "بسم",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "Dengan nama",
+          "language": "id"
+        }
+      ],
+      "segments": [
+        {
+          "id": "word-bi",
+          "surface": "بِـ",
+          "lemma_id": "lemma-bi",
+          "meaning": [
+            {
+              "text": "dengan",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": null,
+          "role_id": "role-harf-jarr",
+          "notes": "Huruf jar yang menyebabkan isim yang mengikutinya berkedudukan majrur.",
+          "status": "verified",
+          "verified_by": "ms_ebta",
+          "verified_at": "2024-06-15T10:00:00Z"
+        },
+        {
+          "id": "word-ismi",
+          "surface": "اِسْمِ",
+          "lemma_id": "lemma-ismun",
+          "meaning": [
+            {
+              "text": "nama",
+              "language": "id"
+            }
+          ],
+          "case_id": "case-majrur",
+          "role_id": "role-mudhaf",
+          "notes": "Isim berkedudukan majrur karena didahului بِـ. Dalam konstruksi idhafah, kata ini juga berfungsi sebagai mudhaf.",
+          "status": "verified",
+          "verified_by": "ms_ebta",
+          "verified_at": "2024-06-15T10:00:00Z"
+        }
+      ],
+      "role_id": null,
+      "case_id": null,
+      "notes": "Tulisan بِسْمِ dipertahankan sebagai satu kesatuan, sedangkan بِـ dan اِسْمِ dianalisis sebagai dua segmen.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+          "id": "word-bi",
+          "surface": "بِـ",
+          "lemma_id": "lemma-bi",
+          "meaning": [
+            {
+              "text": "dengan",
+              "language": "id"
+            }
+          ],
+          "case_id": null,
+          "role_id": "role-harf-jarr",
+          "notes": "Huruf jar yang menyebabkan isim yang mengikutinya berkedudukan majrur.",
+          "status": "verified",
+          "verified_by": "ms_ebta",
+          "verified_at": "2024-06-15T10:00:00Z"
+        }
+  ]
+}

@@ -1,0 +1,48 @@
+
+{
+  "schema_version": "1.0.0",
+  "categories": [
+    {
+      "id": "noun",
+      "label_ar": "اسم",
+      "label_id": "Nomina",
+      "label_en": "Noun"
+    },
+    {
+      "id": "proper_noun",
+      "label_ar": "اسم علم",
+      "label_id": "Nomina khusus",
+      "label_en": "Proper noun"
+    },
+    {
+      "id": "verb",
+      "label_ar": "فعل",
+      "label_id": "Verba",
+      "label_en": "Verb"
+    },
+    {
+      "id": "adjective",
+      "label_ar": "صفة",
+      "label_id": "Adjektiva",
+      "label_en": "Adjective"
+    },
+    {
+      "id": "preposition",
+      "label_ar": "حرف جر",
+      "label_id": "Preposisi",
+      "label_en": "Preposition"
+    },
+    {
+      "id": "particle",
+      "label_ar": "حرف",
+      "label_id": "Partikel",
+      "label_en": "Particle"
+    },
+    {
+      "id": "unknown",
+      "label_ar": "غير محدد",
+      "label_id": "Belum ditentukan",
+      "label_en": "Undetermined"
+    }
+  ]
+}

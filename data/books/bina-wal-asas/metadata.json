@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "id": "bina-wal-asas",
+  "title": "البناء والأساس",
+  "title_latin": "Bina wal Asas",
+  "language": "ar",
+  "subjects": [
+    "sharaf",
+    "morphology"
+  ],
+  "description": "Kitab pembelajaran ilmu sharaf.",
+  "bibliography": {
+    "author": null,
+    "editor": null,
+    "publisher": null,
+    "edition": null,
+    "publication_year": null
+  },
+  "transcription_status": "in_progress"
+}

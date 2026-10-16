@@ -1,0 +1,36 @@
+
+{
+  "schema_version": "1.0.0",
+  "patterns": [
+    {
+      "id": "pattern-fa'laan",
+      "pattern": "فَعْلَان",
+      "transliteration": "fa'laan",
+      "category": "morphological_pattern",
+      "semantic_functions": [
+        {
+          "id": "semantic-intensity",
+          "label_id": "Intensitas atau keadaan yang menonjol",
+          "description": "Kemungkinan kontribusi makna pola dalam kata tertentu."
+        }
+      ],
+      "notes": "Fungsi semantik pola harus diperiksa berdasarkan kata dan rujukan morfologi yang digunakan.",
+      "status": "draft"
+    },
+    {
+      "id": "pattern-fa'iil",
+      "pattern": "فَعِيل",
+      "transliteration": "fa'iil",
+      "category": "morphological_pattern",
+      "semantic_functions": [
+        {
+          "id": "semantic-quality",
+          "label_id": "Sifat atau kualitas",
+          "description": "Pola ini sering ditemukan pada kata yang menyatakan sifat atau kualitas."
+        }
+      ],
+      "notes": "Pola فَعِيل memiliki beragam penggunaan morfologis dan semantis. Fungsi pada setiap kata perlu dianalisis berdasarkan konteks dan rujukan.",
+      "status": "draft"
+    }
+  ]
+}

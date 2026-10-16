@@ -1,0 +1,36 @@
+
+{
+  "schema_version": "1.0.0",
+  "relations": [
+    {
+      "id": "relation-jar-governed",
+      "type": "government",
+      "label_ar": "حرف الجر والمجرور",
+      "label_id": "Hubungan huruf jar",
+      "description": "Hubungan huruf jar dengan isim yang dijarkannya.",
+      "source_label": "Huruf jar",
+      "target_label": "Isim yang dijarkan",
+      "status": "draft"
+    },
+    {
+      "id": "relation-idafah",
+      "type": "syntactic_construction",
+      "label_ar": "الإضافة",
+      "label_id": "Idhafah",
+      "description": "Konstruksi yang menghubungkan mudhaf dengan mudhaf ilayh.",
+      "source_label": "Mudhaf",
+      "target_label": "Mudhaf ilayh",
+      "status": "draft"
+    },
+    {
+      "id": "relation-naat-man'ut",
+      "type": "syntactic_relation",
+      "label_ar": "النعت والمنعوت",
+      "label_id": "Na'at-man'ut",
+      "description": "Hubungan antara naat dan kata yang disifatinya.",
+      "source_label": "Naat",
+      "target_label": "Man'ut",
+      "status": "draft"
+    }
+  ]
+}

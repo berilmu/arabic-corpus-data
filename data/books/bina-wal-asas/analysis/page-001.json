@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "page_id": "bwa-page-001",
+  "analyses": [
+    {
+      "id": "bwa-p001-s001-w001",
+      "section_id": "bwa-page-001-section-001",
+      "position": 1,
+      "surface": "بِسْمِ",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "Dengan nama",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "segments": [
+        {
+          "id": "bwa-p001-s001-w001-seg001",
+          "surface": "بِـ",
+          "lemma_id": "lemma-bi",
+          "meaning": [
+            {
+              "text": "dengan",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": null,
+          "role_id": "role-harf-jarr",
+          "notes": "Huruf jar yang menyebabkan isim yang mengikutinya berkedudukan majrur.",
+          "status": "verified",
+          "verified_by": "ms_ebta",
+          "verified_at": "2024-06-15T10:00:00Z"
+        },
+        {
+          "id": "bwa-p001-s001-w001-seg002",
+          "surface": "اِسْمِ",
+          "lemma_id": "lemma-ismun",
+          "meaning": [
+            {
+              "text": "nama",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": "case-majrur",
+          "role_id": "role-mudhaf",
+          "notes": "Isim berkedudukan majrur karena didahului بِـ. Dalam konstruksi idhafah, kata ini juga berfungsi sebagai mudhaf.",
+          "status": "verified",
+          "verified_by": "ms_ebta",
+          "verified_at": "2024-06-15T10:00:00Z"
+        }
+      ],
+      "role_id": null,
+      "case_id": null,
+      "notes": "Tulisan بِسْمِ dipertahankan sebagai satu kesatuan, sedangkan بِـ dan اِسْمِ dianalisis sebagai dua segmen.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "bwa-p001-s001-w002",
+      "section_id": "bwa-page-001-section-001",
+      "position": 2,
+      "surface": "اللَّهِ",
+      "lemma_id": "lemma-allahu",
+      "meaning": [
+        {
+          "text": "Allah",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": "case-majrur",
+      "role_id": ["role-mudhaf-ilayhi", "role-man'ut"],
+      "notes": "Berkedudukan majrur sebagai mudhaf ilayh bagi اِسْمِ. Terdapat pembahasan etimologis yang menghubungkan اللَّه dengan الإِلٰه; hubungan historis tersebut dicatat sebagai catatan, bukan sebagai segmentasi morfologis yang telah dipastikan.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "bwa-p001-s001-w003",
+      "section_id": "bwa-page-001-section-001",
+      "position": 3,
+      "surface": "الرَّحْمَٰنِ",
+      "lemma_id": "lemma-arrahmaanu",
+      "meaning": [
+        {
+          "text": "Yang Maha Pengasih",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": "case-majrur",
+      "role_id": "role-naat",
+      "morphology": {
+        "pattern_id": "pattern-fa'laan"
+      },
+      "notes": "Dalam analisis ini, الرَّحْمَٰنِ berfungsi sebagai naat bagi اللَّهِ dan mengikuti keadaan i‘rab kata yang disifatinya. Akar ر ح م berkaitan dengan makna kasih sayang. Analisis pola morfologis perlu diverifikasi.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "bwa-p001-s001-w004",
+      "section_id": "bwa-page-001-section-001",
+      "position": 4,
+      "surface": "الرَّحِيمِ",
+      "lemma_id": "lemma-arrahiimu",
+      "meaning": [
+        {
+          "text": "Yang Maha Penyayang",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": "case-majrur",
+      "role_id": "role-naat",
+      "morphology": {
+        "pattern_id": "pattern-fa'iil"
+      },
+      "notes": "Dalam analisis ini, الرَّحِيمِ juga berfungsi sebagai naat bagi اللَّهِ dan berkedudukan majrur. Pola فَعِيل dicatat sebagai pola morfologis yang perlu diverifikasi.",
+      "status": "draft"
+    }
+  ],
+  "relations": [
+    {
+      "id": "bwa-p001-rel001",
+      "relation_id": "relation-jar-governed",
+      "source_id": "bwa-p001-s001-w001-seg001",
+      "target_id": "bwa-p001-s001-w001-seg002",
+      "notes": "بِـ menjarkan اِسْمِ.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-rel002",
+      "relation_id": "relation-idafah",
+      "source_id": "bwa-p001-s001-w001-seg002",
+      "target_id": "bwa-p001-s001-w002",
+      "notes": "اِسْمِ berfungsi sebagai mudhaf dan اللَّهِ sebagai mudhaf ilayh.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-rel003",
+      "relation_id": "relation-naat-man'ut",
+      "source_id": "bwa-p001-s001-w003",
+      "target_id": "bwa-p001-s001-w002",
+      "notes": "الرَّحْمَٰنِ menjadi naat bagi اللَّهِ dalam analisis yang digunakan.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-rel004",
+      "relation_id": "relation-naat-man'ut",
+      "source_id": "bwa-p001-s001-w004",
+      "target_id": "bwa-p001-s001-w002",
+      "notes": "الرَّحِيمِ menjadi naat bagi اللَّهِ dalam analisis yang digunakan.",
+      "status": "draft"
+    }
+  ]
+}

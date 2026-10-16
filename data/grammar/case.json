@@ -1,0 +1,34 @@
+
+{
+  "schema_version": "1.0.0",
+  "cases": [
+    {
+      "id": "case-marfu",
+      "label_ar": "مَرْفُوع",
+      "label_id": "Marfu",
+      "description": "Keadaan i'rab berupa rafa.",
+      "status": "draft"
+    },
+    {
+      "id": "case-manshub",
+      "label_ar": "مَنْصُوب",
+      "label_id": "Manshub",
+      "description": "Keadaan i'rab berupa nashab.",
+      "status": "draft"
+    },
+    {
+      "id": "case-majrur",
+      "label_ar": "مَجْرُور",
+      "label_id": "Majrur",
+      "description": "Keadaan i'rab berupa jar.",
+      "status": "draft"
+    },
+    {
+      "id": "case-majzum",
+      "label_ar": "مَجْزُوم",
+      "label_id": "Majzum",
+      "description": "Keadaan i'rab berupa jazm, khususnya pada fi'il mudhari yang memenuhi ketentuannya.",
+      "status": "draft"
+    }
+  ]
+}

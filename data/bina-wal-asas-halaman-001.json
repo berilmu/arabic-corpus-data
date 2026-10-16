@@ -1,0 +1,94 @@
+{
+  "id": "bwa-page-001",
+  "book_id": "bina-wal-asas",
+  "page_number": 1,
+  "source_image": "user-provided image",
+  "transcription_status": "draft_transcribed_from_image",
+  "transcription_notes": [
+    "Teks ditranskripsikan dari gambar yang diberikan pengguna.",
+    "Bagian Bab Ketiga pada gambar berhenti di tengah kalimat; bagian yang tidak terlihat tidak dilengkapi dengan tebakan.",
+    "Harakat dan beberapa tanda baca perlu diverifikasi terhadap salinan kitab yang lebih jelas."
+  ],
+  "opening": {
+    "text": "بسم الله الرحمن الرحيم"
+  },
+  "introduction": {
+    "text": "اعلم أن أبواب التصريف خمسة وثلاثون بابًا، ستة منها للثلاثي المجرد"
+  },
+  "sections": [
+    {
+      "id": "bwa-p001-bab-01",
+      "number": 1,
+      "title": "الباب الأول",
+      "pattern": {
+        "past": "فَعَلَ",
+        "present": "يَفْعُلُ"
+      },
+      "body": "الباب الأول: فَعَلَ — يَفْعُلُ موزونه: نَصَرَ يَنْصُرُ، وعلامته أن يكون عين فعله مفتوحًا في الماضي ومضمومًا في المضارع وبناؤه للتعدية غالبًا وقد يكون لازمًا",
+      "examples": [
+        {
+          "label": "مثال المتعدي",
+          "text": "مثال المتعدي: نحو: نَصَرَ زيدٌ عَمْرًا",
+          "type": "transitive"
+        },
+        {
+          "label": "ومثال اللازم",
+          "text": "ومثال اللازم نحو: خَرَجَ زيدٌ",
+          "type": "intransitive"
+        }
+      ],
+      "footnote_refs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bwa-p001-bab-02",
+      "number": 2,
+      "title": "الباب الثاني",
+      "pattern": {
+        "past": "فَعَلَ",
+        "present": "يَفْعِلُ"
+      },
+      "body": "الباب الثاني: فَعَلَ — يَفْعِلُ وموزونه ضَرَبَ يَضْرِبُ وعلامته أن يكون عين فعله مفتوحًا في الماضي ومكسورًا في المضارع وبناؤه أيضًا للتعدية غالبًا وقد يكون لازمًا",
+      "examples": [
+        {
+          "label": "مثال المتعدي",
+          "text": "مثال المتعدي: نحو: ضَرَبَ زيدٌ عَمْرًا",
+          "type": "transitive"
+        },
+        {
+          "label": "ومثال اللازم",
+          "text": "ومثال اللازم مثل: جَلَسَ زيدٌ",
+          "type": "intransitive"
+        }
+      ],
+      "footnote_refs": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "bwa-p001-bab-03",
+      "number": 3,
+      "title": "الباب الثالث",
+      "pattern": {
+        "past": "فَعَلَ",
+        "present": "يَفْعَلُ"
+      },
+      "body_visible": "الباب الثالث: فَعَلَ — يَفْعَلُ موزونه: فَتَحَ يَفْتَحُ وعلامته أن يكون عين فعله",
+      "continues_on_next_page": true,
+      "transcription_note": "Kalimat terpotong pada batas bagian yang terlihat di gambar. Jangan melengkapi teks yang tidak terlihat."
+    }
+  ],
+  "footnotes": [
+    {
+      "number": 1,
+      "text": "والمتعدي ما يتجاوز فعل الفاعل إلى المفعول به"
+    },
+    {
+      "number": 2,
+      "text": "واللازم هو ما لم يتجاوز فعل الفاعل إلى المفعول به بل وقع في نفسه"
+    }
+  ]
+}

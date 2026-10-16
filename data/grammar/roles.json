@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "rules": [
+    {
+      "id": "role-harf-jarr",
+      "type": "rule",
+      "category_id": "huruf-jarr",
+      "name_ar": "عمل حرف الجر",
+      "name_id": "Amal huruf jarr",
+      "notes": "Huruf jarr yang beramal pada isim menyebabkan isim tersebut berada dalam keadaan jar.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "role-ism-majrur",
+      "type": "grammatical_state",
+      "category_id": "ism-majrur",
+      "name_ar": "الاسم المجرور",
+      "name_id": "Isim majrur",
+      "notes": "Isim yang berada dalam keadaan majrur karena huruf jarr.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "role-mudhaf-ilayhi", 
+      "type": "grammatical_role",
+      "category_id": "mudhaf-ilayhi",
+      "name_ar": "مضاف إليه",
+      "name_id": "Mudhaf ilayhi",
+      "notes": "Isim yang menjadi unsur kedua dalam konstruksi idhafah dan berkedudukan majrur.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "role-mudhaf",
+      "type": "grammatical_role",
+      "category_id": "mudhaf",
+      "name_ar": "مضاف",
+      "name_id": "Mudhaf",
+      "notes": "Isim yang menjadi unsur pertama dalam konstruksi idhafah.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "role-naat",
+      "type": "grammatical_role",
+      "category_id": "naat",
+      "name_ar": "نعت",
+      "name_id": "Naat",
+      "notes": "Kata yang menerangkan atau menyifati man'ut.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "role-man'ut",
+      "type": "grammatical_role",
+      "category_id": "man'ut",
+      "name_ar": "منعوت",
+      "name_id": "Man'ut",
+      "notes": "Kata yang diterangkan atau disifati oleh naat.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    }
+  ]
+}
