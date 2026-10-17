@@ -1,3 +1,4 @@
+
 {
   "schema_version": "1.0.0",
   "rules": [
@@ -24,7 +25,7 @@
       "verified_at": "2024-06-15T10:00:00Z"
     },
     {
-      "id": "role-mudhaf-ilayhi", 
+      "id": "role-mudhaf-ilayhi",
       "type": "grammatical_role",
       "category_id": "mudhaf-ilayhi",
       "name_ar": "مضاف إليه",
@@ -67,18 +68,16 @@
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
     },
-
-{
-  "id": "role-al-ta'rif",
-  "type": "rule",
-  "category_id": "al-ta'rif",
-  "name_ar": "أداة التعريف",
-  "name_id": "Adaatu Ta'rif",
-  "notes": "### Apa itu Adaatu Ta'rif?\n\n**أَدَاةُ التَّعْرِيفِ (adātu at-ta'rīf)** adalah unsur gramatikal **الـ** yang melekat pada isim untuk menjadikannya definit (*ma'rifah*).\n\n### Apa Fungsi Adaatu Ta'rif?\n\nAdaatu ta'rif berfungsi sebagai **penanda definit**, yaitu penanda bahwa isim merujuk pada sesuatu yang tertentu atau telah ditentukan dalam konteks.\n\nContoh:\n- **كِتَابٌ** — sebuah buku; isim nakirah (umum).\n- **الْكِتَابُ** — buku itu; isim ma'rifah (definit).\n\n### Apakah Adaatu Ta'rif Memiliki I'rab?\n\n**الـ tidak memiliki i'rab mandiri.** Unsur ini melekat pada isim dan tidak berstatus marfū', manṣūb, atau majrūr secara terpisah. Keadaan i'rab ditentukan pada kata yang dilekatinya sesuai kedudukan kata tersebut dalam kalimat.\n\nContoh:\n- **جَاءَ الرَّجُلُ** — laki-laki itu telah datang.\n- **رَأَيْتُ الرَّجُلَ** — aku melihat laki-laki itu.\n- **مَرَرْتُ بِالرَّجُلِ** — aku melewati laki-laki itu.\n\nPada ketiga contoh tersebut, **الـ** tetap menjadi penanda definit, sedangkan akhir kata **الرَّجُلُ، الرَّجُلَ، الرَّجُلِ** berubah sesuai keadaan i'rabnya.\n\n### Hubungan dengan Huruf Syamsiah dan Qamariah\n\nPada huruf syamsiah, lam pada **الـ** mengalami idgham dalam pelafalan, seperti **الشَّمْسُ**. Pada huruf qamariah, lam dibaca jelas, seperti **الْقَمَرُ**. Perbedaan ini memengaruhi pelafalan, bukan fungsi definitnya.\n\n### Catatan Analisis\n\nRole ini menjelaskan fungsi gramatikal unsur **الـ** pada tingkat segmen kata. Role ini berbeda dari role sintaksis seperti mubtada', khabar, atau na'at, dan berbeda pula dari amal huruf jar yang memengaruhi i'rab isim.",
-  "status": "draft",
-  "verified_by": null,
-  "verified_at": null
-}
-
+    {
+      "id": "role-al-ta'rif",
+      "type": "rule",
+      "category_id": "al-ta'rif",
+      "name_ar": "أداة التعريف",
+      "name_id": "Adaatu Ta'rif",
+      "notes": "### Apa itu Adaatu Ta'rif?\n\n**أَدَاةُ التَّعْرِيفِ (adātu at-ta'rīf)** adalah unsur gramatikal **الـ** yang melekat pada isim untuk menjadikannya definit (*ma'rifah*).\n\n### Apa Fungsi Adaatu Ta'rif?\n\nAdaatu ta'rif berfungsi sebagai **penanda definit**, yaitu penanda bahwa isim merujuk pada sesuatu yang tertentu atau telah ditentukan dalam konteks.\n\nContoh:\n- **كِتَابٌ** — sebuah buku; isim nakirah (umum).\n- **الْكِتَابُ** — buku itu; isim ma'rifah (definit).\n\n### Apakah Adaatu Ta'rif Memiliki I'rab?\n\n**الـ tidak memiliki i'rab mandiri.** Unsur ini melekat pada isim dan tidak berstatus marfū', manṣūb, atau majrūr secara terpisah. Keadaan i'rab ditentukan pada kata yang dilekatinya sesuai kedudukan kata tersebut dalam kalimat.\n\nContoh:\n- **جَاءَ الرَّجُلُ** — laki-laki itu telah datang.\n- **رَأَيْتُ الرَّجُلَ** — aku melihat laki-laki itu.\n- **مَرَرْتُ بِالرَّجُلِ** — aku melewati laki-laki itu.\n\nPada ketiga contoh tersebut, **الـ** tetap menjadi penanda definit, sedangkan akhir kata **الرَّجُلُ، الرَّجُلَ، الرَّجُلِ** berubah sesuai keadaan i'rabnya.\n\n### Hubungan dengan Huruf Syamsiah dan Qamariah\n\nPada huruf syamsiah, lam pada **الـ** mengalami idgham dalam pelafalan, seperti **الشَّمْسُ**. Pada huruf qamariah, lam dibaca jelas, seperti **الْقَمَرُ**. Perbedaan ini memengaruhi pelafalan, bukan fungsi definitnya.\n\n### Catatan Analisis\n\nRole ini menjelaskan fungsi gramatikal unsur **الـ** pada tingkat segmen kata. Role ini berbeda dari role sintaksis seperti mubtada', khabar, atau na'at, dan berbeda pula dari amal huruf jar yang memengaruhi i'rab isim.",
+      "status": "draft",
+      "verified_by": null,
+      "verified_at": null
+    }
   ]
 }
