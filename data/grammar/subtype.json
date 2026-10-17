@@ -127,6 +127,18 @@
         "pos-fiil"
       ],
       "status": "draft"
-    }
+    },
+
+{
+  "id": "subtype-al-ta'rif",
+  "category": "particle_function",
+  "label_ar": "أداة التعريف",
+  "label_id": "Alif-lam ta'rif",
+  "description": "Unsur gramatikal ال yang melekat pada isim untuk menjadikannya definit (ma'rifah). Tidak memiliki i'rab mandiri. Pada huruf syamsiah, lam mengalami idgham dalam pelafalan; pada huruf qamariah, lam dibaca jelas.",
+  "applies_to": [
+    "pos-harf"
+  ],
+  "status": "draft"
+}
   ]
 }
