@@ -23,7 +23,7 @@
           "notes": "Makna yang dapat digunakan sesuai konteks."
         }
       ],
-      "notes": "## Dua Pendapat tentang Akar Kata اِسْمٌ\n\n### 1. Pendapat Basrah\n\n- **Akar kata:** س م و (سَمَا)\n- **Makna dasar:** Ketinggian atau keluhuran.\n\n### 2. Pendapat Kufah\n\n- **Akar kata:** و س م (وَسَمَ)\n- **Makna dasar:** Tanda atau penanda.\n\n### Pendapat yang Dipilih\n\nPendapat yang umum dipilih dalam kamus klasik seperti *Lisān al-‘Arab* adalah bahwa اِسْمٌ berasal dari akar kata س م و. Dalam pendapat ini, huruf و merupakan huruf akar yang tidak tampak dalam bentuk اِسْمٌ.\n\nSalah satu alasan yang dikemukakan adalah bentuk jamaknya أَسْمَاءُ dan bentuk tasghir-nya سُمَيٌّ.\n\nPendapat tentang asal kata اِسْمٌ juga dibahas dalam literatur bahasa Arab klasik.\n\n### Referensi\n\n- *Lisān al-‘Arab* — pembahasan kata اِسْمٌ.\n- Rafed Library — referensi pembahasan etimologi اِسْمٌ.\n- Islamweb — referensi pembahasan akar kata اِسْمٌ.",
+      "notes": "## Dua Pendapat tentang Akar Kata اِسْمٌ\n\n### 1. Pendapat Basrah\n\n- **Akar kata:** س م و\n- **Makna dasar:** Ketinggian atau keluhuran.\n\n### 2. Pendapat Kufah\n\n- **Akar kata:** و س م\n- **Makna dasar:** Tanda atau penanda.\n\n### Pendapat yang Dipilih\n\nPendapat yang umum dinisbatkan kepada ulama Basrah menghubungkan اِسْمٌ dengan akar س م و, sedangkan pendapat Kufah menghubungkannya dengan و س م. Dalam analisis akar س م و, huruf و merupakan bagian akar yang tidak tampak secara langsung dalam bentuk اِسْمٌ.\n\nBentuk jamaknya adalah أَسْمَاءُ dan bentuk tasghir-nya سُمَيٌّ. Kedua bentuk tersebut dibahas dalam literatur bahasa Arab klasik ketika menjelaskan asal kata اِسْمٌ.\n\n### Referensi untuk Verifikasi\n\n- Lisān al-‘Arab — entri اِسْمٌ.\n- Rafed Library — pembahasan etimologi اِسْمٌ.\n- Islamweb — pembahasan asal kata اِسْمٌ.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
@@ -43,14 +43,14 @@
           "notes": "Nama khusus Tuhan dalam Islam."
         }
       ],
-      "notes": "Hubungan historis antara اللَّه dan الإِلٰه merupakan persoalan etimologis yang perlu dicatat terpisah dari analisis morfologi sinkronis.",
+      "notes": "Hubungan historis antara اللَّه dan الإِلٰه merupakan persoalan etimologis yang perlu dibedakan dari analisis morfologi sinkronis. Bentuk اللَّهُ digunakan sebagai bentuk kutipan lemma; harakat akhir dapat berubah sesuai kedudukan i'rab.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
     },
     {
       "id": "lemma-rahmaanu",
-      "lemma": "رَحْمَٰنِ",
+      "lemma": "رَحْمَٰنُ",
       "text_plain": "رحمن",
       "root_id": "root-rhm",
       "pattern_id": "pattern-fa'laan",
@@ -60,18 +60,18 @@
         {
           "text": "Maha Pengasih",
           "language": "id",
-          "notes": "Makna leksikal yang berkaitan dengan rahmat."
+          "notes": "Makna khusus sebagai salah satu nama atau sifat Allah dalam konteks keagamaan."
         }
       ],
-      "notes": "Berkaitan dengan akar ر ح م. Pola فَعْلَان dicatat sebagai pola morfologis; kontribusi maknanya perlu dibedakan dari makna khusus lema ini.",
+      "notes": "Berasal dari akar ر ح م yang berkaitan dengan rahmat. Bentuk رَحْمَٰنُ mengikuti pola فَعْلَان. Alif kecil di atas م menandai vokal panjang ā dalam ejaan mushaf; tanda tersebut bukan morfem tersendiri. Bentuk dengan ال, yaitu الرَّحْمَٰنُ, merupakan bentuk definit. Harakat akhir dapat berubah mengikuti i'rab, misalnya الرَّحْمَٰنِ dalam basmalah.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
     },
     {
       "id": "lemma-arrahiimu",
-      "lemma": "الرَّحِيمُ",
-      "text_plain": "الرحيم",
+      "lemma": "رَحِيمٌ",
+      "text_plain": "رحيم",
       "root_id": "root-rhm",
       "pattern_id": "pattern-fa'iil",
       "part_of_speech_id": "pos-isim",
@@ -80,39 +80,38 @@
         {
           "text": "Maha Penyayang",
           "language": "id",
-          "notes": "Makna leksikal yang berkaitan dengan rahmat."
+          "notes": "Makna khusus sebagai salah satu nama atau sifat Allah dalam konteks keagamaan."
         }
       ],
-      "notes": "Berkaitan dengan akar ر ح م. Pola فَعِيل dicatat sebagai pola morfologis dan tidak dianggap memiliki satu makna universal yang otomatis menentukan makna lema.",
+      "notes": "Berasal dari akar ر ح م dan mengikuti pola فَعِيل. Pola ini dicatat sebagai pola morfologis, bukan sebagai aturan yang otomatis menentukan satu makna universal. Bentuk الرَّحِيمُ merupakan bentuk definit; harakat akhir dapat berubah mengikuti i'rab, misalnya الرَّحِيمِ dalam basmalah.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
     },
-
-{
-  "id": "lemma-al",
-  "lemma": "الـ",
-  "text_plain": "ال",
-  "root_id": null,
-  "pattern_id": null,
-  "part_of_speech_id": "pos-harf",
-  "subtype_id": "subtype-al-ta'rif",
-  "meanings": [
     {
-      "text": "Penanda definit",
-      "language": "id",
-      "notes": "Unsur gramatikal yang melekat pada isim untuk menjadikannya definit (ma'rifah)."
-    },
-    {
-      "text": "Alif-lam ta'rif",
-      "language": "id",
-      "notes": "Nama unsur التعريف yang ditulis dengan ال dan melekat pada kata, seperti الرَّحْمَٰنِ."
+      "id": "lemma-al",
+      "lemma": "الـ",
+      "text_plain": "ال",
+      "root_id": null,
+      "pattern_id": null,
+      "part_of_speech_id": "pos-harf",
+      "subtype_id": "subtype-al-ta'rif",
+      "meanings": [
+        {
+          "text": "Penanda definit",
+          "language": "id",
+          "notes": "Unsur gramatikal yang melekat pada isim untuk menjadikannya definit (ma'rifah)."
+        },
+        {
+          "text": "Alif-lam ta'rif",
+          "language": "id",
+          "notes": "Nama unsur الـ yang melekat pada isim, seperti pada الرَّحْمَٰنِ."
+        }
+      ],
+      "notes": "الـ adalah أداة التعريف, yaitu penanda definit yang melekat pada isim. Unsur ini tidak memiliki i'rab mandiri. Pada huruf syamsiah, lam mengalami idgham dalam pelafalan, seperti الرَّحْمَٰنِ. Pada huruf qamariah, lam dibaca jelas, seperti الْقَمَرُ.",
+      "status": "draft",
+      "verified_by": null,
+      "verified_at": null
     }
-  ],
-  "notes": "الـ adalah أداة التعريف (alat penanda definit) yang melekat pada isim. Unsur ini tidak memiliki i'rab mandiri. Pada huruf syamsiah, lam tidak terdengar sebagai bunyi /l/ dan huruf setelahnya dibaca dengan tasydid, seperti الرَّحْمَٰنِ. Pada huruf qamariah, lam dibaca jelas, seperti الْقَمَرُ.",
-  "status": "draft",
-  "verified_by": null,
-  "verified_at": null
-}
   ]
 }
