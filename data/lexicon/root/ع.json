@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "initial": "ع",
+  "roots": [
+    {
+      "id": "root-nglm",
+      "radicals": ["ع", "ل", "م"],
+      "display": "ع ل م",
+      "radical_count": 3,
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z",
+      "meaning_note": "Berkaitan dengan makna mengetahui, mengenali, atau memperoleh pengetahuan."
+    }
+  ]
+}

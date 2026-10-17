@@ -30,6 +30,36 @@
       ],
       "notes": "### Wazan فَعِيل (Fa'iil)\n\nWazan فَعِيل adalah salah satu pola morfologis dalam bahasa Arab yang digunakan untuk membentuk berbagai kata, terutama kata sifat, tetapi juga dapat muncul pada kata dengan fungsi dan makna leksikal lainnya.\n\n### Struktur Pola\n\nPola ini menggunakan tiga huruf ف، ع، dan ل sebagai lambang bagi tiga huruf akar kata:\n\n- **ف** mewakili huruf akar pertama.\n- **ع** mewakili huruf akar kedua.\n- **ل** mewakili huruf akar ketiga.\n\nPada pola فَعِيل, huruf akar pertama berharakat fatḥah, huruf akar kedua berharakat kasrah, kemudian diikuti yā' panjang sebelum huruf akar ketiga.\n\n### Contoh Penggunaan\n\n- **كَرِيمٌ**: mulia atau dermawan.\n- **عَظِيمٌ**: agung atau besar.\n- **رَحِيمٌ**: penyayang atau Maha Penyayang sesuai konteks.\n\n### Makna Semantis\n\nPola فَعِيل dapat digunakan untuk menyatakan sifat atau kualitas, tetapi tidak mempunyai satu makna yang berlaku untuk semua kata. Makna dan fungsi setiap kata harus ditentukan berdasarkan akar kata, penggunaan leksikal, dan konteksnya.\n\n**Catatan:** Wazan merupakan pola pembentukan kata, sedangkan harakat akhir pada bentuk aktual dapat berubah sesuai keadaan i'rab.",
       "status": "draft"
+    },
+    {
+      "id": "pattern-ifal",
+      "pattern": "اِفْعَلْ",
+      "transliteration": "if'al",
+      "category": "morphological_pattern",
+      "semantic_functions": [
+        {
+          "id": "semantic-imperative",
+          "label_id": "Bentuk kata kerja perintah",
+          "description": "Pola اِفْعَلْ digunakan sebagai pola fi'il amr pada bentuk kata kerja triliteral tertentu. Makna perintahnya bergantung pada akar kata dan makna leksikal kata yang dibentuk."
+        }
+      ],
+      "notes": "### Wazan اِفْعَلْ (If'al)\n\nPola اِفْعَلْ merupakan salah satu pola bentuk fi'il amr untuk kata kerja triliteral.\n\n### Struktur Pola\n\n- **اِ** merupakan hamzat al-wasl pada bentuk perintah ini.\n- **ف** mewakili huruf akar pertama.\n- **ع** mewakili huruf akar kedua.\n- **ل** mewakili huruf akar ketiga.\n\nPada bentuk اِعْلَمْ, huruf akar ع ل م mengisi posisi ف، ع، dan ل secara berurutan. Bentuk tersebut berasal dari عَلِمَ يَعْلَمُ dan bermakna 'ketahuilah!'.\n\n### Contoh Penggunaan\n\n- **اِعْلَمْ**: ketahuilah!\n\n### Makna Semantis\n\nPola ini menandai bentuk kata kerja perintah, tetapi tidak menentukan makna leksikal kata secara mandiri. Makna kata tetap bergantung pada akar kata dan penggunaan kontekstualnya.\n\n**Catatan:** Pola morfologis berbeda dari keadaan gramatikal. Fi'il amr اِعْلَمْ bersifat mabni atas sukun.",
+      "status": "draft"
+    },
+    {
+      "id": "pattern-fa'ila",
+      "pattern": "فَعِلَ",
+      "transliteration": "fa'ila",
+      "category": "morphological_pattern",
+      "semantic_functions": [
+        {
+          "id": "semantic-verb-state",
+          "label_id": "Pola fi'il madhi dengan 'ain fi'il berharakat kasrah",
+          "description": "Pola فَعِلَ merupakan salah satu pola fi'il madhi triliteral mujarrad. Huruf akar pertama berharakat fathah, huruf akar kedua berharakat kasrah, dan huruf akar ketiga berharakat fathah. Makna leksikalnya ditentukan oleh akar kata dan penggunaan kata tersebut."
+        }
+      ],
+      "notes": "### Wazan فَعِلَ (Fa'ila)\n\nPola فَعِلَ merupakan salah satu pola fi'il madhi tsulatsi mujarrad.\n\n### Struktur Pola\n\n- **فَ** mewakili huruf akar pertama dengan harakat fathah.\n- **عِ** mewakili huruf akar kedua dengan harakat kasrah.\n- **لَ** mewakili huruf akar ketiga dengan harakat fathah.\n\n### Contoh Penggunaan\n\n- **عَلِمَ**: telah mengetahui.\n- **فَرِحَ**: telah bergembira.\n- **حَذِرَ**: telah berhati-hati atau waspada.\n\n### Catatan\n\nPola morfologis menunjukkan susunan huruf dan harakat, bukan satu makna universal. Bentuk mudhari' dan bentuk turunannya perlu dicatat berdasarkan paradigma masing-masing kata.",
+      "status": "draft"
     }
   ]
 }
