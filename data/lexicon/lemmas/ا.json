@@ -49,9 +49,9 @@
       "verified_at": "2024-06-15T10:00:00Z"
     },
     {
-      "id": "lemma-arrahmaanu",
-      "lemma": "الرَّحْمَٰنُ",
-      "text_plain": "الرحمن",
+      "id": "lemma-rahmaanu",
+      "lemma": "رَحْمَٰنِ",
+      "text_plain": "رحمن",
       "root_id": "root-rhm",
       "pattern_id": "pattern-fa'laan",
       "part_of_speech_id": "pos-isim",
