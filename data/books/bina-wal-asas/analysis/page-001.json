@@ -62,6 +62,67 @@
   "verified_by": "ms_ebta",
   "verified_at": "2024-06-15T10:00:00Z"
 },
+
+{
+  "id": "bwa-p001-s001-w002",
+  "section_id": "bwa-page-001-section-001",
+  "position": 2,
+  "surface": "اللَّهِ",
+  "lemma_id": "lemma-allahu",
+  "meaning": [
+    {
+      "text": "Allah",
+      "language": "id",
+      "type": "contextual"
+    }
+  ],
+  "segments": [
+    {
+      "id": "bwa-p001-s001-w002-seg001",
+      "surface": "الـ",
+      "lemma_id": "lemma-al",
+      "meaning": [
+        {
+          "text": "penanda definit",
+          "language": "id",
+          "type": "grammatical"
+        }
+      ],
+      "case_id": null,
+      "role_id": "role-al-ta'rif",
+      "notes": "الـ adalah أداة التعريف yang melekat pada isim untuk menjadikannya definit (ma'rifah). Unsur ini tidak memiliki i'rab mandiri.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s001-w002-seg002",
+      "surface": "لَّهِ",
+      "lemma_id": "lemma-allahu",
+      "meaning": [
+        {
+          "text": "Allah",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": "case-majrur",
+      "role_id": [
+        "role-mudhaf-ilayhi",
+        "role-man'ut"
+      ],
+      "notes": "Bagian leksikal dari nama Allah. Dalam kata utuh اللَّهِ, kata ini berkedudukan majrur karena menjadi muḍāf ilayh dari اِسْمِ pada بِسْمِ اللَّهِ. Kata ini juga menjadi man'ūt bagi الرَّحْمَٰنِ dan الرَّحِيمِ dalam susunan basmalah.",
+      "status": "draft"
+    }
+  ],
+  "case_id": "case-majrur",
+  "role_id": [
+    "role-mudhaf-ilayhi",
+    "role-man'ut"
+  ],
+  "notes": "### 1. Identitas Kata\n\nاللَّهِ adalah nama khusus Allah dalam bahasa Arab. Dalam katalog lemma, bentuk kutipannya dicatat sebagai اللَّهُ, sedangkan bentuk aktual pada teks mengikuti kedudukan i'rab.\n\n### 2. Struktur Kata\n\nKata ini ditulis sebagai satu kesatuan, dengan الـ sebagai unsur definit yang melekat pada bentuk leksikalnya. Untuk keperluan analisis morfem, الـ dipisahkan sebagai segmen gramatikal, sedangkan bagian لَّهِ tetap merujuk pada lemma nama Allah.\n\n### 3. Fungsi dalam Konstruksi Iḍāfah\n\nDalam بِسْمِ اللَّهِ, kata اللَّهِ berfungsi sebagai muḍāf ilayh dari اِسْمِ. Oleh karena itu, kata tersebut berkedudukan majrur dengan tanda kasrah.\n\n### 4. Fungsi dalam Susunan Na'at\n\nDalam بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ, اللَّهِ menjadi man'ūt yang diterangkan oleh الرَّحْمَٰنِ dan الرَّحِيمِ. Kedua kata tersebut berfungsi sebagai na'at dan mengikuti man'ūt-nya dalam keadaan i'rab.\n\n### 5. Catatan Etimologis\n\nHubungan historis antara اللَّه dan الإِلٰه merupakan persoalan etimologis yang perlu dibedakan dari analisis morfologi sinkronis. Analisis ini tidak menetapkan salah satu pendapat etimologis sebagai kepastian tanpa rujukan khusus.",
+  "status": "draft",
+  "verified_by": null,
+  "verified_at": null
+},
     {
       "id": "bwa-p001-s001-w003",
       "section_id": "bwa-page-001-section-001",
