@@ -27,7 +27,6 @@
       "type": "syntactic_relation",
       "label_ar": "النعت والمنعوت",
       "label_id": "Na'at-man'ut",
-      
 "description": "### Apa itu Na'at–Man'ut (النَّعْتُ وَالْمَنْعُوتُ)?\n\n**Na'at (النَّعْتُ)** adalah kata yang menerangkan sifat atau keadaan suatu isim. **Man'ut (الْمَنْعُوتُ)** adalah isim yang diterangkan oleh na'at tersebut.\n\n### Contoh\n\n**جَاءَ الطَّالِبُ الْمُجْتَهِدُ** — Siswa yang rajin itu telah datang.\n\n- **الطَّالِبُ** adalah man'ut, yaitu isim yang diterangkan.\n- **الْمُجْتَهِدُ** adalah na'at, yaitu kata yang menerangkan sifat siswa tersebut.\n\n### Kaidah Na'at–Man'ut\n\nDalam kaidah nahwu, na'at pada umumnya mengikuti man'ut dalam beberapa hal:\n\n1. **I'rab:** marfū', manṣūb, atau majrūr.\n2. **Ma'rifah dan nakirah:** definit atau indefinit.\n3. **Gender:** mudzakkar atau mu'annats.\n4. **Jumlah:** mufrad, mutsannā, atau jamak, dengan ketentuan yang berlaku dalam bahasa Arab.\n\n### Contoh dalam Basmalah\n\n**بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ**\n\nDalam analisis yang digunakan, الرَّحْمَٰنِ dan الرَّحِيمِ berfungsi sebagai na'at bagi اللَّهِ. Keduanya mengikuti keadaan i'rab اللَّهِ, yaitu majrūr.\n\n**Catatan:** Na'at tidak sama dengan man'ut. Na'at adalah unsur yang menerangkan, sedangkan man'ut adalah unsur yang diterangkan. Relasi ini menjelaskan hubungan keduanya, bukan sekadar kedekatan posisi kata.",
       "source_label": "Naat",
       "target_label": "Man'ut",
