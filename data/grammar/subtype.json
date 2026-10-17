@@ -88,6 +88,17 @@
         "pos-isim"
       ],
       "status": "draft"
+    },
+    {
+      "id": "subtype-fiil-amr",
+      "category": "verb_form",
+      "label_ar": "فعل الأمر",
+      "label_id": "Fi'il amr",
+      "description": "Kata kerja yang digunakan untuk menyatakan perintah atau permintaan. Dalam tata bahasa Arab, fi'il amr bersifat mabni.",
+      "applies_to": [
+        "pos-fiil"
+      ],
+      "status": "draft"
     }
   ]
 }
