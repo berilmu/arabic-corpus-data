@@ -121,8 +121,10 @@
       "morphology": {
         "pattern_id": "pattern-fa'iil"
       },
-      "notes": "Dalam analisis ini, الرَّحِيمِ juga berfungsi sebagai naat bagi اللَّهِ dan berkedudukan majrur. Pola فَعِيل dicatat sebagai pola morfologis yang perlu diverifikasi.",
-      "status": "draft"
+      "notes": "الرَّحْمَٰنِ berasal dari akar kata ر ح م yang berkaitan dengan makna kasih sayang dan rahmat. Kata ini mengikuti pola morfologis فَعْلَان. Dalam بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ, الرَّحْمَٰنِ berfungsi sebagai na'at bagi اللَّهِ dan berstatus majrūr karena mengikuti man'ut-nya dalam i'rab. Tanda jar-nya adalah kasrah pada akhir kata. Makna 'Maha Pengasih' merupakan terjemahan dalam konteks nama dan sifat Allah",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
     }
   ],
   "relations": [
