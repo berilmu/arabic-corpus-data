@@ -87,6 +87,32 @@
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
+    },
+
+{
+  "id": "lemma-al",
+  "lemma": "الـ",
+  "text_plain": "ال",
+  "root_id": null,
+  "pattern_id": null,
+  "part_of_speech_id": "pos-harf",
+  "subtype_id": null,
+  "meanings": [
+    {
+      "text": "Penanda definit",
+      "language": "id",
+      "notes": "Unsur gramatikal yang melekat pada isim untuk menjadikannya definit (ma'rifah)."
+    },
+    {
+      "text": "Alif-lam ta'rif",
+      "language": "id",
+      "notes": "Nama unsur التعريف yang ditulis dengan ال dan melekat pada kata, seperti الرَّحْمَٰنِ."
     }
+  ],
+  "notes": "الـ adalah أداة التعريف (alat penanda definit) yang melekat pada isim. Unsur ini tidak memiliki i'rab mandiri. Pada huruf syamsiah, lam tidak terdengar sebagai bunyi /l/ dan huruf setelahnya dibaca dengan tasydid, seperti الرَّحْمَٰنِ. Pada huruf qamariah, lam dibaca jelas, seperti الْقَمَرُ.",
+  "status": "draft",
+  "verified_by": null,
+  "verified_at": null
+}
   ]
 }
