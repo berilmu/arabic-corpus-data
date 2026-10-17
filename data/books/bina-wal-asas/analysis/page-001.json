@@ -1,3 +1,4 @@
+
 {
   "schema_version": 1,
   "page_id": "bwa-page-001",
@@ -74,8 +75,11 @@
         }
       ],
       "case_id": "case-majrur",
-      "role_id": ["role-mudhaf-ilayhi", "role-man'ut"],
-      "notes": "اللَّهِ berstatus majrūr karena menjadi muḍāf ilayh bagi اِسْمِ dalam konstruksi بِسْمِ اللَّهِ. الرَّحْمَٰنِ dan الرَّحِيمِ berfungsi sebagai na'at bagi اللَّهِ dan mengikuti status i'rab-nya, yaitu majrūr. Terdapat pembahasan etimologis yang menghubungkan اللَّهُ dengan الْإِلَٰهُ; pembahasan tersebut dicatat sebagai catatan etimologi, bukan sebagai segmentasi morfologis yang telah dipastikan.",
+      "role_id": [
+        "role-mudhaf-ilayh",
+        "role-man'ut"
+      ],
+      "notes": "اللَّهِ berstatus majrūr karena menjadi muḍāf ilayh bagi اِسْمِ dalam konstruksi بِسْمِ اللَّهِ. الرَّحْمَٰنِ dan الرَّحِيمِ berfungsi sebagai na'at bagi اللَّهِ dan mengikuti status i'rab-nya, yaitu majrūr. Pembahasan etimologis yang menghubungkan اللَّهُ dengan الْإِلَٰهُ dicatat sebagai pembahasan etimologi, bukan sebagai segmentasi morfologis yang telah dipastikan.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
@@ -98,7 +102,7 @@
       "morphology": {
         "pattern_id": "pattern-fa'laan"
       },
-      "notes": "Dalam analisis ini, الرَّحْمَٰنِ berfungsi sebagai naat bagi اللَّهِ dan mengikuti keadaan i‘rab kata yang disifatinya. Akar ر ح م berkaitan dengan makna kasih sayang. Analisis pola morfologis perlu diverifikasi.",
+      "notes": "الرَّحْمَٰنِ berfungsi sebagai na'at bagi اللَّهِ dan mengikuti keadaan i'rab kata yang disifatinya. Akar ر ح م berkaitan dengan makna kasih sayang. Kata ini mengikuti pola morfologis فَعْلَان. Makna dan penggunaan khususnya sebagai nama atau sifat Allah perlu dipahami berdasarkan penggunaan leksikal dan konteks.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
@@ -121,10 +125,340 @@
       "morphology": {
         "pattern_id": "pattern-fa'iil"
       },
-      "notes": "الرَّحْمَٰنِ berasal dari akar kata ر ح م yang berkaitan dengan makna kasih sayang dan rahmat. Kata ini mengikuti pola morfologis فَعْلَان. Dalam بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ, الرَّحْمَٰنِ berfungsi sebagai na'at bagi اللَّهِ dan berstatus majrūr karena mengikuti man'ut-nya dalam i'rab. Tanda jar-nya adalah kasrah pada akhir kata. Makna 'Maha Pengasih' merupakan terjemahan dalam konteks nama dan sifat Allah",
+      "notes": "الرَّحِيمِ berasal dari akar ر ح م yang berkaitan dengan makna kasih sayang dan rahmat. Kata ini mengikuti pola morfologis فَعِيل. Dalam بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ, الرَّحِيمِ berfungsi sebagai na'at dan berstatus majrūr. Tanda jar-nya adalah kasrah pada akhir kata. Makna 'Maha Penyayang' merupakan terjemahan dalam konteks nama dan sifat Allah.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "bwa-p001-s002-w001",
+      "section_id": "bwa-page-001-section-002",
+      "position": 1,
+      "surface": "اِعْلَمْ",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "Ketahuilah",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": null,
+      "role_id": null,
+      "morphology": {
+        "root": "ع ل م",
+        "pattern": "اِفْعَلْ",
+        "verb_form": "fiil-amr"
+      },
+      "notes": "اِعْلَمْ adalah fi'il amr dari عَلِمَ يَعْلَمُ yang berarti 'mengetahui'. Subjeknya berupa dhamir mustatir wajib yang ditaksir أَنْتَ. Kata ini mabni 'ala as-sukun dan tidak memiliki i'rab isim berupa marfu', mansub, atau majrur. ID lemma belum diisi karena referensi lemma yang sesuai perlu diperiksa pada katalog.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-w002",
+      "section_id": "bwa-page-001-section-002",
+      "position": 2,
+      "surface": "أَنَّ",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "bahwa",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": null,
+      "role_id": null,
+      "morphology": {
+        "part_of_speech": "particle"
+      },
+      "notes": "أَنَّ adalah huruf taukid wa nasb yang menashabkan isimnya dan merafa'kan khabarnya. Dalam kalimat ini, أَبْوَابَ التَّصْرِيفِ menjadi isim أَنَّ, sedangkan خَمْسَةٌ وَثَلَاثُونَ بَابًا membentuk predikasi tentang jumlah bab. ID peran dan lemma belum ditetapkan karena perlu dicocokkan dengan katalog yang tersedia.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-w003",
+      "section_id": "bwa-page-001-section-002",
+      "position": 3,
+      "surface": "أَبْوَابَ",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "bab-bab",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": "case-mansub",
+      "role_id": null,
+      "morphology": {
+        "root": "ب و ب",
+        "pattern": "أَفْعَال"
+      },
+      "notes": "أَبْوَابَ adalah jamak taksir dari بَابٌ. Kata ini merupakan isim أَنَّ sehingga berstatus mansub dengan tanda fathah. Kata ini juga menjadi mudhaf, sedangkan التَّصْرِيفِ menjadi mudhaf ilayh. ID lemma dan ID peran perlu disesuaikan dengan katalog yang benar.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-w004",
+      "section_id": "bwa-page-001-section-002",
+      "position": 4,
+      "surface": "التَّصْرِيفِ",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "tashrif",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": "case-majrur",
+      "role_id": "role-mudhaf-ilayh",
+      "morphology": {
+        "root": "ص ر ف",
+        "pattern": "تَفْعِيل"
+      },
+      "notes": "التَّصْرِيفِ adalah mashdar dari صَرَّفَ يُصَرِّفُ تَصْرِيفًا. Kata ini menjadi mudhaf ilayh bagi أَبْوَابَ sehingga berstatus majrur dengan tanda kasrah. Akar kata dan pola yang dicatat perlu dicocokkan dengan entri leksikon yang akan digunakan.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-w005",
+      "section_id": "bwa-page-001-section-002",
+      "position": 5,
+      "surface": "خَمْسَةٌ",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "lima",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": "case-marfu",
+      "role_id": null,
+      "morphology": {
+        "number_type": "cardinal"
+      },
+      "notes": "خَمْسَةٌ adalah bagian pertama dari ungkapan bilangan خَمْسَةٌ وَثَلَاثُونَ yang menyatakan tiga puluh lima. Bersama وَثَلَاثُونَ, ungkapan bilangan ini berfungsi sebagai khabar أَنَّ. Bentuk خَمْسَةٌ marfu' dengan tanda dhammah.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-w006",
+      "section_id": "bwa-page-001-section-002",
+      "position": 6,
+      "surface": "وَثَلَاثُونَ",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "dan tiga puluh",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "segments": [
+        {
+          "id": "bwa-p001-s002-w006-seg001",
+          "surface": "وَ",
+          "lemma_id": null,
+          "meaning": [
+            {
+              "text": "dan",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": null,
+          "role_id": null,
+          "notes": "وَ adalah huruf athaf yang menghubungkan ثَلَاثُونَ dengan خَمْسَةٌ dalam ungkapan bilangan tiga puluh lima.",
+          "status": "draft"
+        },
+        {
+          "id": "bwa-p001-s002-w006-seg002",
+          "surface": "ثَلَاثُونَ",
+          "lemma_id": null,
+          "meaning": [
+            {
+              "text": "tiga puluh",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": "case-marfu",
+          "role_id": null,
+          "notes": "ثَلَاثُونَ adalah bilangan puluhan. Dalam ungkapan ini, kata tersebut diathafkan kepada خَمْسَةٌ dan berstatus marfu' dengan tanda waw karena termasuk ملحق بجمع المذكر السالم dalam i'rab.",
+          "status": "draft"
+        }
+      ],
+      "case_id": "case-marfu",
+      "role_id": null,
+      "notes": "Token وَثَلَاثُونَ terdiri atas huruf athaf وَ dan kata bilangan ثَلَاثُونَ. Secara bersama dengan خَمْسَةٌ, keduanya membentuk bilangan tiga puluh lima yang menjadi khabar أَنَّ.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-w007",
+      "section_id": "bwa-page-001-section-002",
+      "position": 7,
+      "surface": "بَابًا",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "bab",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": "case-mansub",
+      "role_id": null,
+      "morphology": {
+        "root": "ب و ب",
+        "pattern": "فَعْل"
+      },
+      "notes": "بَابًا adalah tamyiz yang menjelaskan benda yang dihitung oleh bilangan خَمْسَةٌ وَثَلَاثُونَ. Kata ini berbentuk tunggal dan mansub dengan tanda fathah. Dalam konstruksi bilangan tiga puluh satu sampai sembilan puluh sembilan, tamyiz umumnya berbentuk mufrad mansub.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-w008",
+      "section_id": "bwa-page-001-section-002",
+      "position": 8,
+      "surface": "سِتَّةٌ",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "enam",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": "case-marfu",
+      "role_id": null,
+      "morphology": {
+        "number_type": "cardinal"
+      },
+      "notes": "سِتَّةٌ merupakan bilangan yang berfungsi sebagai mubtada' pada kalimat baru yang menjelaskan bagian dari jumlah tiga puluh lima bab. Kata ini marfu' dengan tanda dhammah. Bentuk bilangan enam dengan ta marbuthah sesuai dengan kaidah pertentangan gender bilangan dan المعدود yang dipahami dalam konteks ini.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-w009",
+      "section_id": "bwa-page-001-section-002",
+      "position": 9,
+      "surface": "مِنْهَا",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "di antaranya",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "segments": [
+        {
+          "id": "bwa-p001-s002-w009-seg001",
+          "surface": "مِنْ",
+          "lemma_id": null,
+          "meaning": [
+            {
+              "text": "dari",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": null,
+          "role_id": "role-harf-jarr",
+          "notes": "مِنْ adalah huruf jar yang menyebabkan isim atau dhamir yang mengikutinya berada pada posisi jar.",
+          "status": "draft"
+        },
+        {
+          "id": "bwa-p001-s002-w009-seg002",
+          "surface": "هَا",
+          "lemma_id": null,
+          "meaning": [
+            {
+              "text": "nya",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": null,
+          "role_id": null,
+          "notes": "هَا adalah dhamir muttashil untuk pihak ketiga feminin tunggal. Dalam konteks ini, dhamir tersebut merujuk kepada أَبْوَابَ. Dhamir ini mabni dan berada pada posisi jar setelah مِنْ.",
+          "status": "draft"
+        }
+      ],
+      "case_id": null,
+      "role_id": null,
+      "notes": "مِنْهَا terdiri atas huruf jar مِنْ dan dhamir هَا. Frasa ini berarti 'di antaranya' atau 'dari bab-bab tersebut' dan menjelaskan hubungan enam bab dengan keseluruhan bab yang telah disebutkan.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-w010",
+      "section_id": "bwa-page-001-section-002",
+      "position": 10,
+      "surface": "لِلثُّلَاثِيِّ",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "untuk tsulatsi",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "segments": [
+        {
+          "id": "bwa-p001-s002-w010-seg001",
+          "surface": "لِـ",
+          "lemma_id": null,
+          "meaning": [
+            {
+              "text": "untuk",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": null,
+          "role_id": "role-harf-jarr",
+          "notes": "لِـ adalah huruf jar yang menyebabkan kata sesudahnya berstatus majrur.",
+          "status": "draft"
+        },
+        {
+          "id": "bwa-p001-s002-w010-seg002",
+          "surface": "الثُّلَاثِيِّ",
+          "lemma_id": null,
+          "meaning": [
+            {
+              "text": "tsulatsi atau triliteral",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": "case-majrur",
+          "role_id": null,
+          "notes": "الثُّلَاثِيِّ merujuk kepada sesuatu yang terdiri atas tiga huruf akar. Kata ini majrur karena didahului لِـ, dengan tanda kasrah pada akhir kata.",
+          "status": "draft"
+        }
+      ],
+      "case_id": null,
+      "role_id": null,
+      "notes": "لِلثُّلَاثِيِّ terdiri atas لِـ sebagai huruf jar dan الثُّلَاثِيِّ sebagai kata yang dijarkan. Frasa ini merupakan bagian dari keterangan yang menjelaskan enam bab yang dimaksud.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-w011",
+      "section_id": "bwa-page-001-section-002",
+      "position": 11,
+      "surface": "الْمُجَرَّدِ",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "yang tidak memiliki huruf tambahan",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": "case-majrur",
+      "role_id": "role-naat",
+      "morphology": {
+        "root": "ج ر د",
+        "pattern": "مُفَعَّل"
+      },
+      "notes": "الْمُجَرَّدِ berfungsi sebagai na'at bagi الثُّلَاثِيِّ dan mengikuti status i'rab-nya, yaitu majrur. Istilah الثُّلَاثِيُّ الْمُجَرَّدُ merujuk kepada bentuk triliteral tanpa huruf tambahan pada struktur morfologisnya.",
+      "status": "draft"
     }
   ],
   "relations": [
@@ -149,7 +483,7 @@
       "relation_id": "relation-naat-man'ut",
       "source_id": "bwa-p001-s001-w003",
       "target_id": "bwa-p001-s001-w002",
-      "notes": "الرَّحْمَٰنِ menjadi naat bagi اللَّهِ dalam analisis yang digunakan.",
+      "notes": "الرَّحْمَٰنِ menjadi naat bagi اللَّهِ.",
       "status": "draft"
     },
     {
@@ -157,7 +491,63 @@
       "relation_id": "relation-naat-man'ut",
       "source_id": "bwa-p001-s001-w004",
       "target_id": "bwa-p001-s001-w002",
-      "notes": "الرَّحِيمِ menjadi naat bagi اللَّهِ dalam analisis yang digunakan.",
+      "notes": "الرَّحِيمِ menjadi naat bagi اللَّهِ.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-rel001",
+      "relation_id": "relation-ism-anna",
+      "source_id": "bwa-p001-s002-w003",
+      "target_id": "bwa-p001-s002-w002",
+      "notes": "أَبْوَابَ merupakan isim أَنَّ dan berstatus mansub.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-rel002",
+      "relation_id": "relation-idafah",
+      "source_id": "bwa-p001-s002-w003",
+      "target_id": "bwa-p001-s002-w004",
+      "notes": "أَبْوَابَ berfungsi sebagai mudhaf dan التَّصْرِيفِ sebagai mudhaf ilayh.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-rel003",
+      "relation_id": "relation-khabar-anna",
+      "source_id": "bwa-p001-s002-w005",
+      "target_id": "bwa-p001-s002-w002",
+      "notes": "Ungkapan خَمْسَةٌ وَثَلَاثُونَ membentuk khabar أَنَّ.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-rel004",
+      "relation_id": "relation-atf",
+      "source_id": "bwa-p001-s002-w006-seg002",
+      "target_id": "bwa-p001-s002-w005",
+      "notes": "ثَلَاثُونَ diathafkan kepada خَمْسَةٌ dalam ungkapan bilangan tiga puluh lima.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-rel005",
+      "relation_id": "relation-tamyiz",
+      "source_id": "bwa-p001-s002-w007",
+      "target_id": "bwa-p001-s002-w006",
+      "notes": "بَابًا merupakan tamyiz bilangan bagi خَمْسَةٌ وَثَلَاثُونَ.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-rel006",
+      "relation_id": "relation-khabar-ismiyyah",
+      "source_id": "bwa-p001-s002-w010",
+      "target_id": "bwa-p001-s002-w008",
+      "notes": "Frasa لِلثُّلَاثِيِّ الْمُجَرَّدِ menjadi khabar bagi سِتَّةٌ.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-rel007",
+      "relation_id": "relation-naat-man'ut",
+      "source_id": "bwa-p001-s002-w011",
+      "target_id": "bwa-p001-s002-w010-seg002",
+      "notes": "الْمُجَرَّدِ menjadi na'at bagi الثُّلَاثِيِّ dan mengikuti status i'rab-nya, yaitu majrur.",
       "status": "draft"
     }
   ]
