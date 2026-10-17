@@ -110,7 +110,7 @@
         }
       ],
       "case_id": null,
-      "role_id": role-al-ta'rif,
+      "role_id": "role-al-ta'rif",
       "notes": "الـ adalah alif-lam ta'rif yang menjadikan kata definit. Bagian ini tidak memiliki i'rab mandiri.",
       "status": "draft"
     },
