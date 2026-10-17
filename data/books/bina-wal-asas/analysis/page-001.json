@@ -3,87 +3,65 @@
   "schema_version": 1,
   "page_id": "bwa-page-001",
   "analyses": [
+    
+{
+  "id": "bwa-p001-s001-w001",
+  "section_id": "bwa-page-001-section-001",
+  "position": 1,
+  "surface": "بِسْمِ",
+  "lemma_id": "lemma-ismun",
+  "meaning": [
     {
-      "id": "bwa-p001-s001-w001",
-      "section_id": "bwa-page-001-section-001",
-      "position": 1,
-      "surface": "بِسْمِ",
-      "lemma_id": "lemma-ismu",
+      "text": "Dengan nama",
+      "language": "id",
+      "type": "contextual"
+    }
+  ],
+  "segments": [
+    {
+      "id": "bwa-p001-s001-w001-seg001",
+      "surface": "بِـ",
+      "lemma_id": "lemma-bi",
       "meaning": [
         {
-          "text": "Dengan nama",
+          "text": "dengan",
           "language": "id",
           "type": "contextual"
         }
       ],
-      "segments": [
-        {
-          "id": "bwa-p001-s001-w001-seg001",
-          "surface": "بِـ",
-          "lemma_id": "lemma-bi",
-          "meaning": [
-            {
-              "text": "dengan",
-              "language": "id",
-              "type": "contextual"
-            }
-          ],
-          "case_id": null,
-          "role_id": "role-harf-jarr",
-          "notes": "Huruf jar yang menyebabkan isim yang mengikutinya berkedudukan majrur.",
-          "status": "verified",
-          "verified_by": "ms_ebta",
-          "verified_at": "2024-06-15T10:00:00Z"
-        },
-        {
-          "id": "bwa-p001-s001-w001-seg002",
-          "surface": "اِسْمِ",
-          "lemma_id": "lemma-ismun",
-          "meaning": [
-            {
-              "text": "nama",
-              "language": "id",
-              "type": "contextual"
-            }
-          ],
-          "case_id": "case-majrur",
-          "role_id": "role-mudhaf",
-          "notes": "Isim berkedudukan majrur karena didahului بِـ. Dalam konstruksi idhafah, kata ini juga berfungsi sebagai mudhaf.",
-          "status": "verified",
-          "verified_by": "ms_ebta",
-          "verified_at": "2024-06-15T10:00:00Z"
-        }
-      ],
-      "role_id": null,
       "case_id": null,
-      "notes": "Kata بِسْمِ dipertahankan sebagai satu kesatuan dalam teks, tetapi secara gramatikal dianalisis menjadi dua segmen, yaitu بِـ sebagai huruf jar dan اِسْمِ sebagai isim. Huruf jar بِـ menyebabkan اِسْمِ berstatus majrūr, sedangkan اِسْمِ sekaligus berfungsi sebagai muḍāf dalam konstruksi idhafah dengan اللَّهِ sebagai muḍāf ilayh.",
+      "role_id": "role-harf-jarr",
+      "notes": "بِـ adalah huruf jar yang masuk pada isim dan menyebabkan isim yang berkaitan dengannya berkedudukan majrur. Huruf jar itu sendiri tidak memiliki i'rab seperti isim.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
     },
     {
-      "id": "bwa-p001-s001-w002",
-      "section_id": "bwa-page-001-section-001",
-      "position": 2,
-      "surface": "اللَّهِ",
-      "lemma_id": "lemma-allahu",
+      "id": "bwa-p001-s001-w001-seg002",
+      "surface": "اِسْمِ",
+      "lemma_id": "lemma-ismun",
       "meaning": [
         {
-          "text": "Allah",
+          "text": "nama",
           "language": "id",
           "type": "contextual"
         }
       ],
       "case_id": "case-majrur",
-      "role_id": [
-        "role-mudhaf-ilayh",
-        "role-man'ut"
-      ],
-      "notes": "اللَّهِ berstatus majrūr karena menjadi muḍāf ilayh bagi اِسْمِ dalam konstruksi بِسْمِ اللَّهِ. الرَّحْمَٰنِ dan الرَّحِيمِ berfungsi sebagai na'at bagi اللَّهِ dan mengikuti status i'rab-nya, yaitu majrūr. Pembahasan etimologis yang menghubungkan اللَّهُ dengan الْإِلَٰهُ dicatat sebagai pembahasan etimologi, bukan sebagai segmentasi morfologis yang telah dipastikan.",
+      "role_id": "role-mudhaf",
+      "notes": "اِسْمِ berasal dari lemma اِسْمٌ. Dalam بِسْمِ, isim ini berkedudukan majrur karena didahului huruf jar بِـ. Isim ini sekaligus berfungsi sebagai muḍāf dalam konstruksi iḍāfah dengan اللَّهِ sebagai muḍāf ilayh.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
-    },
+    }
+  ],
+  "case_id": "case-majrur",
+  "role_id": "role-mudhaf",
+  "notes": "### 1. Struktur Kata\n\nبِسْمِ terdiri atas dua segmen, yaitu بِـ sebagai huruf jar dan اِسْمِ sebagai isim. Keduanya ditulis sebagai satu kesatuan dalam teks.\n\n### 2. Fungsi Huruf Jar\n\nHuruf بِـ masuk pada اِسْمِ dan menyebabkan isim tersebut berkedudukan majrur. Dalam bentuk ini, tanda jar berupa kasrah pada akhir اِسْمِ.\n\n### 3. Fungsi dalam Konstruksi Iḍāfah\n\nاِسْمِ juga berfungsi sebagai muḍāf dalam konstruksi iḍāfah بِسْمِ اللَّهِ. Kata اللَّهِ menjadi muḍāf ilayh dan berkedudukan majrur.\n\n### 4. Makna Kontekstual\n\nDalam ungkapan بِسْمِ اللَّهِ, بِسْمِ secara kontekstual berarti 'dengan nama'. Makna keseluruhan ungkapan dipahami berdasarkan hubungan antarkata dan penggunaannya dalam konteks.",
+  "status": "verified",
+  "verified_by": "ms_ebta",
+  "verified_at": "2024-06-15T10:00:00Z"
+},
     {
       "id": "bwa-p001-s001-w003",
       "section_id": "bwa-page-001-section-001",
