@@ -4,30 +4,30 @@
   "cases": [
     {
       "id": "case-marfu",
-      "label_ar": "مَرْفُوع",
+      "label_ar": "مَرْفُوعٌ",
       "label_id": "Marfu",
-      "description": "Keadaan i'rab berupa rafa.",
+      "description": "Keadaan i'rab yang disebut rafa'. Isim dapat berstatus marfū' karena kedudukan gramatikalnya, misalnya sebagai mubtada', khabar, atau fā'il. Fi'il mudhari juga dapat berstatus marfū' apabila tidak didahului oleh unsur yang menyebabkan nashab atau jazm.",
       "status": "draft"
     },
     {
       "id": "case-manshub",
-      "label_ar": "مَنْصُوب",
+      "label_ar": "مَنْصُوبٌ",
       "label_id": "Manshub",
-      "description": "Keadaan i'rab berupa nashab.",
+      "description": "Keadaan i'rab yang disebut nashab. Isim dapat berstatus manṣūb karena kedudukan gramatikalnya, misalnya sebagai maf'ūl bih. Fi'il mudhari juga dapat berstatus manṣūb apabila didahului oleh unsur yang menyebabkan nashab.",
       "status": "draft"
     },
     {
       "id": "case-majrur",
-      "label_ar": "مَجْرُور",
+      "label_ar": "مَجْرُورٌ",
       "label_id": "Majrur",
-      "description": "### Apa itu Majrūr (مَجْرُورٌ)?\n\n**Majrūr** adalah sebutan bagi isim yang berada dalam keadaan i'rab jar (الْجَرُّ). Jar merupakan salah satu keadaan i'rab yang khusus dimiliki isim.\n\n### Penyebab Jar\nIsim dapat menjadi majrūr karena beberapa sebab, antara lain:\n. **Didahului huruf jar**, seperti الْبَيْتِ dalam فِي الْبَيْتِ (di dalam rumah).\n2. **Menjadi muḍāf ilayh**, seperti الطَّالِبِ dalam كِتَابُ الطَّالِبِ (buku siswa).\n3. **Mengikuti kata yang majrūr**, misalnya sebagai na'at (نَعْتٌ) yang mengikuti man'ut-nya dalam keadaan i'rab.\n\n### Tanda Jar\n\nTanda jar yang umum adalah:\n- **Kasrah (الْكَسْرَةُ)**, seperti الْبَيْتِ.\n- **Yā' (الْيَاءُ)**, seperti الطَّالِبَيْنِ dalam bentuk isim mutsannā dan pada jamak mudzakkar sālim.\n- **Fatḥah (الْفَتْحَةُ)** pada isim yang tidak menerima kasrah (الْمَمْنُوعُ مِنَ الصَّرْفِ), dalam kondisi tertentu.\n\n**Catatan:** Majrūr adalah keadaan kata dari sisi i'rab, sedangkan kasrah, yā', atau fatḥah merupakan tanda yang menunjukkan keadaan tersebut. Tidak semua isim majrūr harus berakhir dengan kasrah",
+      "description": "### Apa itu Majrūr (مَجْرُورٌ)?\n\n**Majrūr** adalah sebutan bagi isim yang berada dalam keadaan i'rab jar (الْجَرُّ). Jar merupakan salah satu keadaan i'rab yang khusus dimiliki isim.\n\n### Penyebab Jar\n\nIsim dapat menjadi majrūr karena beberapa sebab, antara lain:\n\n1. **Didahului huruf jar**, seperti الْبَيْتِ dalam فِي الْبَيْتِ (di dalam rumah).\n2. **Menjadi muḍāf ilayh**, seperti الطَّالِبِ dalam كِتَابُ الطَّالِبِ (buku siswa).\n3. **Mengikuti kata yang majrūr**, misalnya sebagai na'at (نَعْتٌ) yang mengikuti man'ut-nya dalam keadaan i'rab.\n\n### Tanda Jar\n\nTanda jar yang umum adalah:\n\n- **Kasrah (الْكَسْرَةُ)**, seperti الْبَيْتِ.\n- **Yā' (الْيَاءُ)**, seperti pada الطَّالِبَيْنِ dalam keadaan jar untuk isim mutsannā, atau pada bentuk jamak mudzakkar sālim seperti الْمُسْلِمِينَ.\n- **Fatḥah (الْفَتْحَةُ)** pada isim yang termasuk الْمَمْنُوعُ مِنَ الصَّرْفِ, dalam kondisi tertentu.\n\n**Catatan:** Majrūr adalah keadaan kata dari sisi i'rab, sedangkan kasrah, yā', atau fatḥah merupakan tanda yang menunjukkan keadaan tersebut. Tidak semua isim majrūr harus berakhir dengan kasrah.",
       "status": "draft"
     },
     {
       "id": "case-majzum",
-      "label_ar": "مَجْزُوم",
+      "label_ar": "مَجْزُومٌ",
       "label_id": "Majzum",
-      "description": "Keadaan i'rab berupa jazm, khususnya pada fi'il mudhari yang memenuhi ketentuannya.",
+      "description": "Keadaan i'rab yang disebut jazm. Jazm khusus berlaku pada fi'il mudhari yang memenuhi ketentuannya, misalnya karena didahului oleh لَمْ atau لَا النَّاهِيَةُ. Tanda jazm dapat berupa sukun, penghapusan huruf illat, atau penghapusan nun, sesuai bentuk fi'il dan kaidah yang berlaku.",
       "status": "draft"
     }
   ]
