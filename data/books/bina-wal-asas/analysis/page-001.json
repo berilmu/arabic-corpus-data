@@ -55,7 +55,7 @@
       ],
       "role_id": null,
       "case_id": null,
-      "notes": "Tulisan بِسْمِ dipertahankan sebagai satu kesatuan, sedangkan بِـ dan اِسْمِ dianalisis sebagai dua segmen.",
+      "notes": "Kata بِسْمِ dipertahankan sebagai satu kesatuan dalam teks, tetapi secara gramatikal dianalisis menjadi dua segmen, yaitu بِـ sebagai huruf jar dan اِسْمِ sebagai isim. Huruf jar بِـ menyebabkan اِسْمِ berstatus majrūr, sedangkan اِسْمِ sekaligus berfungsi sebagai muḍāf dalam konstruksi idhafah dengan اللَّهِ sebagai muḍāf ilayh.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
