@@ -103,6 +103,30 @@
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "subtype-fiil-madhi",
+      "category": "verb_form",
+      "label_ar": "فعل الماضي",
+      "label_id": "Fi'il madhi",
+      "description": "Kata kerja bentuk lampau yang menunjukkan perbuatan atau keadaan yang telah terjadi. Dalam tata bahasa Arab, fi'il madhi bersifat mabni.",
+      "applies_to": [
+        "pos-fiil"
+      ],
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "subtype-fiil-mudhari",
+      "category": "verb_form",
+      "label_ar": "فعل المضارع",
+      "label_id": "Fi'il mudhari'",
+      "description": "Kata kerja bentuk sekarang atau akan datang yang menunjukkan perbuatan atau keadaan yang sedang terjadi atau akan terjadi. Dalam tata bahasa Arab, fi'il mudhari' bersifat mabni.",
+      "applies_to": [
+        "pos-fiil"
+      ],
+      "status": "draft"
     }
   ]
 }

@@ -10,7 +10,7 @@
       "root_id": "root-nglm",
       "pattern_id": "pattern-fa'ila",
       "part_of_speech_id": "pos-fiil",
-      "subtype_id": null,
+      "subtype_id": "subtype-fiil-madhi",
       "meanings": [
         {
           "text": "Mengetahui",
@@ -18,7 +18,7 @@
           "notes": "Makna leksikal dasar dari عَلِمَ. Dalam konteks اِعْلَمْ, kata ini digunakan dalam bentuk fi'il amr dengan makna 'ketahuilah'."
         }
       ],
-      "notes": "Lema عَلِمَ merupakan fi'il madhi dari akar ع ل م. Bentuk اِعْلَمْ adalah fi'il amr untuk orang kedua tunggal laki-laki. Pola فَعِلَ dicatat sebagai pola morfologis, sedangkan اِفْعَلْ merupakan pola bentuk perintahnya.",
+      "notes": "اِعْلَمْ adalah fi'il amr dari عَلِمَ يَعْلَمُ yang berarti 'mengetahui'. Subjeknya berupa dhamir mustatir wajib yang ditaksir أَنْتَ. Kata ini mabni 'ala as-sukun dan tidak memiliki i'rab isim berupa marfu', mansub, atau majrur.",
       "status": "draft",
       "verified_by": null,
       "verified_at": null
