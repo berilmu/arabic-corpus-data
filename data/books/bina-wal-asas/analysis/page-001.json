@@ -119,29 +119,63 @@
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
     },
-    {
-      "id": "bwa-p001-s001-w004",
-      "section_id": "bwa-page-001-section-001",
-      "position": 4,
-      "surface": "الرَّحِيمِ",
-      "lemma_id": "lemma-arrahiimu",
-      "meaning": [
-        {
-          "text": "Yang Maha Penyayang",
-          "language": "id",
-          "type": "contextual"
-        }
-      ],
-      "case_id": "case-majrur",
-      "role_id": "role-naat",
-      "morphology": {
-        "pattern_id": "pattern-fa'iil"
+  {
+    "id": "bwa-p001-s001-w004",
+    "section_id": "bwa-page-001-section-001",
+    "position": 4,
+    "surface": "الرَّحِيمِ",
+    "lemma_id": "lemma-rahiimu",
+    "meaning": [
+      {
+        "text": "Yang Maha Penyayang",
+        "language": "id",
+        "type": "contextual"
+      }
+    ],
+    "segments": [
+      {
+        "id": "bwa-p001-s001-w004-seg001",
+        "surface": "الـ",
+        "lemma_id": "lemma-al",
+        "meaning": [
+          {
+            "text": "penanda definit",
+            "language": "id",
+            "type": "grammatical"
+          }
+        ],
+        "case_id": null,
+        "role_id": "role-al-ta'rif",
+        "notes": "الـ adalah أداة التعريف yang melekat pada isim untuk menjadikannya definit (ma'rifah). Unsur ini tidak memiliki i'rab mandiri.",
+        "status": "draft"
       },
-      "notes": "الرَّحِيمِ berasal dari akar ر ح م yang berkaitan dengan makna kasih sayang dan rahmat. Kata ini mengikuti pola morfologis فَعِيل. Dalam بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ, الرَّحِيمِ berfungsi sebagai na'at dan berstatus majrūr. Tanda jar-nya adalah kasrah pada akhir kata. Makna 'Maha Penyayang' merupakan terjemahan dalam konteks nama dan sifat Allah.",
-      "status": "verified",
-      "verified_by": "ms_ebta",
-      "verified_at": "2024-06-15T10:00:00Z"
+      {
+        "id": "bwa-p001-s001-w004-seg002",
+        "surface": "رَحِيمِ",
+        "lemma_id": "lemma-rahiimu",
+        "meaning": [
+          {
+            "text": "penyayang",
+            "language": "id",
+            "type": "contextual"
+          }
+        ],
+        "case_id": "case-majrur",
+        "role_id": "role-naat",
+        "notes": "Bagian leksikal ini berasal dari akar ر ح م dan mengikuti pola فَعِيل. Dalam kata utuh الرَّحِيمِ, status majrur ditentukan oleh fungsi sintaksis kata tersebut dalam kalimat, bukan oleh segmen ini secara terpisah.",
+        "status": "draft"
+      }
+    ],
+    "case_id": "case-majrur",
+    "role_id": "role-naat",
+    "morphology": {
+      "pattern_id": "pattern-fa'iil"
     },
+    "notes": "### 1. Akar Kata\n\nKata الرَّحِيمِ berasal dari akar triliteral ر ح م yang berkaitan dengan medan makna rahmat, kasih sayang, dan belas kasih.\n\n### 2. Pembentukan Morfologis\n\nBentuk رَحِيم mengikuti pola فَعِيل. Pada pola ini, ف melambangkan huruf akar pertama, ع melambangkan huruf akar kedua, dan ل melambangkan huruf akar ketiga. Pada akar ر ح م, ketiga huruf tersebut berkorespondensi dengan ر، ح، dan م. Pola فَعِيل digunakan dalam berbagai kata dengan nuansa makna yang beragam; makna khusus kata ini tidak ditentukan oleh pola saja.\n\n### 3. Penambahan ال\n\nالـ merupakan penanda definit yang melekat pada رَحِيم sehingga terbentuk الرَّحِيم. Karena ر termasuk huruf syamsiah, lam pada الـ mengalami idgham dalam pelafalan dan ر dibaca dengan tasydid. Tasydid tersebut merupakan kaidah pelafalan, bukan perubahan akar atau pola morfologis.\n\n### 4. Makna Kontekstual\n\nDalam konteks nama dan sifat Allah, الرَّحِيمِ diterjemahkan sebagai 'Yang Maha Penyayang'. Terjemahan tersebut mencerminkan pemakaian kata dalam konteks keagamaan.\n\n### 5. Fungsi dalam Kalimat\n\nDalam بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ, الرَّحِيمِ berfungsi sebagai na'at bagi اللَّهِ dan juga selaras dengan الرَّحْمَٰنِ sebagai sifat yang menerangkan Allah. Kata ini berstatus majrur dengan tanda kasrah karena mengikuti man'ut-nya dalam keadaan i'rab.",
+    "status": "draft",
+    "verified_by": null,
+    "verified_at": null
+  },
     {
       "id": "bwa-p001-s002-w001",
       "section_id": "bwa-page-001-section-002",
