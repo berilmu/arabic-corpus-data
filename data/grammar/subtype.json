@@ -10,7 +10,9 @@
       "applies_to": [
         "pos-isim"
       ],
-      "status": "draft"
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
     },
     {
       "id": "subtype-isim-muthanna",
@@ -98,7 +100,9 @@
       "applies_to": [
         "pos-fiil"
       ],
-      "status": "draft"
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
     }
   ]
 }
