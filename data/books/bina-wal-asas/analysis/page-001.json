@@ -97,6 +97,40 @@
           "type": "contextual"
         }
       ],
+"segments": [
+    {
+      "id": "bwa-p001-s001-w003-seg001",
+      "surface": "الـ",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "penanda definit",
+          "language": "id",
+          "type": "grammatical"
+        }
+      ],
+      "case_id": null,
+      "role_id": null,
+      "notes": "الـ adalah alif-lam ta'rif yang menjadikan kata definit. Bagian ini tidak memiliki i'rab mandiri.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s001-w003-seg002",
+      "surface": "رَحْمَٰنِ",
+      "lemma_id": null,
+      "meaning": [
+        {
+          "text": "pengasih",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "case_id": "case-majrur",
+      "role_id": "role-naat",
+      "notes": "Bagian leksikal yang mengikuti pola فَعْلَان. Dalam kata utuh الرَّحْمَٰنِ, status majrur ditentukan oleh fungsi sintaksis kata tersebut, bukan oleh segmen ini secara terpisah.",
+      "status": "draft"
+    }
+  ],
       "case_id": "case-majrur",
       "role_id": "role-naat",
       "morphology": {
