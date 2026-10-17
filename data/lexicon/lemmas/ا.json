@@ -43,7 +43,7 @@
           "notes": "Nama khusus Tuhan dalam Islam."
         }
       ],
-      "notes": "Hubungan historis antara اللَّه dan الإِلٰه merupakan persoalan etimologis yang perlu dibedakan dari analisis morfologi sinkronis. Bentuk اللَّهُ digunakan sebagai bentuk kutipan lemma; harakat akhir dapat berubah sesuai kedudukan i'rab.",
+      "notes": "Hubungan historis antara اللَّه dan الإِلٰه merupakan persoalan etimologis yang perlu dibedakan dari analisis morfologi sinkronis. Bentuk lemma dicatat sebagai bentuk kutipan, sedangkan analisis gramatikal pada teks dapat mencatat fungsi dan keadaan i'rab sesuai konteks.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
@@ -63,13 +63,13 @@
           "notes": "Makna khusus sebagai salah satu nama atau sifat Allah dalam konteks keagamaan."
         }
       ],
-      "notes": "Berasal dari akar ر ح م yang berkaitan dengan rahmat. Bentuk رَحْمَٰنُ mengikuti pola فَعْلَان. Alif kecil di atas م menandai vokal panjang ā dalam ejaan mushaf; tanda tersebut bukan morfem tersendiri. Bentuk dengan ال, yaitu الرَّحْمَٰنُ, merupakan bentuk definit. Harakat akhir dapat berubah mengikuti i'rab, misalnya الرَّحْمَٰنِ dalam basmalah.",
+      "notes": "Berasal dari akar ر ح م yang berkaitan dengan rahmat. Bentuk ini mengikuti pola فَعْلَان. Alif kecil di atas م pada penulisan mushaf menandai vokal panjang ā dan merupakan konvensi ortografis, bukan morfem tersendiri. Pola فَعْلَان dapat memiliki nuansa makna yang berbeda bergantung pada kata dan konteks; makna khusus lema ini tidak dapat ditentukan hanya dari polanya.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
     },
     {
-      "id": "lemma-arrahiimu",
+      "id": "lemma-rahiimu",
       "lemma": "رَحِيمٌ",
       "text_plain": "رحيم",
       "root_id": "root-rhm",
@@ -83,7 +83,7 @@
           "notes": "Makna khusus sebagai salah satu nama atau sifat Allah dalam konteks keagamaan."
         }
       ],
-      "notes": "Berasal dari akar ر ح م dan mengikuti pola فَعِيل. Pola ini dicatat sebagai pola morfologis, bukan sebagai aturan yang otomatis menentukan satu makna universal. Bentuk الرَّحِيمُ merupakan bentuk definit; harakat akhir dapat berubah mengikuti i'rab, misalnya الرَّحِيمِ dalam basmalah.",
+      "notes": "Berasal dari akar ر ح م yang berkaitan dengan rahmat dan mengikuti pola فَعِيل. Pola فَعِيل digunakan dalam berbagai kata dengan nuansa makna yang beragam; makna khusus lema ini perlu dipahami berdasarkan pemakaian dan konteksnya, bukan hanya berdasarkan pola morfologis.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
@@ -105,10 +105,10 @@
         {
           "text": "Alif-lam ta'rif",
           "language": "id",
-          "notes": "Nama unsur الـ yang melekat pada isim, seperti pada الرَّحْمَٰنِ."
+          "notes": "Nama unsur الـ yang melekat pada isim untuk menandai definit."
         }
       ],
-      "notes": "الـ adalah أداة التعريف, yaitu penanda definit yang melekat pada isim. Unsur ini tidak memiliki i'rab mandiri. Pada huruf syamsiah, lam mengalami idgham dalam pelafalan, seperti الرَّحْمَٰنِ. Pada huruf qamariah, lam dibaca jelas, seperti الْقَمَرُ.",
+      "notes": "الـ adalah أداة التعريف, yaitu unsur gramatikal yang melekat pada isim untuk menjadikannya definit (ma'rifah). Unsur ini tidak memiliki i'rab mandiri. Dalam pelafalan, lam mengalami idgham ketika diikuti huruf syamsiah, sedangkan lam dibaca jelas ketika diikuti huruf qamariah.",
       "status": "draft",
       "verified_by": null,
       "verified_at": null
