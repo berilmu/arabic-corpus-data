@@ -136,7 +136,6 @@
       "position": 1,
       "surface": "اِعْلَمْ",
       "lemma_id": "lemma-ngalima",
-      "pattern_id": "pattern-ifal",
       "meaning": [
         {
           "text": "Ketahuilah",
@@ -147,11 +146,9 @@
       "case_id": null,
       "role_id": null,
       "morphology": {
-        "root": "ع ل م",
-        "pattern": "اِفْعَلْ",
-        "verb_form": "fiil-amr"
+        "pattern_id": "pattern-ifal"
       },
-      "notes": "اِعْلَمْ adalah fi'il amr dari عَلِمَ يَعْلَمُ yang berarti 'mengetahui'. Subjeknya berupa dhamir mustatir wajib yang ditaksir أَنْتَ. Kata ini mabni 'ala as-sukun dan tidak memiliki i'rab isim berupa marfu', mansub, atau majrur. ID lemma belum diisi karena referensi lemma yang sesuai perlu diperiksa pada katalog.",
+      "notes":"اِعْلَمْ adalah fi'il amr dari عَلِمَ يَعْلَمُ yang berarti 'mengetahui'. Subjeknya berupa dhamir mustatir wajib yang ditaksir أَنْتَ. Kata ini mabni 'ala as-sukun dan tidak memiliki i'rab isim berupa marfu', mansub, atau majrur.",
       "status": "draft"
     },
     {
