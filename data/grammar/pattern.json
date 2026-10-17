@@ -10,11 +10,11 @@
       "semantic_functions": [
         {
           "id": "semantic-intensity",
-          "label_id": "Intensitas atau keadaan yang menonjol",
-          "description": "Kemungkinan kontribusi makna pola dalam kata tertentu."
+          "label_id": "Keadaan atau sifat yang menonjol",
+          "description": "Pola فَعْلَان sering ditemukan pada kata sifat yang menggambarkan keadaan atau kondisi yang menonjol, kuat, atau intens. Kecenderungan ini tidak berlaku mutlak pada semua kata yang mengikuti pola tersebut."
         }
       ],
-      "notes": "### Wazan فَعْلَان (Fa'laan)\n\nWazan فَعْلَان adalah salah satu pola morfologis dalam bahasa Arab yang sering digunakan untuk membentuk isim atau sifat yang menunjukkan keadaan, kondisi, atau intensitas tertentu.\n\n### Struktur Pola\n\nPola ini tersusun atas:\n- **فَ**: mewakili huruf akar pertama.\n- **عْ**: mewakili huruf akar kedua.\n- **لَان**: mewakili huruf akar ketiga yang diikuti alif dan nun sebagai bagian dari pola.\n\n### Makna dan Penggunaan\n\nWazan فَعْلَان sering ditemukan pada kata sifat yang menunjukkan keadaan yang kuat atau menonjol, seperti:\n- **غَضْبَانُ**: marah.\n- **عَطْشَانُ**: haus.\n- **جَوْعَانُ**: lapar.\n\nPola ini juga ditemukan pada kata **الرَّحْمَٰنُ**, yang bermakna Maha Pengasih ketika digunakan sebagai nama atau sifat Allah.\n\n**Catatan:** Makna suatu kata tidak dapat ditentukan hanya berdasarkan wazannya. Arti dan fungsi kata harus dipahami berdasarkan akar kata, penggunaan, dan konteksnya.",
+      "notes": "### Wazan فَعْلَان (Fa'laan)\n\nWazan فَعْلَان adalah pola morfologis dalam bahasa Arab yang digunakan untuk membentuk sejumlah kata, terutama kata sifat yang menggambarkan keadaan atau kondisi tertentu.\n\n### Struktur Pola\n\nPola ini menggunakan tiga huruf ف، ع، dan ل sebagai lambang bagi tiga huruf akar kata:\n\n- **ف** mewakili huruf akar pertama.\n- **ع** mewakili huruf akar kedua.\n- **ل** mewakili huruf akar ketiga.\n\nPada pola فَعْلَان, huruf akar pertama berharakat fatḥah, huruf akar kedua bersukun, dan huruf akar ketiga berharakat fatḥah serta diikuti alif dan nun sebagai unsur pola.\n\n### Contoh Penggunaan\n\n- **غَضْبَانُ**: marah.\n- **عَطْشَانُ**: haus.\n- **جَوْعَانُ**: lapar.\n\nKetiga kata tersebut menggambarkan keadaan yang dialami seseorang. Pola ini juga terdapat pada **الرَّحْمَٰنُ**, yang digunakan sebagai nama atau sifat Allah dan lazim diterjemahkan sebagai Maha Pengasih.\n\n### Makna Semantis\n\nPola فَعْلَان dapat berkaitan dengan keadaan atau sifat yang menonjol. Namun, makna kata tidak dapat ditentukan hanya dari pola morfologisnya. Akar kata, penggunaan leksikal, dan konteks harus ikut dipertimbangkan.\n\n**Catatan:** Bentuk kata yang mengikuti pola ini dapat mengalami perubahan harakat akhir karena i'rab. Perubahan tersebut tidak dengan sendirinya mengubah pola morfologisnya.",
       "status": "draft"
     },
     {
@@ -25,11 +25,11 @@
       "semantic_functions": [
         {
           "id": "semantic-quality",
-          "label_id": "Sifat atau kualitas",
-          "description": "Pola ini sering ditemukan pada kata yang menyatakan sifat atau kualitas."
+          "label_id": "Sifat, kualitas, atau makna leksikal tertentu",
+          "description": "Pola فَعِيل digunakan dalam berbagai jenis kata, termasuk kata sifat yang menyatakan kualitas atau sifat. Makna khususnya bergantung pada akar kata dan penggunaan leksikal."
         }
       ],
-      "notes": "Pola فَعِيل memiliki beragam penggunaan morfologis dan semantis. Fungsi pada setiap kata perlu dianalisis berdasarkan konteks dan rujukan.",
+      "notes": "### Wazan فَعِيل (Fa'iil)\n\nWazan فَعِيل adalah salah satu pola morfologis dalam bahasa Arab yang digunakan untuk membentuk berbagai kata. Pola ini sering ditemukan pada kata sifat, tetapi juga dapat muncul pada kata dengan fungsi dan makna leksikal lainnya.\n\n### Struktur Pola\n\nPola ini menggunakan tiga huruf ف، ع، dan ل sebagai lambang bagi tiga huruf akar kata:\n\n- **ف** mewakili huruf akar pertama.\n- **ع** mewakili huruf akar kedua.\n- **ل** mewakili huruf akar ketiga.\n\nPada pola فَعِيل, huruf akar pertama berharakat fatḥah, huruf akar kedua berharakat kasrah, dan setelah huruf akar ketiga terdapat yā' panjang.\n\n### Contoh Penggunaan\n\n- **كَرِيمٌ**: mulia atau dermawan.\n- **عَظِيمٌ**: agung atau besar.\n- **رَحِيمٌ**: Maha Penyayang atau penyayang, sesuai konteks.\n\n### Makna Semantis\n\nPola فَعِيل dapat digunakan untuk menyatakan sifat atau kualitas, tetapi tidak mempunyai satu makna yang berlaku untuk semua kata. Makna dan fungsi setiap kata harus ditentukan berdasarkan akar kata, penggunaan dalam bahasa Arab, dan konteksnya.\n\n**Catatan:** Wazan merupakan pola pembentukan kata, sedangkan harakat akhir pada bentuk aktual dapat berubah sesuai keadaan i'rab.",
       "status": "draft"
     }
   ]
