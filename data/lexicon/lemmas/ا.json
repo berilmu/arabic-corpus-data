@@ -87,26 +87,6 @@
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
-    },
-    {
-      "id": "lemma-alima",
-      "lemma": "عَلِمَ",
-      "text_plain": "علم",
-      "root_id": "root-alm",
-      "pattern_id": "pattern-fa'ila",
-      "part_of_speech_id": "pos-fiil",
-      "subtype_id": null,
-      "meanings": [
-        {
-          "text": "Mengetahui",
-          "language": "id",
-          "notes": "Makna leksikal dasar dari عَلِمَ. Dalam konteks اِعْلَمْ, kata ini digunakan dalam bentuk fi'il amr dengan makna 'ketahuilah'."
-        }
-      ],
-      "notes": "Lema عَلِمَ merupakan fi'il madhi dari akar ع ل م. Bentuk اِعْلَمْ adalah fi'il amr untuk orang kedua tunggal laki-laki. Pola فَعِلَ dicatat sebagai pola morfologis, sedangkan اِفْعَلْ merupakan pola bentuk perintahnya.",
-      "status": "draft",
-      "verified_by": null,
-      "verified_at": null
     }
   ]
 }
