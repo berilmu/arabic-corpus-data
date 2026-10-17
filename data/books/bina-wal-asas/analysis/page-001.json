@@ -150,7 +150,9 @@
         "subtype_id": "subtype-fiil-amr"
       },
       "notes":"اِعْلَمْ adalah fi'il amr dari عَلِمَ يَعْلَمُ yang berarti 'mengetahui'. Subjeknya berupa dhamir mustatir wajib yang ditaksir أَنْتَ. Kata ini mabni 'ala as-sukun dan tidak memiliki i'rab isim berupa marfu', mansub, atau majrur.",
-      "status": "draft"
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
     },
     {
       "id": "bwa-p001-s002-w002",
