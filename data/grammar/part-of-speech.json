@@ -13,5 +13,11 @@
       "arabic": "اِسْمٌ",
       "english": "Noun"
     }
+    {
+      "id": "pos-fiil",
+      "code": "fiil",
+      "arabic": "فِعْلٌ",
+      "english": "Verb"
+    }
   ]
 }
