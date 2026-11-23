@@ -247,7 +247,7 @@
       ],
       "case_id": null,
       "bina_id": "bina-mabni-ala-sukun",
-      "role_id": null,
+      "role_id": "role-fiil-amr",
       "morphology": {
         "pattern_id": "pattern-ifal",
         "subtype_id": "subtype-fiil-amr"
