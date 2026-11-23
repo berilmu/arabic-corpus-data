@@ -1,4 +1,3 @@
-
 {
   "schema_version": "1.0.0",
   "initial": "ع",
@@ -15,10 +14,10 @@
         {
           "text": "Mengetahui",
           "language": "id",
-          "notes": "Makna leksikal dasar dari عَلِمَ. Dalam konteks اِعْلَمْ, kata ini digunakan dalam bentuk fi'il amr dengan makna 'ketahuilah'."
+          "notes": "Makna mengetahui merujuk pada keadaan ketika seseorang memperoleh atau memiliki pengetahuan tentang sesuatu. Dalam bahasa Arab, عَلِمَ dapat digunakan untuk menyatakan tindakan mengetahui, mengenali, atau memahami suatu hal. Makna spesifiknya dapat menyesuaikan konteks kalimat."
         }
       ],
-      "notes": "اِعْلَمْ adalah fi'il amr dari عَلِمَ يَعْلَمُ yang berarti 'mengetahui'. Subjeknya berupa dhamir mustatir wajib yang ditaksir أَنْتَ. Kata ini mabni 'ala as-sukun dan tidak memiliki i'rab isim berupa marfu', mansub, atau majrur.",
+      "notes": "عَلِمَ merupakan fi'il tsulātsi mujarrad (kata kerja dasar yang tersusun dari tiga huruf asli), dengan akar kata ع ل م. Kata ini mengikuti pola فَعِلَ dan memiliki makna dasar mengetahui, mengenali, atau memahami sesuatu.\n\nBentuk fi'il mudhāri'-nya adalah يَعْلَمُ, sedangkan bentuk mashdar-nya adalah عِلْمٌ. Dari akar kata yang sama terbentuk berbagai kata turunan yang berkaitan dengan pengetahuan, seperti عِلْمٌ (pengetahuan), عَالِمٌ (orang yang mengetahui), dan مَعْلُومٌ (sesuatu yang diketahui).",
       "status": "draft",
       "verified_by": null,
       "verified_at": null

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0.0",
+  "initial": "ر",
+  "lemmas": [
+    {
+      "id": "lemma-rahmaanu",
+      "lemma": "رَحْمَٰنُ",
+      "text_plain": "رحمن",
+      "root_id": "root-rhm",
+      "pattern_id": "pattern-fa'laan",
+      "part_of_speech_id": "pos-isim",
+      "subtype_id": "subtype-isim-mufrad",
+      "meanings": [
+        {
+          "text": "Maha Pengasih",
+          "language": "id",
+          "notes": "Makna khusus sebagai salah satu nama atau sifat Allah dalam konteks keagamaan."
+        }
+      ],
+      "notes": "Berasal dari akar ر ح م yang berkaitan dengan rahmat. Bentuk ini mengikuti pola فَعْلَان. Alif kecil di atas م pada penulisan mushaf menandai vokal panjang ā dan merupakan konvensi ortografis, bukan morfem tersendiri. Pola فَعْلَان dapat memiliki nuansa makna yang berbeda bergantung pada kata dan konteks; makna khusus lema ini tidak dapat ditentukan hanya dari polanya.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "lemma-rahiimu",
+      "lemma": "رَحِيمٌ",
+      "text_plain": "رحيم",
+      "root_id": "root-rhm",
+      "pattern_id": "pattern-fa'iil",
+      "part_of_speech_id": "pos-isim",
+      "subtype_id": "subtype-isim-mufrad",
+      "meanings": [
+        {
+          "text": "Maha Penyayang",
+          "language": "id",
+          "notes": "Makna khusus sebagai salah satu nama atau sifat Allah dalam konteks keagamaan."
+        }
+      ],
+      "notes": "Berasal dari akar ر ح م yang berkaitan dengan rahmat dan mengikuti pola فَعِيل. Pola فَعِيل digunakan dalam berbagai kata dengan nuansa makna yang beragam; makna khusus lema ini perlu dipahami berdasarkan pemakaian dan konteksnya, bukan hanya berdasarkan pola morfologis.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    }
+  ]
+}

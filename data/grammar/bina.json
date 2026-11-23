@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "cases": [
+    {
+      "id": "bina-mabni-ala-sukun",
+      "name_ar": "مَبْنِيٌّ عَلَى السُّكُونِ",
+      "name_id": "Mabni 'ala as-sukun",
+      "description": "Keadaan bina' ketika akhir kata tetap dalam keadaan sukun.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "bina-mabni-ala-fath",
+      "name_ar": "مَبْنِيٌّ عَلَى الْفَتْحِ",
+      "name_id": "Mabni 'ala al-fath",
+      "description": "Keadaan bina' ketika akhir kata tetap dalam keadaan fathah.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "bina-mabni-ala-kasr",
+      "name_ar": "مَبْنِيٌّ عَلَى الْكَسْرِ",
+      "name_id": "Mabni 'ala al-kasr",
+      "description": "Keadaan bina' ketika akhir kata tetap dalam keadaan kasrah.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "bina-mabni-ala-damm",
+      "name_ar": "مَبْنِيٌّ عَلَى الضَّمِّ",
+      "name_id": "Mabni 'ala ad-damm",
+      "description": "Keadaan bina' ketika akhir kata tetap dalam keadaan dhammah.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    }
+  ]
+}

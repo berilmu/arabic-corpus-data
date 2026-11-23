@@ -1,5 +1,5 @@
 {
-"schema_version": "1.0.0",
+  "schema_version": "1.0.0",
   "initial": "ب",
   "words": [
     {
@@ -58,21 +58,21 @@
       "verified_at": "2024-06-15T10:00:00Z"
     },
     {
-          "id": "word-bi",
-          "surface": "بِـ",
-          "lemma_id": "lemma-bi",
-          "meaning": [
-            {
-              "text": "dengan",
-              "language": "id"
-            }
-          ],
-          "case_id": null,
-          "role_id": "role-harf-jarr",
-          "notes": "Huruf jar yang menyebabkan isim yang mengikutinya berkedudukan majrur.",
-          "status": "verified",
-          "verified_by": "ms_ebta",
-          "verified_at": "2024-06-15T10:00:00Z"
+      "id": "word-bi",
+      "surface": "بِـ",
+      "lemma_id": "lemma-bi",
+      "meaning": [
+        {
+          "text": "dengan",
+          "language": "id"
         }
+      ],
+      "case_id": null,
+      "role_id": "role-harf-jarr",
+      "notes": "Huruf jar yang menyebabkan isim yang mengikutinya berkedudukan majrur.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    }
   ]
 }

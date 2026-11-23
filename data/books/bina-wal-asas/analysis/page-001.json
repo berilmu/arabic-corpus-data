@@ -1,101 +1,71 @@
-
 {
   "schema_version": 1,
   "page_id": "bwa-page-001",
   "analyses": [
-    
-{
-  "id": "bwa-p001-s001-w001",
-  "section_id": "bwa-page-001-section-001",
-  "position": 1,
-  "surface": "بِسْمِ",
-  "lemma_id": "lemma-ismun",
-  "meaning": [
     {
-      "text": "Dengan nama",
-      "language": "id",
-      "type": "contextual"
-    }
-  ],
-  "segments": [
-    {
-      "id": "bwa-p001-s001-w001-seg001",
-      "surface": "بِـ",
-      "lemma_id": "lemma-bi",
-      "meaning": [
-        {
-          "text": "dengan",
-          "language": "id",
-          "type": "contextual"
-        }
-      ],
-      "case_id": null,
-      "role_id": "role-harf-jarr",
-      "notes": "بِـ adalah huruf jar yang masuk pada isim dan menyebabkan isim yang berkaitan dengannya berkedudukan majrur. Huruf jar itu sendiri tidak memiliki i'rab seperti isim.",
-      "status": "verified",
-      "verified_by": "ms_ebta",
-      "verified_at": "2024-06-15T10:00:00Z"
-    },
-    {
-      "id": "bwa-p001-s001-w001-seg002",
-      "surface": "اِسْمِ",
+      "id": "bwa-p001-s001-w001",
+      "section_id": "bwa-page-001-section-001",
+      "position": 1,
+      "surface": "بِسْمِ",
       "lemma_id": "lemma-ismun",
       "meaning": [
         {
-          "text": "nama",
+          "text": "Dengan nama",
           "language": "id",
           "type": "contextual"
         }
       ],
+      "segments": [
+        {
+          "id": "bwa-p001-s001-w001-seg001",
+          "surface": "بِـ",
+          "lemma_id": "lemma-bi",
+          "meaning": [
+            {
+              "text": "dengan",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": null,
+          "role_id": "role-harf-jarr",
+          "notes": "بِـ adalah huruf jar yang masuk pada isim dan menyebabkan isim yang berkaitan dengannya berkedudukan majrur. Huruf jar itu sendiri tidak memiliki i'rab seperti isim.",
+          "status": "verified",
+          "verified_by": "ms_ebta",
+          "verified_at": "2024-06-15T10:00:00Z"
+        },
+        {
+          "id": "bwa-p001-s001-w001-seg002",
+          "surface": "اِسْمِ",
+          "lemma_id": "lemma-ismun",
+          "meaning": [
+            {
+              "text": "nama",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": "case-majrur",
+          "role_id": "role-mudhaf",
+          "notes": "اِسْمِ berasal dari lemma اِسْمٌ. Dalam بِسْمِ, isim ini berkedudukan majrur karena didahului huruf jar بِـ. Isim ini sekaligus berfungsi sebagai muḍāf dalam konstruksi iḍāfah dengan اللَّهِ sebagai muḍāf ilayh.",
+          "status": "verified",
+          "verified_by": "ms_ebta",
+          "verified_at": "2024-06-15T10:00:00Z"
+        }
+      ],
       "case_id": "case-majrur",
+      "bina_id": null,
       "role_id": "role-mudhaf",
-      "notes": "اِسْمِ berasal dari lemma اِسْمٌ. Dalam بِسْمِ, isim ini berkedudukan majrur karena didahului huruf jar بِـ. Isim ini sekaligus berfungsi sebagai muḍāf dalam konstruksi iḍāfah dengan اللَّهِ sebagai muḍāf ilayh.",
+      "notes": "### 1. Struktur Kata\n\nبِسْمِ terdiri atas dua segmen, yaitu بِـ sebagai huruf jar dan اِسْمِ sebagai isim. Keduanya ditulis sebagai satu kesatuan dalam teks.\n\n### 2. Fungsi Huruf Jar\n\nHuruf بِـ masuk pada اِسْمِ dan menyebabkan isim tersebut berkedudukan majrur. Dalam bentuk ini, tanda jar berupa kasrah pada akhir اِسْمِ.\n\n### 3. Fungsi dalam Konstruksi Iḍāfah\n\nاِسْمِ juga berfungsi sebagai muḍāf dalam konstruksi iḍāfah بِسْمِ اللَّهِ. Kata اللَّهِ menjadi muḍāf ilayh dan berkedudukan majrur.\n\n### 4. Makna Kontekstual\n\nDalam ungkapan بِسْمِ اللَّهِ, بِسْمِ secara kontekstual berarti 'dengan nama'. Makna keseluruhan ungkapan dipahami berdasarkan hubungan antarkata dan penggunaannya dalam konteks.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
-    }
-  ],
-  "case_id": "case-majrur",
-  "role_id": "role-mudhaf",
-  "notes": "### 1. Struktur Kata\n\nبِسْمِ terdiri atas dua segmen, yaitu بِـ sebagai huruf jar dan اِسْمِ sebagai isim. Keduanya ditulis sebagai satu kesatuan dalam teks.\n\n### 2. Fungsi Huruf Jar\n\nHuruf بِـ masuk pada اِسْمِ dan menyebabkan isim tersebut berkedudukan majrur. Dalam bentuk ini, tanda jar berupa kasrah pada akhir اِسْمِ.\n\n### 3. Fungsi dalam Konstruksi Iḍāfah\n\nاِسْمِ juga berfungsi sebagai muḍāf dalam konstruksi iḍāfah بِسْمِ اللَّهِ. Kata اللَّهِ menjadi muḍāf ilayh dan berkedudukan majrur.\n\n### 4. Makna Kontekstual\n\nDalam ungkapan بِسْمِ اللَّهِ, بِسْمِ secara kontekstual berarti 'dengan nama'. Makna keseluruhan ungkapan dipahami berdasarkan hubungan antarkata dan penggunaannya dalam konteks.",
-  "status": "verified",
-  "verified_by": "ms_ebta",
-  "verified_at": "2024-06-15T10:00:00Z"
-},
-
-{
-  "id": "bwa-p001-s001-w002",
-  "section_id": "bwa-page-001-section-001",
-  "position": 2,
-  "surface": "اللَّهِ",
-  "lemma_id": "lemma-allahu",
-  "meaning": [
-    {
-      "text": "Allah",
-      "language": "id",
-      "type": "contextual"
-    }
-  ],
-  "segments": [
-    {
-      "id": "bwa-p001-s001-w002-seg001",
-      "surface": "الـ",
-      "lemma_id": "lemma-al",
-      "meaning": [
-        {
-          "text": "penanda definit",
-          "language": "id",
-          "type": "grammatical"
-        }
-      ],
-      "case_id": null,
-      "role_id": "role-al-ta'rif",
-      "notes": "الـ adalah أداة التعريف yang melekat pada isim untuk menjadikannya definit (ma'rifah). Unsur ini tidak memiliki i'rab mandiri.",
-      "status": "draft"
     },
     {
-      "id": "bwa-p001-s001-w002-seg002",
-      "surface": "لَّهِ",
+      "id": "bwa-p001-s001-w002",
+      "section_id": "bwa-page-001-section-001",
+      "position": 2,
+      "surface": "اللَّهِ",
       "lemma_id": "lemma-allahu",
       "meaning": [
         {
@@ -104,25 +74,48 @@
           "type": "contextual"
         }
       ],
-      "case_id": "case-majrur",
-      "role_id": [
-        "role-mudhaf-ilayhi",
-        "role-man'ut"
+      "segments": [
+        {
+          "id": "bwa-p001-s001-w002-seg001",
+          "surface": "الـ",
+          "lemma_id": "lemma-al",
+          "meaning": [
+            {
+              "text": "penanda definit",
+              "language": "id",
+              "type": "grammatical"
+            }
+          ],
+          "case_id": null,
+          "role_id": "role-al-ta'rif",
+          "notes": "الـ adalah أداة التعريف yang melekat pada isim untuk menjadikannya definit (ma'rifah). Unsur ini tidak memiliki i'rab mandiri.",
+          "status": "draft"
+        },
+        {
+          "id": "bwa-p001-s001-w002-seg002",
+          "surface": "لَّهِ",
+          "lemma_id": "lemma-allahu",
+          "meaning": [
+            {
+              "text": "Allah",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": "case-majrur",
+          "role_id": ["role-mudhaf-ilayhi", "role-man'ut"],
+          "notes": "Bagian leksikal dari nama Allah. Dalam kata utuh اللَّهِ, kata ini berkedudukan majrur karena menjadi muḍāf ilayh dari اِسْمِ pada بِسْمِ اللَّهِ. Kata ini juga menjadi man'ūt bagi الرَّحْمَٰنِ dan الرَّحِيمِ dalam susunan basmalah.",
+          "status": "draft"
+        }
       ],
-      "notes": "Bagian leksikal dari nama Allah. Dalam kata utuh اللَّهِ, kata ini berkedudukan majrur karena menjadi muḍāf ilayh dari اِسْمِ pada بِسْمِ اللَّهِ. Kata ini juga menjadi man'ūt bagi الرَّحْمَٰنِ dan الرَّحِيمِ dalam susunan basmalah.",
-      "status": "draft"
-    }
-  ],
-  "case_id": "case-majrur",
-  "role_id": [
-    "role-mudhaf-ilayhi",
-    "role-man'ut"
-  ],
-  "notes": "### 1. Identitas Kata\n\nاللَّهِ adalah nama khusus Allah dalam bahasa Arab. Dalam katalog lemma, bentuk kutipannya dicatat sebagai اللَّهُ, sedangkan bentuk aktual pada teks mengikuti kedudukan i'rab.\n\n### 2. Struktur Kata\n\nKata ini ditulis sebagai satu kesatuan, dengan الـ sebagai unsur definit yang melekat pada bentuk leksikalnya. Untuk keperluan analisis morfem, الـ dipisahkan sebagai segmen gramatikal, sedangkan bagian لَّهِ tetap merujuk pada lemma nama Allah.\n\n### 3. Fungsi dalam Konstruksi Iḍāfah\n\nDalam بِسْمِ اللَّهِ, kata اللَّهِ berfungsi sebagai muḍāf ilayh dari اِسْمِ. Oleh karena itu, kata tersebut berkedudukan majrur dengan tanda kasrah.\n\n### 4. Fungsi dalam Susunan Na'at\n\nDalam بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ, اللَّهِ menjadi man'ūt yang diterangkan oleh الرَّحْمَٰنِ dan الرَّحِيمِ. Kedua kata tersebut berfungsi sebagai na'at dan mengikuti man'ūt-nya dalam keadaan i'rab.\n\n### 5. Catatan Etimologis\n\nHubungan historis antara اللَّه dan الإِلٰه merupakan persoalan etimologis yang perlu dibedakan dari analisis morfologi sinkronis. Analisis ini tidak menetapkan salah satu pendapat etimologis sebagai kepastian tanpa rujukan khusus.",
-  "status": "draft",
-  "verified_by": null,
-  "verified_at": null
-},
+      "case_id": "case-majrur",
+      "bina_id": null,
+      "role_id": ["role-mudhaf-ilayhi", "role-man'ut"],
+      "notes": "### 1. Identitas Kata\n\nاللَّهِ adalah nama khusus Allah dalam bahasa Arab. Dalam katalog lemma, bentuk kutipannya dicatat sebagai اللَّهُ, sedangkan bentuk aktual pada teks mengikuti kedudukan i'rab.\n\n### 2. Struktur Kata\n\nKata ini ditulis sebagai satu kesatuan, dengan الـ sebagai unsur definit yang melekat pada bentuk leksikalnya. Untuk keperluan analisis morfem, الـ dipisahkan sebagai segmen gramatikal, sedangkan bagian لَّهِ tetap merujuk pada lemma nama Allah.\n\n### 3. Fungsi dalam Konstruksi Iḍāfah\n\nDalam بِسْمِ اللَّهِ, kata اللَّهِ berfungsi sebagai muḍāf ilayh dari اِسْمِ. Oleh karena itu, kata tersebut berkedudukan majrur dengan tanda kasrah.\n\n### 4. Fungsi dalam Susunan Na'at\n\nDalam بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ, اللَّهِ menjadi man'ūt yang diterangkan oleh الرَّحْمَٰنِ dan الرَّحِيمِ. Kedua kata tersebut berfungsi sebagai na'at dan mengikuti man'ūt-nya dalam keadaan i'rab.\n\n### 5. Catatan Etimologis\n\nHubungan historis antara اللَّه dan الإِلٰه merupakan persoalan etimologis yang perlu dibedakan dari analisis morfologi sinkronis. Analisis ini tidak menetapkan salah satu pendapat etimologis sebagai kepastian tanpa rujukan khusus.",
+      "status": "draft",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
     {
       "id": "bwa-p001-s001-w003",
       "section_id": "bwa-page-001-section-001",
@@ -136,107 +129,109 @@
           "type": "contextual"
         }
       ],
-"segments": [
-    {
-      "id": "bwa-p001-s001-w003-seg001",
-      "surface": "الـ",
-      "lemma_id": "lemma-al",
-      "meaning": [
+      "segments": [
         {
-          "text": "penanda definit",
-          "language": "id",
-          "type": "grammatical"
+          "id": "bwa-p001-s001-w003-seg001",
+          "surface": "الـ",
+          "lemma_id": "lemma-al",
+          "meaning": [
+            {
+              "text": "penanda definit",
+              "language": "id",
+              "type": "grammatical"
+            }
+          ],
+          "case_id": null,
+          "role_id": "role-al-ta'rif",
+          "notes": "الـ adalah alif-lam ta'rif yang menjadikan kata definit. Bagian ini tidak memiliki i'rab mandiri.",
+          "status": "draft"
+        },
+        {
+          "id": "bwa-p001-s001-w003-seg002",
+          "surface": "رَحْمَٰنِ",
+          "lemma_id": "lemma-rahmaanu",
+          "meaning": [
+            {
+              "text": "pengasih",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": "case-majrur",
+          "bina_id": null,
+          "role_id": "role-naat",
+          "notes": "Bagian leksikal yang mengikuti pola فَعْلَان. Dalam kata utuh الرَّحْمَٰنِ, status majrur ditentukan oleh fungsi sintaksis kata tersebut, bukan oleh segmen ini secara terpisah.",
+          "status": "draft"
         }
       ],
-      "case_id": null,
-      "role_id": "role-al-ta'rif",
-      "notes": "الـ adalah alif-lam ta'rif yang menjadikan kata definit. Bagian ini tidak memiliki i'rab mandiri.",
-      "status": "draft"
-    },
-    {
-      "id": "bwa-p001-s001-w003-seg002",
-      "surface": "رَحْمَٰنِ",
-      "lemma_id": "lemma-rahmaanu",
-      "meaning": [
-        {
-          "text": "pengasih",
-          "language": "id",
-          "type": "contextual"
-        }
-      ],
-      "case_id": "case-majrur",
-      "role_id": "role-naat",
-      "notes": "Bagian leksikal yang mengikuti pola فَعْلَان. Dalam kata utuh الرَّحْمَٰنِ, status majrur ditentukan oleh fungsi sintaksis kata tersebut, bukan oleh segmen ini secara terpisah.",
-      "status": "draft"
-    }
-  ],
       "case_id": "case-majrur",
       "role_id": "role-naat",
       "morphology": {
         "pattern_id": "pattern-fa'laan"
       },
-"notes": "### 1. Akar Kata\n\nKata الرَّحْمَٰنِ berkaitan dengan akar triliteral ر ح م (رَحِمَ), yang berada dalam medan makna kasih sayang, belas kasih, dan rahmat. Akar kata menunjukkan hubungan makna dasar, tetapi tidak dengan sendirinya menentukan arti khusus setiap bentuk turunannya.\n\n### 2. Pembentukan Bentuk رَحْمَٰن\n\nرَحْمَٰن mengikuti pola morfologis فَعْلَان. Dalam pola ini, ف melambangkan huruf akar pertama, ع melambangkan huruf akar kedua, dan ل melambangkan huruf akar ketiga. Pada akar ر ح م, ketiga huruf tersebut masing-masing berkorespondensi dengan ر، ح، dan م. Pola فَعْلَان sering ditemukan pada kata yang menggambarkan keadaan atau sifat yang menonjol. Namun, makna khusus رَحْمَٰن tidak dapat diturunkan dari wazan saja; penggunaan leksikal dan konteks keagamaan juga menentukan pemahamannya.\n\n### 3. Alif Kecil pada م\n\nDalam penulisan الرَّحْمَٰن, tanda ٰ di atas م disebut alif khanjariyyah atau alif kecil. Tanda tersebut menunjukkan vokal panjang /ā/ dalam bacaan raḥmān. Tanda ini merupakan konvensi ortografi yang digunakan dalam penulisan kata tersebut, bukan morfem tambahan dan bukan tanda i'rab. Karena itu, bentuk رَحْمَٰن dibaca raḥmān, bukan raḥman.\n\n### 4. Penambahan ال\n\nBentuk الرَّحْمَٰن terdiri atas ال التعريف dan رَحْمَٰن. Alif-lam ta'rif menjadikan kata tersebut definit. Pada pelafalan, ل pada ال tidak terdengar sebagai bunyi /l/ karena ر termasuk huruf syamsiyyah; bunyi ر mengalami tasydid sehingga dibaca ar-raḥmān. Tasydid pada ر merupakan akibat kaidah pelafalan huruf syamsiyyah, bukan perubahan akar atau wazan kata.\n\n### 5. Perkembangan Makna\n\nAkar ر ح م berkaitan dengan kasih sayang dan rahmat. Bentuk رَحْمَٰن digunakan untuk menyatakan sifat yang sangat luas atau menonjol dalam medan makna tersebut. Dalam penggunaan sebagai nama atau sifat Allah, الرَّحْمَٰن lazim diterjemahkan sebagai Maha Pengasih. Terjemahan ini menjelaskan pemakaian khusus dalam konteks keagamaan dan tidak berarti bahwa seluruh kata berpola فَعْلَان selalu bermakna intensif dengan cara yang sama.\n\n### 6. Fungsi dalam Kalimat\n\nDalam بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ, الرَّحْمَٰنِ berfungsi sebagai na'at bagi اللَّهِ. Kata tersebut mengikuti man'ut-nya dalam keadaan i'rab sehingga berstatus majrur dengan tanda kasrah. Kasrah pada akhir kata merupakan perubahan infleksional akibat fungsi sintaksis, sedangkan pola morfologisnya tetap فَعْلَان.",
+      "notes": "### 1. Akar Kata\n\nKata الرَّحْمَٰنِ berkaitan dengan akar triliteral ر ح م (رَحِمَ), yang berada dalam medan makna kasih sayang, belas kasih, dan rahmat. Akar kata menunjukkan hubungan makna dasar, tetapi tidak dengan sendirinya menentukan arti khusus setiap bentuk turunannya.\n\n### 2. Pembentukan Bentuk رَحْمَٰن\n\nرَحْمَٰن mengikuti pola morfologis فَعْلَان. Dalam pola ini, ف melambangkan huruf akar pertama, ع melambangkan huruf akar kedua, dan ل melambangkan huruf akar ketiga. Pada akar ر ح م, ketiga huruf tersebut masing-masing berkorespondensi dengan ر، ح، dan م. Pola فَعْلَان sering ditemukan pada kata yang menggambarkan keadaan atau sifat yang menonjol. Namun, makna khusus رَحْمَٰن tidak dapat diturunkan dari wazan saja; penggunaan leksikal dan konteks keagamaan juga menentukan pemahamannya.\n\n### 3. Alif Kecil pada م\n\nDalam penulisan الرَّحْمَٰن, tanda ٰ di atas م disebut alif khanjariyyah atau alif kecil. Tanda tersebut menunjukkan vokal panjang /ā/ dalam bacaan raḥmān. Tanda ini merupakan konvensi ortografi yang digunakan dalam penulisan kata tersebut, bukan morfem tambahan dan bukan tanda i'rab. Karena itu, bentuk رَحْمَٰن dibaca raḥmān, bukan raḥman.\n\n### 4. Penambahan ال\n\nBentuk الرَّحْمَٰن terdiri atas ال التعريف dan رَحْمَٰن. Alif-lam ta'rif menjadikan kata tersebut definit. Pada pelafalan, ل pada ال tidak terdengar sebagai bunyi /l/ karena ر termasuk huruf syamsiyyah; bunyi ر mengalami tasydid sehingga dibaca ar-raḥmān. Tasydid pada ر merupakan akibat kaidah pelafalan huruf syamsiyyah, bukan perubahan akar atau wazan kata.\n\n### 5. Perkembangan Makna\n\nAkar ر ح م berkaitan dengan kasih sayang dan rahmat. Bentuk رَحْمَٰن digunakan untuk menyatakan sifat yang sangat luas atau menonjol dalam medan makna tersebut. Dalam penggunaan sebagai nama atau sifat Allah, الرَّحْمَٰن lazim diterjemahkan sebagai Maha Pengasih. Terjemahan ini menjelaskan pemakaian khusus dalam konteks keagamaan dan tidak berarti bahwa seluruh kata berpola فَعْلَان selalu bermakna intensif dengan cara yang sama.\n\n### 6. Fungsi dalam Kalimat\n\nDalam بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ, الرَّحْمَٰنِ berfungsi sebagai na'at bagi اللَّهِ. Kata tersebut mengikuti man'ut-nya dalam keadaan i'rab sehingga berstatus majrur dengan tanda kasrah. Kasrah pada akhir kata merupakan perubahan infleksional akibat fungsi sintaksis, sedangkan pola morfologisnya tetap فَعْلَان.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
     },
-  {
-    "id": "bwa-p001-s001-w004",
-    "section_id": "bwa-page-001-section-001",
-    "position": 4,
-    "surface": "الرَّحِيمِ",
-    "lemma_id": "lemma-rahiimu",
-    "meaning": [
-      {
-        "text": "Yang Maha Penyayang",
-        "language": "id",
-        "type": "contextual"
-      }
-    ],
-    "segments": [
-      {
-        "id": "bwa-p001-s001-w004-seg001",
-        "surface": "الـ",
-        "lemma_id": "lemma-al",
-        "meaning": [
-          {
-            "text": "penanda definit",
-            "language": "id",
-            "type": "grammatical"
-          }
-        ],
-        "case_id": null,
-        "role_id": "role-al-ta'rif",
-        "notes": "الـ adalah أداة التعريف yang melekat pada isim untuk menjadikannya definit (ma'rifah). Unsur ini tidak memiliki i'rab mandiri.",
-        "status": "draft"
+    {
+      "id": "bwa-p001-s001-w004",
+      "section_id": "bwa-page-001-section-001",
+      "position": 4,
+      "surface": "الرَّحِيمِ",
+      "lemma_id": "lemma-rahiimu",
+      "meaning": [
+        {
+          "text": "Yang Maha Penyayang",
+          "language": "id",
+          "type": "contextual"
+        }
+      ],
+      "segments": [
+        {
+          "id": "bwa-p001-s001-w004-seg001",
+          "surface": "الـ",
+          "lemma_id": "lemma-al",
+          "meaning": [
+            {
+              "text": "penanda definit",
+              "language": "id",
+              "type": "grammatical"
+            }
+          ],
+          "case_id": null,
+          "role_id": "role-al-ta'rif",
+          "notes": "الـ adalah أداة التعريف yang melekat pada isim untuk menjadikannya definit (ma'rifah). Unsur ini tidak memiliki i'rab mandiri.",
+          "status": "draft"
+        },
+        {
+          "id": "bwa-p001-s001-w004-seg002",
+          "surface": "رَحِيمِ",
+          "lemma_id": "lemma-rahiimu",
+          "meaning": [
+            {
+              "text": "penyayang",
+              "language": "id",
+              "type": "contextual"
+            }
+          ],
+          "case_id": "case-majrur",
+          "bina_id": null,
+          "role_id": "role-naat",
+          "notes": "Bagian leksikal ini berasal dari akar ر ح م dan mengikuti pola فَعِيل. Dalam kata utuh الرَّحِيمِ, status majrur ditentukan oleh fungsi sintaksis kata tersebut dalam kalimat, bukan oleh segmen ini secara terpisah.",
+          "status": "draft"
+        }
+      ],
+      "case_id": "case-majrur",
+      "role_id": "role-naat",
+      "morphology": {
+        "pattern_id": "pattern-fa'iil"
       },
-      {
-        "id": "bwa-p001-s001-w004-seg002",
-        "surface": "رَحِيمِ",
-        "lemma_id": "lemma-rahiimu",
-        "meaning": [
-          {
-            "text": "penyayang",
-            "language": "id",
-            "type": "contextual"
-          }
-        ],
-        "case_id": "case-majrur",
-        "role_id": "role-naat",
-        "notes": "Bagian leksikal ini berasal dari akar ر ح م dan mengikuti pola فَعِيل. Dalam kata utuh الرَّحِيمِ, status majrur ditentukan oleh fungsi sintaksis kata tersebut dalam kalimat, bukan oleh segmen ini secara terpisah.",
-        "status": "draft"
-      }
-    ],
-    "case_id": "case-majrur",
-    "role_id": "role-naat",
-    "morphology": {
-      "pattern_id": "pattern-fa'iil"
+      "notes": "### 1. Akar Kata\n\nKata الرَّحِيمِ berasal dari akar triliteral ر ح م yang berkaitan dengan medan makna rahmat, kasih sayang, dan belas kasih.\n\n### 2. Pembentukan Morfologis\n\nBentuk رَحِيم mengikuti pola فَعِيل. Pada pola ini, ف melambangkan huruf akar pertama, ع melambangkan huruf akar kedua, dan ل melambangkan huruf akar ketiga. Pada akar ر ح م, ketiga huruf tersebut berkorespondensi dengan ر، ح، dan م. Pola فَعِيل digunakan dalam berbagai kata dengan nuansa makna yang beragam; makna khusus kata ini tidak ditentukan oleh pola saja.\n\n### 3. Penambahan ال\n\nالـ merupakan penanda definit yang melekat pada رَحِيم sehingga terbentuk الرَّحِيم. Karena ر termasuk huruf syamsiah, lam pada الـ mengalami idgham dalam pelafalan dan ر dibaca dengan tasydid. Tasydid tersebut merupakan kaidah pelafalan, bukan perubahan akar atau pola morfologis.\n\n### 4. Makna Kontekstual\n\nDalam konteks nama dan sifat Allah, الرَّحِيمِ diterjemahkan sebagai 'Yang Maha Penyayang'. Terjemahan tersebut mencerminkan pemakaian kata dalam konteks keagamaan.\n\n### 5. Fungsi dalam Kalimat\n\nDalam بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ, الرَّحِيمِ berfungsi sebagai na'at bagi اللَّهِ dan juga selaras dengan الرَّحْمَٰنِ sebagai sifat yang menerangkan Allah. Kata ini berstatus majrur dengan tanda kasrah karena mengikuti man'ut-nya dalam keadaan i'rab.",
+      "status": "draft",
+      "verified_by": null,
+      "verified_at": null
     },
-    "notes": "### 1. Akar Kata\n\nKata الرَّحِيمِ berasal dari akar triliteral ر ح م yang berkaitan dengan medan makna rahmat, kasih sayang, dan belas kasih.\n\n### 2. Pembentukan Morfologis\n\nBentuk رَحِيم mengikuti pola فَعِيل. Pada pola ini, ف melambangkan huruf akar pertama, ع melambangkan huruf akar kedua, dan ل melambangkan huruf akar ketiga. Pada akar ر ح م, ketiga huruf tersebut berkorespondensi dengan ر، ح، dan م. Pola فَعِيل digunakan dalam berbagai kata dengan nuansa makna yang beragam; makna khusus kata ini tidak ditentukan oleh pola saja.\n\n### 3. Penambahan ال\n\nالـ merupakan penanda definit yang melekat pada رَحِيم sehingga terbentuk الرَّحِيم. Karena ر termasuk huruf syamsiah, lam pada الـ mengalami idgham dalam pelafalan dan ر dibaca dengan tasydid. Tasydid tersebut merupakan kaidah pelafalan, bukan perubahan akar atau pola morfologis.\n\n### 4. Makna Kontekstual\n\nDalam konteks nama dan sifat Allah, الرَّحِيمِ diterjemahkan sebagai 'Yang Maha Penyayang'. Terjemahan tersebut mencerminkan pemakaian kata dalam konteks keagamaan.\n\n### 5. Fungsi dalam Kalimat\n\nDalam بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ, الرَّحِيمِ berfungsi sebagai na'at bagi اللَّهِ dan juga selaras dengan الرَّحْمَٰنِ sebagai sifat yang menerangkan Allah. Kata ini berstatus majrur dengan tanda kasrah karena mengikuti man'ut-nya dalam keadaan i'rab.",
-    "status": "draft",
-    "verified_by": null,
-    "verified_at": null
-  },
     {
       "id": "bwa-p001-s002-w001",
       "section_id": "bwa-page-001-section-002",
@@ -251,12 +246,13 @@
         }
       ],
       "case_id": null,
+      "bina_id": "bina-mabni-ala-sukun",
       "role_id": null,
       "morphology": {
         "pattern_id": "pattern-ifal",
         "subtype_id": "subtype-fiil-amr"
       },
-      "notes":"اِعْلَمْ adalah fi'il amr dari عَلِمَ يَعْلَمُ yang berarti 'mengetahui'. Subjeknya berupa dhamir mustatir wajib yang ditaksir أَنْتَ. Kata ini mabni 'ala as-sukun dan tidak memiliki i'rab isim berupa marfu', mansub, atau majrur.",
+      "notes": "### 1. Identitas dan Asal Kata\n\nاِعْلَمْ merupakan bentuk fi'il amr (فِعْلُ أَمْرٍ) yang berasal dari kata عَلِمَ dengan akar kata ع ل م. Kata ini termasuk fi'il tsulātsi mujarrad, yaitu kata kerja dasar yang tersusun dari tiga huruf asli. Makna dasarnya berkaitan dengan mengetahui, mengenali, dan memahami sesuatu.\n\n### 2. Pembentukan Morfologis\n\nKata اِعْلَمْ dibentuk dari fi'il mudhāri' يَعْلَمُ melalui proses pembentukan fi'il amr. Bentuk ini mengikuti wazan اِفْعَلْ. Hamzah pada awal kata merupakan hamzah washal (هَمْزَةُ الْوَصْلِ), yang berfungsi membantu pengucapan karena bentuk awal kata dimulai dengan huruf sukun. Adapun huruf terakhirnya, مْ, menunjukkan keadaan bina' atas sukun.\n\n### 3. Karakteristik Fi'il Amr\n\nFi'il amr digunakan untuk meminta atau memerintahkan lawan bicara melakukan suatu tindakan. اِعْلَمْ merupakan bentuk perintah untuk dhamir أَنْتَ (kamu laki-laki tunggal). Pelakunya berupa dhamir mustatir (ضَمِيرٌ مُسْتَتِرٌ) yang diperkirakan sebagai أَنْتَ.\n\n### 4. Analisis Sintaksis\n\nDalam susunan اِعْلَمْ أَنَّ أَبْوَابَ التَّصْرِيفِ, kata اِعْلَمْ berfungsi sebagai fi'il amr. Adapun konstruksi أَنَّ أَبْوَابَ التَّصْرِيفِ dan kelanjutannya merupakan isi pengetahuan yang diperintahkan untuk diketahui. Secara sintaksis, konstruksi أَنَّ beserta isim dan khabarnya menempati posisi maf'ul bih bagi fi'il اِعْلَمْ.\n\n### 5. Makna dalam Konteks Kitab\n\nDalam konteks pembukaan pembahasan kitab Bina wal Asas, اِعْلَمْ berarti 'Ketahuilah'. Kata ini digunakan sebagai ungkapan pengantar untuk menarik perhatian pembaca terhadap informasi atau kaidah yang akan dijelaskan. Penggunaannya menunjukkan bahwa penulis sedang mengarahkan pembaca untuk memahami dan memperhatikan pembahasan berikutnya.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
