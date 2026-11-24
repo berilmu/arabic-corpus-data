@@ -71,17 +71,34 @@
     },
     {
       "id": "pattern-fa'l",
-      "pattern": "فَعْلٌ",
+      "pattern": "فَعْل",
       "transliteration": "fa'l",
       "category": "morphological_pattern",
       "semantic_functions": [
         {
           "id": "semantic-noun-pattern",
           "label_id": "Pola isim dengan susunan fa, 'ain, dan lam",
-          "description": "Pola فَعْلٌ merupakan salah satu pola morfologis isim. Susunannya terdiri dari huruf akar pertama berharakat fathah, huruf akar kedua bersukun, dan huruf akar ketiga. Makna leksikal kata yang mengikuti pola ini ditentukan oleh akar kata dan penggunaannya."
+          "description": "Pola فَعْل merupakan salah satu pola morfologis isim. Susunannya terdiri dari huruf akar pertama berharakat fathah, huruf akar kedua bersukun, dan huruf akar ketiga. Makna leksikal kata yang mengikuti pola ini ditentukan oleh akar kata dan penggunaannya."
         }
       ],
-      "notes": "### Wazan فَعْلٌ (Fa'l)\n\nPola فَعْلٌ merupakan salah satu pola morfologis isim dalam bahasa Arab.\n\n### Struktur Pola\n\n- **فَ** mewakili huruf akar pertama dengan harakat fathah.\n- **عْ** mewakili huruf akar kedua dengan harakat sukun.\n- **لٌ** mewakili huruf akar ketiga, dengan harakat akhir yang dapat berubah mengikuti kedudukan i'rab.\n\n### Contoh Penggunaan\n\n- **بَابٌ**: pintu atau bab.\n- **نَصْرٌ**: pertolongan.\n- **فَتْحٌ**: pembukaan atau kemenangan.\n\n### Catatan\n\nPola morfologis menunjukkan susunan huruf dan harakat, bukan satu makna universal. Pada kata yang memiliki huruf illat sebagai huruf akar kedua, dapat terjadi perubahan morfologis. Contohnya بَابٌ yang berasal dari akar ب و ب, dengan perubahan huruf illat menjadi alif.\n\nHarakat akhir pada pola isim dapat berubah sesuai kedudukan i'rab, sehingga bentuk فَعْلٌ merupakan representasi pola dalam keadaan marfu' dan bertanwin.",
+      "notes": "### Wazan فَعْل (Fa'l)\n\nPola فَعْل merupakan salah satu pola morfologis isim dalam bahasa Arab.\n\n### Struktur Pola\n\n- **فَ** mewakili huruf akar pertama dengan harakat fathah.\n- **عْ** mewakili huruf akar kedua dengan harakat sukun.\n- **ل** mewakili huruf akar ketiga, dengan harakat akhir yang dapat berubah mengikuti kedudukan i'rab.\n\n### Contoh Penggunaan\n\n- **بَابٌ**: pintu atau bab.\n- **نَصْرٌ**: pertolongan.\n- **فَتْحٌ**: pembukaan atau kemenangan.\n\n### Catatan\n\nPola morfologis menunjukkan susunan huruf dan harakat, bukan satu makna universal. Pada kata yang memiliki huruf illat sebagai huruf akar kedua, dapat terjadi perubahan morfologis. Contohnya بَابٌ yang berasal dari akar ب و ب, dengan perubahan huruf illat menjadi alif.\n\nHarakat akhir pada pola isim dapat berubah sesuai kedudukan i'rab, sehingga bentuk فَعْلٌ merupakan representasi pola dalam keadaan marfu' dan bertanwin.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
+    },
+    {
+      "id": "pattern-af'aal",
+      "pattern": "أَفْعَال",
+      "transliteration": "af'aal",
+      "category": "morphological_pattern",
+      "semantic_functions": [
+        {
+          "id": "semantic-plural-pattern",
+          "label_id": "Pola jamak taksir",
+          "description": "Pola أَفْعَال digunakan untuk membentuk kata jamak taksir dari kata dasar tertentu. Makna leksikalnya ditentukan oleh akar kata dan penggunaan kata tersebut."
+        }
+      ],
+      "notes": "### Wazan أَفْعَال (Af'aal)\n\nPola أَفْعَال merupakan salah satu pola morfologis yang digunakan untuk membentuk kata jamak taksir dalam bahasa Arab.\n\n### Struktur Pola\n\n- **أَ** merupakan hamzat al-wasl pada awal pola.\n- **فْ** mewakili huruf akar pertama dengan harakat sukun.\n- **عَ** mewakili huruf akar kedua dengan harakat fathah.\n- **ا** merupakan alif panjang sebagai bagian dari pola.\n- **ل** mewakili huruf akar ketiga, dengan harakat akhir yang dapat berubah mengikuti kedudukan i'rab.\n\n### Contoh Penggunaan\n\n- **كُتُبٌ**: buku-buku (jamak taksir dari كِتَابٌ).\n- **رِجَالٌ**: laki-laki-laki (jamak taksir dari رَجُلٌ).\n- **قُرُوْنٌ**: abad-abad (jamak taksir dari قَرْنٌ).\n\n### Catatan\n\nPola morfologis menunjukkan susunan huruf dan harakat, bukan satu makna universal. Bentuk jamak taksir dapat bervariasi tergantung pada akar kata dan perubahan morfologis yang terjadi pada kata dasar.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2026-11-25T00:00:00Z"
