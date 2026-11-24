@@ -1,4 +1,3 @@
-
 {
   "schema_version": "1.0.0",
   "relations": [
@@ -30,6 +29,26 @@
       "description": "### Apa itu Na'at–Man'ut (النَّعْتُ وَالْمَنْعُوتُ)?\n\n**Na'at (النَّعْتُ)** adalah kata yang menerangkan sifat atau keadaan suatu isim. **Man'ut (الْمَنْعُوتُ)** adalah isim yang diterangkan oleh na'at tersebut.\n\n### Contoh\n\n**جَاءَ الطَّالِبُ الْمُجْتَهِدُ** — Siswa yang rajin itu telah datang.\n\n- **الطَّالِبُ** adalah man'ut, yaitu isim yang diterangkan.\n- **الْمُجْتَهِدُ** adalah na'at, yaitu kata yang menerangkan sifat siswa tersebut.\n\n### Kaidah Na'at–Man'ut\n\nNa'at mengikuti man'ut dalam beberapa aspek gramatikal, dengan ketentuan sesuai jenis konstruksinya:\n\n1. **I'rab:** rafa', nashab, atau jar.\n2. **Ma'rifah dan nakirah:** status definit atau indefinit.\n3. **Gender:** mudzakkar atau mu'annats.\n4. **Jumlah:** mufrad, mutsanna, atau jamak, dengan ketentuan yang berlaku dalam bahasa Arab.\n\n### Contoh dalam Basmalah\n\n**بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ**\n\nDalam analisis yang digunakan, **الرَّحْمَٰنِ** dan **الرَّحِيمِ** berfungsi sebagai na'at bagi **اللَّهِ**. Keduanya berstatus majrūr dan mengikuti man'ut-nya dalam i'rab.\n\n**Catatan:** Na'at adalah unsur yang menerangkan, sedangkan man'ut adalah unsur yang diterangkan. Relasi ini menunjukkan hubungan gramatikal antara keduanya, bukan sekadar kedekatan posisi kata.",
       "source_label": "Na'at",
       "target_label": "Man'ut",
+      "status": "draft"
+    },
+    {
+      "id": "relation-ism-anna",
+      "type": "syntactic_relation",
+      "label_ar": "اِسْمُ أَنَّ",
+      "label_id": "Ism Anna",
+      "description": "### Apa itu Ism Anna (اِسْمُ أَنَّ)?\n\nIsm Anna adalah isim yang berfungsi sebagai subjek dari fi'il atau khabar yang mengikuti kata penghubung **anna (أَنَّ)**. Kata **anna** adalah huruf nasb yang mengubah keadaan i'rab isim yang mengikutinya menjadi manshub.\n\n### Contoh\n\n**أَنَّ الطَّالِبَ مُجْتَهِدٌ** — Bahwa siswa itu rajin.\n\n- **الطَّالِبَ** adalah ism anna, yaitu isim yang menjadi subjek dari khabar.\n- **مُجْتَهِدٌ** adalah khabar yang menerangkan keadaan siswa tersebut.\n\n### Kaidah Gramatikal\n\n1. Ism anna selalu berada dalam keadaan manshub karena pengaruh huruf **anna**.\n2. Khabar dapat berupa fi'il, isim, atau kalimat lengkap, tergantung konteks kalimat.\n3. Ism anna dapat berupa mufrad, mutsanna, atau jamak, sesuai dengan jumlah subjek yang diterangkan.\n4. Dalam konstruksi ini, posisi ism anna biasanya mengikuti kata **anna**, tetapi dapat juga ditempatkan di awal kalimat untuk penekanan.",
+      "source_label": "Ism Anna",
+      "target_label": "Khabar",
+      "status": "draft"
+    },
+    {
+      "id": "relation-khabar-anna",
+      "type": "syntactic_relation",
+      "label_ar": "خَبَرُ أَنَّ",
+      "label_id": "Khabar Anna",
+      "description": "### Apa itu Khabar Anna (خَبَرُ أَنَّ)?\n\nKhabar Anna adalah unsur yang menerangkan keadaan atau informasi yang disampaikan oleh **ism anna** dalam konstruksi gramatikal yang melibatkan kata penghubung **anna (أَنَّ)**.\n\n### Contoh\n\n**أَنَّ الطَّالِبَ مُجْتَهِدٌ** — Bahwa siswa itu rajin.\n\n- **الطَّالِبَ** adalah ism anna, yaitu subjek dari khabar.\n- **مُجْتَهِدٌ** adalah khabar anna, yaitu unsur yang memberikan informasi tentang siswa tersebut.\n\n### Kaidah Gramatikal\n\n1. Khabar anna dapat berupa fi'il, isim, atau kalimat lengkap, tergantung konteks kalimat.\n2. Khabar anna mengikuti ism anna dalam hal jumlah, gender, dan status definit/indefinit.\n3. Khabar anna dapat berfungsi sebagai penjelasan, deskripsi, atau informasi tambahan tentang subjek yang diterangkan oleh ism anna.",
+      "source_label": "Khabar",
+      "target_label": "Ism Anna",
       "status": "draft"
     }
   ]
