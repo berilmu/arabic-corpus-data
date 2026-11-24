@@ -88,6 +88,17 @@
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "role-ism-anna",
+      "type": "grammatical_role",
+      "category_id": "ism-anna",
+      "name_ar": "اِسْمُ أَنَّ",
+      "name_id": "Isim Anna",
+      "notes": "Kata yang berfungsi sebagai isim dalam konstruksi أَنَّ, biasanya menjadi mubtada' atau khabar.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     }
   ]
 }

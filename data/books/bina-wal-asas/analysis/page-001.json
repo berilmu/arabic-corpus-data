@@ -277,7 +277,7 @@
       "section_id": "bwa-page-001-section-002",
       "position": 3,
       "surface": "أَبْوَابَ",
-      "lemma_id": null,
+      "lemma_id": "lemma-baabun",
       "meaning": [
         {
           "text": "bab-bab",
@@ -286,12 +286,9 @@
         }
       ],
       "case_id": "case-mansub",
-      "role_id": null,
-      "morphology": {
-        "root": "ب و ب",
-        "pattern": "أَفْعَال"
-      },
-      "notes": "أَبْوَابَ adalah jamak taksir dari بَابٌ. Kata ini merupakan isim أَنَّ sehingga berstatus mansub dengan tanda fathah. Kata ini juga menjadi mudhaf, sedangkan التَّصْرِيفِ menjadi mudhaf ilayh. ID lemma dan ID peran perlu disesuaikan dengan katalog yang benar.",
+      "role_id": "role-ism-anna",
+      "bina_id": null,
+      "notes": "### أَبْوَابَ (Abwāba)\n\nأَبْوَابَ merupakan bentuk jamak dari بَابٌ yang berarti bab-bab atau pintu-pintu. Dalam konteks kitab Bina wal Asas, kata ini bermakna bab-bab atau bagian-bagian pembahasan dalam ilmu tashrif.\n\n### 1. Asal Kata dan Akar Kata\n\nLemma kata ini adalah بَابٌ, dengan akar kata ب ـ و ـ ب. Huruf و merupakan huruf akar kedua. Pada bentuk بَابٌ, huruf illat tersebut mengalami perubahan menjadi alif melalui proses الإِعْلَالُ بِالْقَلْبِ. Bentuk بَابٌ mengikuti pola فَعْلٌ.\n\n### 2. Pembentukan Morfologis\n\nأَبْوَابَ merupakan bentuk jamak taksir (جَمْعُ تَكْسِيرٍ) dari بَابٌ. Bentuk jamaknya mengikuti pola أَفْعَالٌ. Disebut jamak taksir karena susunan bentuk tunggal mengalami perubahan ketika menjadi bentuk jamak. Dengan demikian, pola فَعْلٌ menjelaskan bentuk lemma بَابٌ, sedangkan pola أَفْعَالٌ menjelaskan bentuk jamak أَبْوَابٌ.\n\n### 3. Klasifikasi Isim\n\nKata ini termasuk اِسْمٌ جَامِدٌ (isim jamid), yaitu isim yang tidak dibentuk sebagai kata turunan seperti isim fa'il atau isim maf'ul. Berdasarkan jumlah, bentuk أَبْوَابَ termasuk جَمْعُ تَكْسِيرٍ (jamak taksir). Berdasarkan gender, kata بَابٌ termasuk mudzakkar. Berdasarkan perubahan akhir kata, kata ini termasuk isim mu'rab (مُعْرَبٌ), bukan isim mabni. Bentuk lemma بَابٌ merupakan nakirah, tetapi dalam konteks kalimat ini susunan أَبْوَابَ التَّصْرِيفِ menjadi ma'rifah karena diidhafahkan kepada التَّصْرِيفِ yang menggunakan ال.\n\n### 4. Fungsi Idhafah\n\nDalam susunan أَبْوَابَ التَّصْرِيفِ, kata أَبْوَابَ berfungsi sebagai مُضَافٌ (mudhaf), sedangkan التَّصْرِيفِ berfungsi sebagai مُضَافٌ إِلَيْهِ (mudhaf ilayh). Mudhaf ilayh berkedudukan majrur dengan tanda kasrah. Susunan ini bermakna bab-bab ilmu tashrif. Sebagai mudhaf, أَبْوَابَ tidak menerima tanwin.\n\n### 5. Fungsi Sintaksis\n\nDalam kalimat أَنَّ أَبْوَابَ التَّصْرِيفِ خَمْسَةٌ وَثَلَاثُونَ بَابًا, أَبْوَابَ berkedudukan sebagai اِسْمُ أَنَّ (Isim Anna). أَنَّ merupakan حَرْفُ تَوْكِيدٍ وَنَصْبٍ yang menyebabkan isim-nya berkedudukan manshub dan khabar-nya berkedudukan marfu'. أَبْوَابَ menjadi unsur yang diterangkan, sedangkan خَمْسَةٌ وَثَلَاثُونَ menjadi khabar yang menerangkan jumlah bab ilmu tashrif.\n\n### 6. Analisis I'rab\n\nأَبْوَابَ: اسْمُ أَنَّ مَنْصُوبٌ وَعَلَامَةُ نَصْبِهِ الْفَتْحَةُ الظَّاهِرَةُ عَلَى آخِرِهِ، وَهُوَ مُضَافٌ.\n\nArtinya, أَبْوَابَ merupakan isim أَنَّ yang berkedudukan manshub dengan tanda fathah yang tampak pada akhir katanya. Kata tersebut juga berfungsi sebagai mudhaf. Oleh karena itu, kata ini termasuk isim mu'rab dan bukan isim mabni.\n\n### 7. Makna dalam Konteks\n\nDalam konteks kitab Bina wal Asas, أَبْوَابَ التَّصْرِيفِ berarti bab-bab atau bagian-bagian pembahasan ilmu tashrif. Susunan tersebut menjadi pokok pembicaraan setelah أَنَّ, kemudian jumlahnya dijelaskan oleh خَمْسَةٌ وَثَلَاثُونَ بَابًا, yaitu tiga puluh lima bab.",
       "status": "draft"
     },
     {
@@ -588,7 +585,7 @@
       "notes": "الرَّحْمَٰنِ menjadi naat bagi اللَّهِ.",
       "status": "verified",
       "verified_by": "ms_ebta",
-      "verified_at": "2026-11-25"
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "bwa-p001-rel004",
@@ -598,7 +595,7 @@
       "notes": "الرَّحِيمِ menjadi naat bagi اللَّهِ.",
       "status": "verified",
       "verified_by": "ms_ebta",
-      "verified_at": "2026-11-25"
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "bwa-p001-s002-rel001",

@@ -1,4 +1,3 @@
-
 {
   "schema_version": "1.0.0",
   "initial": "ب",
@@ -27,6 +26,38 @@
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "lemma-baabun",
+      "lemma": "بَابٌ",
+      "text_plain": "باب",
+      "root_id": "root-bwb",
+      "pattern_id": "pattern-fa'lun",
+      "part_of_speech_id": "pos-isim",
+      "subtype_id": [
+        "subtype-isim-mufrad",
+        "subtype-isim-jamid",
+        "subtype-isim-mudzakkar",
+        "subtype-isim-nakirah",
+        "subtype-isim-mu'rab",
+        "subtype-isim-munharif"
+      ],
+      "meanings": [
+        {
+          "text": "Pintu",
+          "language": "id",
+          "notes": "Makna dasar kata بَابٌ."
+        },
+        {
+          "text": "Bab",
+          "language": "id",
+          "notes": "Bagian atau pokok pembahasan dalam suatu kitab atau bidang ilmu."
+        }
+      ],
+      "notes": "بَابٌ merupakan isim yang bermakna pintu atau bab. Kata ini memiliki bentuk jamak taksir أَبْوَابٌ dengan pola أَفْعَالٌ.",
+      "status": "draft",
+      "verified_by": null,
+      "verified_at": null
     }
   ]
 }

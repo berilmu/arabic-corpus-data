@@ -14,7 +14,9 @@
         }
       ],
       "notes": "### Wazan فَعْلَان (Fa'laan)\n\nWazan فَعْلَان adalah pola morfologis dalam bahasa Arab yang digunakan untuk membentuk sejumlah kata, terutama kata sifat yang menggambarkan keadaan atau kondisi tertentu.\n\n### Struktur Pola\n\nPola ini menggunakan tiga huruf ف، ع، dan ل sebagai lambang bagi tiga huruf akar kata:\n\n- **ف** mewakili huruf akar pertama.\n- **ع** mewakili huruf akar kedua.\n- **ل** mewakili huruf akar ketiga.\n\nPada pola فَعْلَان, huruf akar pertama berharakat fatḥah, huruf akar kedua bersukun, dan huruf akar ketiga berharakat fatḥah serta diikuti alif dan nūn sebagai bagian dari pola.\n\n### Contoh Penggunaan\n\n- **غَضْبَانُ**: marah.\n- **عَطْشَانُ**: haus.\n- **جَوْعَانُ**: lapar.\n\nKetiga kata tersebut menggambarkan keadaan yang dialami seseorang. Pola ini juga terdapat pada **الرَّحْمَٰنُ**, yang digunakan sebagai nama atau sifat Allah dan lazim diterjemahkan sebagai Maha Pengasih. Makna kata tersebut tidak dapat dijelaskan hanya berdasarkan pola morfologisnya.\n\n### Makna Semantis\n\nPola فَعْلَان dapat berkaitan dengan keadaan atau sifat yang menonjol. Namun, makna kata tidak dapat ditentukan hanya dari pola morfologisnya. Akar kata, penggunaan leksikal, dan konteks harus ikut dipertimbangkan.\n\n**Catatan:** Bentuk kata yang mengikuti pola ini dapat mengalami perubahan harakat akhir karena i'rab. Perubahan tersebut tidak dengan sendirinya mengubah pola morfologisnya.",
-      "status": "draft"
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "pattern-fa'iil",
@@ -29,7 +31,9 @@
         }
       ],
       "notes": "### Wazan فَعِيل (Fa'iil)\n\nWazan فَعِيل adalah salah satu pola morfologis dalam bahasa Arab yang digunakan untuk membentuk berbagai kata, terutama kata sifat, tetapi juga dapat muncul pada kata dengan fungsi dan makna leksikal lainnya.\n\n### Struktur Pola\n\nPola ini menggunakan tiga huruf ف، ع، dan ل sebagai lambang bagi tiga huruf akar kata:\n\n- **ف** mewakili huruf akar pertama.\n- **ع** mewakili huruf akar kedua.\n- **ل** mewakili huruf akar ketiga.\n\nPada pola فَعِيل, huruf akar pertama berharakat fatḥah, huruf akar kedua berharakat kasrah, kemudian diikuti yā' panjang sebelum huruf akar ketiga.\n\n### Contoh Penggunaan\n\n- **كَرِيمٌ**: mulia atau dermawan.\n- **عَظِيمٌ**: agung atau besar.\n- **رَحِيمٌ**: penyayang atau Maha Penyayang sesuai konteks.\n\n### Makna Semantis\n\nPola فَعِيل dapat digunakan untuk menyatakan sifat atau kualitas, tetapi tidak mempunyai satu makna yang berlaku untuk semua kata. Makna dan fungsi setiap kata harus ditentukan berdasarkan akar kata, penggunaan leksikal, dan konteksnya.\n\n**Catatan:** Wazan merupakan pola pembentukan kata, sedangkan harakat akhir pada bentuk aktual dapat berubah sesuai keadaan i'rab.",
-      "status": "draft"
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "pattern-ifal",
@@ -44,7 +48,9 @@
         }
       ],
       "notes": "### Wazan اِفْعَلْ (If'al)\n\nPola اِفْعَلْ merupakan salah satu pola bentuk fi'il amr untuk kata kerja triliteral.\n\n### Struktur Pola\n\n- **اِ** merupakan hamzat al-wasl pada bentuk perintah ini.\n- **ف** mewakili huruf akar pertama.\n- **ع** mewakili huruf akar kedua.\n- **ل** mewakili huruf akar ketiga.\n\nPada bentuk اِعْلَمْ, huruf akar ع ل م mengisi posisi ف، ع، dan ل secara berurutan. Bentuk tersebut berasal dari عَلِمَ يَعْلَمُ dan bermakna 'ketahuilah!'.\n\n### Contoh Penggunaan\n\n- **اِعْلَمْ**: ketahuilah!\n\n### Makna Semantis\n\nPola ini menandai bentuk kata kerja perintah, tetapi tidak menentukan makna leksikal kata secara mandiri. Makna kata tetap bergantung pada akar kata dan penggunaan kontekstualnya.\n\n**Catatan:** Pola morfologis berbeda dari keadaan gramatikal. Fi'il amr اِعْلَمْ bersifat mabni atas sukun.",
-      "status": "draft"
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "pattern-fa'ila",
@@ -59,7 +65,26 @@
         }
       ],
       "notes": "### Wazan فَعِلَ (Fa'ila)\n\nPola فَعِلَ merupakan salah satu pola fi'il madhi tsulatsi mujarrad.\n\n### Struktur Pola\n\n- **فَ** mewakili huruf akar pertama dengan harakat fathah.\n- **عِ** mewakili huruf akar kedua dengan harakat kasrah.\n- **لَ** mewakili huruf akar ketiga dengan harakat fathah.\n\n### Contoh Penggunaan\n\n- **عَلِمَ**: telah mengetahui.\n- **فَرِحَ**: telah bergembira.\n- **حَذِرَ**: telah berhati-hati atau waspada.\n\n### Catatan\n\nPola morfologis menunjukkan susunan huruf dan harakat, bukan satu makna universal. Bentuk mudhari' dan bentuk turunannya perlu dicatat berdasarkan paradigma masing-masing kata.",
-      "status": "draft"
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
+    },
+    {
+      "id": "pattern-fa'l",
+      "pattern": "فَعْلٌ",
+      "transliteration": "fa'l",
+      "category": "morphological_pattern",
+      "semantic_functions": [
+        {
+          "id": "semantic-noun-pattern",
+          "label_id": "Pola isim dengan susunan fa, 'ain, dan lam",
+          "description": "Pola فَعْلٌ merupakan salah satu pola morfologis isim. Susunannya terdiri dari huruf akar pertama berharakat fathah, huruf akar kedua bersukun, dan huruf akar ketiga. Makna leksikal kata yang mengikuti pola ini ditentukan oleh akar kata dan penggunaannya."
+        }
+      ],
+      "notes": "### Wazan فَعْلٌ (Fa'l)\n\nPola فَعْلٌ merupakan salah satu pola morfologis isim dalam bahasa Arab.\n\n### Struktur Pola\n\n- **فَ** mewakili huruf akar pertama dengan harakat fathah.\n- **عْ** mewakili huruf akar kedua dengan harakat sukun.\n- **لٌ** mewakili huruf akar ketiga, dengan harakat akhir yang dapat berubah mengikuti kedudukan i'rab.\n\n### Contoh Penggunaan\n\n- **بَابٌ**: pintu atau bab.\n- **نَصْرٌ**: pertolongan.\n- **فَتْحٌ**: pembukaan atau kemenangan.\n\n### Catatan\n\nPola morfologis menunjukkan susunan huruf dan harakat, bukan satu makna universal. Pada kata yang memiliki huruf illat sebagai huruf akar kedua, dapat terjadi perubahan morfologis. Contohnya بَابٌ yang berasal dari akar ب و ب, dengan perubahan huruf illat menjadi alif.\n\nHarakat akhir pada pola isim dapat berubah sesuai kedudukan i'rab, sehingga bentuk فَعْلٌ merupakan representasi pola dalam keadaan marfu' dan bertanwin.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     }
   ]
 }
