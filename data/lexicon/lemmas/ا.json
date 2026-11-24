@@ -22,10 +22,10 @@
           "notes": "Makna yang dapat digunakan sesuai konteks."
         }
       ],
-      "notes": "## Dua Pendapat tentang Akar Kata اِسْمٌ\n\n### 1. Pendapat Basrah\n\n- **Akar kata:** س م و\n- **Makna dasar:** Ketinggian atau keluhuran.\n\n### 2. Pendapat Kufah\n\n- **Akar kata:** و س م\n- **Makna dasar:** Tanda atau penanda.\n\n### Pendapat yang Dipilih\n\nPendapat yang umum dinisbatkan kepada ulama Basrah menghubungkan اِسْمٌ dengan akar س م و, sedangkan pendapat Kufah menghubungkannya dengan و س م. Dalam analisis akar س م و, huruf و merupakan bagian akar yang tidak tampak secara langsung dalam bentuk اِسْمٌ.\n\nBentuk jamaknya adalah أَسْمَاءُ dan bentuk tasghir-nya سُمَيٌّ. Kedua bentuk tersebut dibahas dalam literatur bahasa Arab klasik ketika menjelaskan asal kata اِسْمٌ.\n\n### Referensi untuk Verifikasi\n\n- Lisān al-‘Arab — entri اِسْمٌ.\n- Rafed Library — pembahasan etimologi اِسْمٌ.\n- Islamweb — pembahasan asal kata اِسْمٌ.",
+      "notes": "## Dua Pendapat tentang Akar Kata اِسْمٌ\n\n### 1. Pendapat Basrah\n\n- **Akar kata:** س م و\n- **Makna dasar:** Ketinggian atau keluhuran.\n\n### 2. Pendapat Kufah\n\n- **Akar kata:** و س م\n- **Makna dasar:** Tanda atau penanda.\n\n### Pendapat yang Dipilih\n\nPendapat yang umum dinisbatkan kepada ulama Basrah menghubungkan اِسْمٌ dengan akar س م و, sedangkan pendapat Kufah menghubungkannya dengan و س م. Dalam analisis akar س م و, huruf و merupakan bagian akar yang tidak tampak secara langsung dalam bentuk اِسْمٌ.\n\nBentuk jamaknya adalah أَسْمَاءُ و bentuk tasghir-nya سُمَيٌّ. Kedua bentuk tersebut dibahas dalam literatur bahasa Arab klasik ketika menjelaskan asal kata اِسْمٌ.\n\n### Referensi untuk Verifikasi\n\n- Lisān al-‘Arab — entri اِسْمٌ.\n- Rafed Library — pembahasan etimologi اِسْمٌ.\n- Islamweb — pembahasan asal kata اِسْمٌ.",
       "status": "verified",
       "verified_by": "ms_ebta",
-      "verified_at": "2024-06-15T10:00:00Z"
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "lemma-allahu",
@@ -45,7 +45,7 @@
       "notes": "Hubungan historis antara اللَّه dan الإِلٰه merupakan persoalan etimologis yang perlu dibedakan dari analisis morfologi sinkronis. Bentuk lemma dicatat sebagai bentuk kutipan, sedangkan analisis gramatikal pada teks dapat mencatat fungsi dan keadaan i'rab sesuai konteks.",
       "status": "verified",
       "verified_by": "ms_ebta",
-      "verified_at": "2024-06-15T10:00:00Z"
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "lemma-al",
@@ -68,9 +68,9 @@
         }
       ],
       "notes": "الـ adalah أداة التعريف, yaitu unsur gramatikal yang melekat pada isim untuk menjadikannya definit (ma'rifah). Unsur ini tidak memiliki i'rab mandiri. Dalam pelafalan, lam mengalami idgham ketika diikuti huruf syamsiah, sedangkan lam dibaca jelas ketika diikuti huruf qamariah.",
-      "status": "draft",
-      "verified_by": null,
-      "verified_at": null
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "lemma-anna",
@@ -92,10 +92,10 @@
           "notes": "Mengandung nuansa penegasan terhadap isi pernyataan yang mengikutinya."
         }
       ],
-      "notes": "أَنَّ merupakan حَرْفُ تَوْكِيدٍ وَنَصْبٍ (huruf penegasan dan penashab). Huruf ini berfungsi memberikan penegasan terhadap suatu pernyataan sekaligus memengaruhi keadaan i'rab unsur-unsur setelahnya. Isim أَنَّ berkedudukan manshub, sedangkan khabar-nya berkedudukan marfu'. أَنَّ termasuk kelompok huruf sehingga tidak memiliki akar kata (جَذْرٌ) maupun pola morfologis (وَزْنٌ). Huruf ini berbeda dari أَنْ dan إِنَّ, baik dari segi fungsi maupun penggunaannya dalam susunan kalimat.",
-      "status": "draft",
-      "verified_by": null,
-      "verified_at": null
+      "notes": "أَنَّ merupakan حَرْفُ تَوْكِيدٍ وَنَصْبٍ (huruf penegasan dan penashab). Huruf ini berfungsi memberikan penegasan terhadap suatu pernyataan sekaligus memengaruhi keadaan i'rab unsur-unsur setelahnya. Isim أَنَّ berkedudukan manshub, sedangkan khabar-nya berkedudukan marfu'. أَنَّ termasuk kelompok huruf sehingga tidak memiliki akar kata (جَذْرٌ) maupun pola morfologis (وَزْنٌ). Huruf ini berbeda dari أَنْ وَإِنَّ, baik dari segi fungsi maupun penggunaannya dalam susunan kalimat.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25"
     }
   ]
 }

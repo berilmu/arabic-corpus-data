@@ -7,12 +7,21 @@
       "label_ar": "مُفْرَد",
       "label_id": "Isim mufrad",
       "description": "Isim yang menunjukkan satu, sebagai lawan dari mutsanna dan jamak.",
-      "applies_to": [
-        "pos-isim"
-      ],
+      "applies_to": ["pos-isim"],
       "status": "verified",
       "verified_by": "ms_ebta",
-      "verified_at": "2024-06-15T10:00:00Z"
+      "verified_at": "2025-11-25"
+    },
+    {
+      "id": "subtype-harf-taukid-wa-nashb",
+      "category": "particle_function",
+      "label_ar": "حَرْفُ تَوْكِيدٍ وَنَصْبٍ",
+      "label_id": "Harf Taukid wa Nashb",
+      "description": "Huruf yang berfungsi memberikan penegasan terhadap suatu pernyataan sekaligus menyebabkan isim-nya berkedudukan manshub dan khabar-nya berkedudukan marfu'.",
+      "applies_to": ["pos-harf"],
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25"
     },
     {
       "id": "subtype-isim-muthanna",
@@ -20,10 +29,10 @@
       "label_ar": "مُثَنَّى",
       "label_id": "Isim mutsanna",
       "description": "Isim yang menunjukkan dua.",
-      "applies_to": [
-        "pos-isim"
-      ],
-      "status": "draft"
+      "applies_to": ["pos-isim"],
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "subtype-isim-jam",
@@ -31,9 +40,7 @@
       "label_ar": "جَمْع",
       "label_id": "Isim jamak",
       "description": "Isim yang menunjukkan lebih dari dua menurut klasifikasi jumlah bahasa Arab.",
-      "applies_to": [
-        "pos-isim"
-      ],
+      "applies_to": ["pos-isim"],
       "status": "draft"
     },
     {
@@ -42,9 +49,7 @@
       "label_ar": "اسم جامد",
       "label_id": "Isim jamid",
       "description": "Isim yang tidak diklasifikasikan sebagai kata turunan dalam analisis morfologi yang digunakan.",
-      "applies_to": [
-        "pos-isim"
-      ],
+      "applies_to": ["pos-isim"],
       "status": "draft"
     },
     {
@@ -53,9 +58,7 @@
       "label_ar": "اسم مشتق",
       "label_id": "Isim musytaq",
       "description": "Isim yang dibentuk melalui proses derivasi dari dasar kata menurut analisis morfologi Arab.",
-      "applies_to": [
-        "pos-isim"
-      ],
+      "applies_to": ["pos-isim"],
       "status": "draft"
     },
     {
@@ -64,9 +67,7 @@
       "label_ar": "اسم الفاعل",
       "label_id": "Isim fa'il",
       "description": "Bentuk derivatif yang umumnya menunjukkan pelaku atau pihak yang melakukan suatu perbuatan.",
-      "applies_to": [
-        "pos-isim"
-      ],
+      "applies_to": ["pos-isim"],
       "status": "draft"
     },
     {
@@ -75,9 +76,7 @@
       "label_ar": "اسم المفعول",
       "label_id": "Isim maf'ul",
       "description": "Bentuk derivatif yang umumnya menunjukkan pihak atau sesuatu yang dikenai perbuatan.",
-      "applies_to": [
-        "pos-isim"
-      ],
+      "applies_to": ["pos-isim"],
       "status": "draft"
     },
     {
@@ -86,9 +85,7 @@
       "label_ar": "صفة مشبهة",
       "label_id": "Sifah musyabbahah",
       "description": "Bentuk sifat yang dalam pembahasan morfologi Arab memiliki karakteristik derivatif tersendiri.",
-      "applies_to": [
-        "pos-isim"
-      ],
+      "applies_to": ["pos-isim"],
       "status": "draft"
     },
     {
@@ -97,12 +94,10 @@
       "label_ar": "فعل الأمر",
       "label_id": "Fi'il amr",
       "description": "Kata kerja yang digunakan untuk menyatakan perintah atau permintaan. Dalam tata bahasa Arab, fi'il amr bersifat mabni.",
-      "applies_to": [
-        "pos-fiil"
-      ],
+      "applies_to": ["pos-fiil"],
       "status": "verified",
       "verified_by": "ms_ebta",
-      "verified_at": "2024-06-15T10:00:00Z"
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "subtype-fiil-madhi",
@@ -110,12 +105,10 @@
       "label_ar": "فعل الماضي",
       "label_id": "Fi'il madhi",
       "description": "Kata kerja bentuk lampau yang menunjukkan perbuatan atau keadaan yang telah terjadi. Dalam tata bahasa Arab, fi'il madhi bersifat mabni.",
-      "applies_to": [
-        "pos-fiil"
-      ],
+      "applies_to": ["pos-fiil"],
       "status": "verified",
       "verified_by": "ms_ebta",
-      "verified_at": "2024-06-15T10:00:00Z"
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "subtype-fiil-mudhari",
@@ -123,22 +116,18 @@
       "label_ar": "فعل المضارع",
       "label_id": "Fi'il mudhari'",
       "description": "Kata kerja bentuk sekarang atau akan datang yang menunjukkan perbuatan atau keadaan yang sedang terjadi atau akan terjadi. Dalam tata bahasa Arab, fi'il mudhari' bersifat mabni.",
-      "applies_to": [
-        "pos-fiil"
-      ],
+      "applies_to": ["pos-fiil"],
       "status": "draft"
     },
 
-{
-  "id": "subtype-al-ta'rif",
-  "category": "particle_function",
-  "label_ar": "أداة التعريف",
-  "label_id": "Alif-lam ta'rif",
-  "description": "Unsur gramatikal ال yang melekat pada isim untuk menjadikannya definit (ma'rifah). Tidak memiliki i'rab mandiri. Pada huruf syamsiah, lam mengalami idgham dalam pelafalan; pada huruf qamariah, lam dibaca jelas.",
-  "applies_to": [
-    "pos-harf"
-  ],
-  "status": "draft"
-}
+    {
+      "id": "subtype-al-ta'rif",
+      "category": "particle_function",
+      "label_ar": "أداة التعريف",
+      "label_id": "Alif-lam ta'rif",
+      "description": "Unsur gramatikal ال yang melekat pada isim untuk menjadikannya definit (ma'rifah). Tidak memiliki i'rab mandiri. Pada huruf syamsiah, lam mengalami idgham dalam pelafalan; pada huruf qamariah, lam dibaca jelas.",
+      "applies_to": ["pos-harf"],
+      "status": "draft"
+    }
   ]
 }
