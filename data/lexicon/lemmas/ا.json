@@ -71,6 +71,31 @@
       "status": "draft",
       "verified_by": null,
       "verified_at": null
+    },
+    {
+      "id": "lemma-anna",
+      "lemma": "أَنَّ",
+      "text_plain": "أن",
+      "root_id": null,
+      "pattern_id": null,
+      "part_of_speech_id": "pos-harf",
+      "subtype_id": "subtype-harf-taukid-wa-nashb",
+      "meanings": [
+        {
+          "text": "Bahwa",
+          "language": "id",
+          "notes": "Digunakan untuk menghubungkan suatu pernyataan dengan kata atau kalimat sebelumnya, khususnya setelah kata kerja yang menunjukkan pengetahuan atau pemberitahuan."
+        },
+        {
+          "text": "Sesungguhnya",
+          "language": "id",
+          "notes": "Mengandung nuansa penegasan terhadap isi pernyataan yang mengikutinya."
+        }
+      ],
+      "notes": "أَنَّ merupakan حَرْفُ تَوْكِيدٍ وَنَصْبٍ (huruf penegasan dan penashab). Huruf ini berfungsi memberikan penegasan terhadap suatu pernyataan sekaligus memengaruhi keadaan i'rab unsur-unsur setelahnya. Isim أَنَّ berkedudukan manshub, sedangkan khabar-nya berkedudukan marfu'. أَنَّ termasuk kelompok huruf sehingga tidak memiliki akar kata (جَذْرٌ) maupun pola morfologis (وَزْنٌ). Huruf ini berbeda dari أَنْ dan إِنَّ, baik dari segi fungsi maupun penggunaannya dalam susunan kalimat.",
+      "status": "draft",
+      "verified_by": null,
+      "verified_at": null
     }
   ]
 }
