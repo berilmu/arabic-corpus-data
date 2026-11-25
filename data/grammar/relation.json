@@ -49,7 +49,9 @@
       "description": "### Apa itu Khabar Anna (خَبَرُ أَنَّ)?\n\nKhabar Anna adalah unsur yang menerangkan keadaan atau informasi yang disampaikan oleh **ism anna** dalam konstruksi gramatikal yang melibatkan kata penghubung **anna (أَنَّ)**.\n\n### Contoh\n\n**أَنَّ الطَّالِبَ مُجْتَهِدٌ** — Bahwa siswa itu rajin.\n\n- **الطَّالِبَ** adalah ism anna, yaitu subjek dari khabar.\n- **مُجْتَهِدٌ** adalah khabar anna, yaitu unsur yang memberikan informasi tentang siswa tersebut.\n\n### Kaidah Gramatikal\n\n1. Khabar anna dapat berupa fi'il, isim, atau kalimat lengkap, tergantung konteks kalimat.\n2. Khabar anna mengikuti ism anna dalam hal jumlah, gender, dan status definit/indefinit.\n3. Khabar anna dapat berfungsi sebagai penjelasan, deskripsi, atau informasi tambahan tentang subjek yang diterangkan oleh ism anna.",
       "source_label": "Khabar",
       "target_label": "Ism Anna",
-      "status": "draft"
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     }
   ]
 }

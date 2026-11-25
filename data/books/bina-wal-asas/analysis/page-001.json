@@ -617,15 +617,19 @@
       "source_id": "bwa-p001-s002-w003",
       "target_id": "bwa-p001-s002-w004",
       "notes": "أَبْوَابَ berfungsi sebagai mudhaf dan التَّصْرِيفِ sebagai mudhaf ilayh.",
-      "status": "draft"
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "bwa-p001-s002-rel003",
       "relation_id": "relation-khabar-anna",
       "source_id": "bwa-p001-s002-w005",
       "target_id": "bwa-p001-s002-w002",
-      "notes": "### خَبَرُ أَنَّ (Khabar Anna)\n\nخَمْسَةٌ وَثَلَاثُونَ merupakan susunan bilangan yang berfungsi sebagai **خَبَرُ أَنَّ (Khabar Anna)**, yaitu informasi yang menerangkan **اسم أَنَّ (Isim Anna)**, yakni أَبْوَابَ التَّصْرِيفِ. Susunan bilangan tersebut menjelaskan jumlah bab dalam ilmu tashrif, yaitu tiga puluh lima bab.\n\n**Analisis i'rab:**\n1. **خَمْسَةٌ** merupakan bagian pertama dari susunan bilangan dan berkedudukan marfu' dengan tanda dhammah yang tampak pada akhir katanya (الضمة الظاهرة).\n2. **وَثَلَاثُونَ** merupakan bagian kedua yang dihubungkan kepada خَمْسَةٌ melalui huruf athaf وَ. Kata ini berkedudukan marfu' dengan tanda waw karena termasuk مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ السَّالِمِ.\n\nDengan demikian, keseluruhan susunan **خَمْسَةٌ وَثَلَاثُونَ** menempati kedudukan **خبر أَنَّ** dan berkedudukan marfu'.\n\n**Catatan:** Kata بَابًا tidak termasuk dalam susunan khabar tersebut, melainkan berfungsi sebagai **تَمْيِيزٌ (Tamyiz)** yang menjelaskan bilangan خَمْسَةٌ وَثَلَاثُونَ dan berkedudukan manshub.",
-      "status": "draft"
+      "notes": "خَمْسَةٌ وَثَلَاثُونَ merupakan susunan bilangan yang berfungsi sebagai **خَبَرُ أَنَّ**, yaitu keterangan mengenai jumlah **أَبْوَابَ التَّصْرِيفِ** (bab-bab ilmu tashrif), yakni tiga puluh lima bab. Susunan ini berkedudukan marfu': خَمْسَةٌ dengan tanda dhammah dan ثَلَاثُونَ dengan tanda waw karena termasuk مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ السَّالِمِ. Adapun **بَابًا** berfungsi sebagai **تَمْيِيزٌ (Tamyiz)** yang menjelaskan bilangan tersebut dan berkedudukan manshub.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     },
     {
       "id": "bwa-p001-s002-rel004",
