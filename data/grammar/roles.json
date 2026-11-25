@@ -99,6 +99,17 @@
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2026-11-25T00:00:00Z"
+    },
+    {
+      "id": "role-khabar-anna",
+      "type": "grammatical_role",
+      "category_id": "khabar-anna",
+      "name_ar": "خَبَرُ أَنَّ",
+      "name_id": "Khabar Anna",
+      "notes": "Unsur yang memberikan keterangan atau informasi mengenai isim أَنَّ dalam konstruksi أَنَّ. Khabar أَنَّ berkedudukan marfu' dan dapat berupa isim tunggal, susunan kata, maupun kalimat sesuai konteks sintaksisnya. Dalam kalimat اِعْلَمْ أَنَّ أَبْوَابَ التَّصْرِيفِ خَمْسَةٌ وَثَلَاثُونَ بَابًا, susunan bilangan خَمْسَةٌ وَثَلَاثُونَ berfungsi sebagai khabar أَنَّ yang menerangkan jumlah أَبْوَابَ التَّصْرِيفِ. Kata خَمْسَةٌ merupakan bagian pertama dari susunan bilangan tersebut.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     }
   ]
 }

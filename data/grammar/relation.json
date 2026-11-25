@@ -52,6 +52,18 @@
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2026-11-25T00:00:00Z"
+    },
+    {
+      "id": "relation-tamyiz",
+      "type": "syntactic_relation",
+      "label_ar": "التَّمْيِيزُ",
+      "label_id": "Tamyiz",
+      "description": "### Apa itu Tamyiz (التَّمْيِيزُ)?\n\nTamyiz adalah isim yang berfungsi menghilangkan ketidakjelasan makna suatu kata atau susunan kalimat dengan memberikan keterangan yang lebih spesifik. Tamyiz menjelaskan maksud unsur sebelumnya sehingga makna kalimat menjadi lebih jelas.\n\n### Jenis Tamyiz\n\nSecara umum, tamyiz dibedakan menjadi dua jenis:\n\n1. **تَمْيِيزُ الذَّاتِ (Tamyiz adz-Dzat):** Tamyiz yang menjelaskan sesuatu yang belum jelas dari segi jenis, ukuran, jumlah, atau takarannya. Jenis ini juga dikenal sebagai tamyiz mufrad.\n2. **تَمْيِيزُ النِّسْبَةِ (Tamyiz an-Nisbah):** Tamyiz yang menjelaskan ketidakjelasan makna suatu hubungan atau pernyataan dalam kalimat.\n\n### Contoh\n\n**اِشْتَرَيْتُ عِشْرِينَ كِتَابًا** — Aku membeli dua puluh buku.\n\n- **عِشْرِينَ** merupakan bilangan yang menyatakan jumlah dua puluh.\n- **كِتَابًا** merupakan tamyiz yang menjelaskan benda yang dihitung, yaitu buku.\n\nTanpa kata كِتَابًا, jenis benda yang berjumlah dua puluh belum diketahui secara jelas.\n\n### Kaidah Gramatikal\n\n1. Tamyiz umumnya berupa isim nakirah.\n2. Tamyiz bilangan 11 sampai 99 berbentuk isim mufrad dan berkedudukan manshub.\n3. Tamyiz bilangan 3 sampai 10 berbentuk jamak dan berkedudukan majrur.\n4. Tamyiz berfungsi menjelaskan unsur sebelumnya, baik berupa bilangan, ukuran, takaran, maupun hubungan makna dalam suatu kalimat.\n5. Kedudukan i'rab tamyiz bergantung pada jenis konstruksi yang menggunakannya.\n\n### Penerapan dalam خَمْسَةٌ وَثَلَاثُونَ بَابًا\n\nDalam susunan **خَمْسَةٌ وَثَلَاثُونَ بَابًا**, kata **بَابًا** merupakan تَمْيِيزُ الْعَدَدِ (tamyiz bilangan) yang menjelaskan susunan bilangan **خَمْسَةٌ وَثَلَاثُونَ**. Kata tersebut memperjelas bahwa jumlah tiga puluh lima yang disebutkan merujuk pada bab-bab ilmu tashrif. Berdasarkan kaidah bilangan 21 sampai 99, tamyiz berbentuk isim mufrad dan berkedudukan manshub. Oleh karena itu, بَابًا berbentuk tunggal dengan tanda nashab berupa fathah.",
+      "source_label": "Tamyiz",
+      "target_label": "Bilangan yang Dijelaskan",
+      "status": "draft",
+      "verified_by": null,
+      "verified_at": null
     }
   ]
 }

@@ -683,12 +683,20 @@
       "id": "bwa-p001-s002-rel005",
       "relation_id": "relation-tamyiz",
       "source_id": "bwa-p001-s002-w007",
+      "target_id": "bwa-p001-s002-w005",
+      "notes": "بَابًا merupakan تَمْيِيزُ الْعَدَدِ (tamyiz bilangan) yang menjelaskan susunan bilangan خَمْسَةٌ وَثَلَاثُونَ. Kata ini memperjelas bahwa jumlah tiga puluh lima yang disebutkan merujuk pada bab-bab ilmu tashrif. Dalam kaidah bilangan 21–99, tamyiz berbentuk isim mufrad dan berkedudukan manshub. Oleh karena itu, بَابًا berbentuk tunggal dengan tanda nashab berupa fathah.",
+      "status": "draft"
+    },
+    {
+      "id": "bwa-p001-s002-rel006",
+      "relation_id": "relation-tamyiz",
+      "source_id": "bwa-p001-s002-w007",
       "target_id": "bwa-p001-s002-w006",
       "notes": "بَابًا merupakan tamyiz bilangan bagi خَمْسَةٌ وَثَلَاثُونَ.",
       "status": "draft"
     },
     {
-      "id": "bwa-p001-s002-rel006",
+      "id": "bwa-p001-s002-rel007",
       "relation_id": "relation-khabar-ismiyyah",
       "source_id": "bwa-p001-s002-w010",
       "target_id": "bwa-p001-s002-w008",
@@ -696,7 +704,7 @@
       "status": "draft"
     },
     {
-      "id": "bwa-p001-s002-rel007",
+      "id": "bwa-p001-s002-rel008",
       "relation_id": "relation-naat-man'ut",
       "source_id": "bwa-p001-s002-w011",
       "target_id": "bwa-p001-s002-w010-seg002",
