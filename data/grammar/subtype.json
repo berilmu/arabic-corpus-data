@@ -54,7 +54,7 @@
     },
     {
       "id": "subtype-isim-mushtaq",
-      "category": "derivation",
+      "category": "derivational_form",
       "label_ar": "اسم مشتق",
       "label_id": "Isim musytaq",
       "description": "Isim yang dibentuk melalui proses derivasi dari dasar kata menurut analisis morfologi Arab.",
@@ -62,7 +62,7 @@
       "status": "draft"
     },
     {
-      "id": "subtype-ism-fa'il",
+      "id": "subtype-isim-fa'il",
       "category": "derivational_form",
       "label_ar": "اسم الفاعل",
       "label_id": "Isim fa'il",
@@ -71,7 +71,7 @@
       "status": "draft"
     },
     {
-      "id": "subtype-ism-maf'ul",
+      "id": "subtype-isim-maf'ul",
       "category": "derivational_form",
       "label_ar": "اسم المفعول",
       "label_id": "Isim maf'ul",
@@ -119,7 +119,100 @@
       "applies_to": ["pos-fiil"],
       "status": "draft"
     },
-
+    {
+      "id": "subtype-isim-masdar",
+      "category": "derivational_form",
+      "label_ar": "مَصْدَرٌ",
+      "label_id": "Mashdar",
+      "description": "Isim yang menunjukkan makna perbuatan, keadaan, atau proses tanpa terikat waktu maupun pelaku. Mashdar تَصْرِيفٌ berasal dari kata kerja صَرَّفَ – يُصَرِّفُ dengan pola تَفْعِيلٌ.",
+      "applies_to": ["pos-isim"],
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
+    },
+    {
+      "id": "subtype-harf-jarr",
+      "category": "particle_function",
+      "label_ar": "حَرْفُ الْجَرِّ",
+      "label_id": "Harf jar",
+      "description": "Huruf yang berfungsi sebagai 'āmil (عَامِلٌ) yang menyebabkan isim yang mengikutinya berstatus majrūr (مَجْرُورٌ).",
+      "applies_to": ["pos-harf"],
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "subtype-harf-nashb",
+      "category": "particle_function",
+      "label_ar": "حَرْفُ النَّصْبِ",
+      "label_id": "Harf nashb",
+      "description": "Huruf yang berfungsi sebagai 'āmil (عَامِلٌ) yang menyebabkan isim yang mengikutinya berstatus manshub (مَنْصُوبٌ).",
+      "applies_to": ["pos-harf"],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-harf-raf'",
+      "category": "particle_function",
+      "label_ar": "حَرْفُ الرَّفْعِ",
+      "label_id": "Harf rafa'",
+      "description": "Huruf yang berfungsi sebagai 'āmil (عَامِلٌ) yang menyebabkan isim yang mengikutinya berstatus marfū' (مَرْفُوعٌ).",
+      "applies_to": ["pos-harf"],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-harf-tamyiz",
+      "category": "particle_function",
+      "label_ar": "حَرْفُ التَّمْيِيزِ",
+      "label_id": "Harf tamyiz",
+      "description": "Huruf yang berfungsi sebagai 'āmil (عَامِلٌ) yang menyebabkan isim yang mengikutinya berstatus tamyīz (تَمْيِيزٌ).",
+      "applies_to": ["pos-harf"],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-harf-jar-wa-nashb",
+      "category": "particle_function",
+      "label_ar": "حَرْفُ الْجَرِّ وَالنَّصْبِ",
+      "label_id": "Harf jar wa nashb",
+      "description": "Huruf yang berfungsi sebagai 'āmil (عَامِلٌ) yang menyebabkan isim yang mengikutinya berstatus majrūr (مَجْرُورٌ) dan manshub (مَنْصُوبٌ).",
+      "applies_to": ["pos-harf"],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-harf-raf'-wa-nashb",
+      "category": "particle_function",
+      "label_ar": "حَرْفُ الرَّفْعِ وَالنَّصْبِ",
+      "label_id": "Harf rafa' wa nashb",
+      "description": "Huruf yang berfungsi sebagai 'āmil (عَامِلٌ) yang menyebabkan isim yang mengikutinya berstatus marfū' (مَرْفُوعٌ) dan manshub (مَنْصُوبٌ).",
+      "applies_to": ["pos-harf"],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-harf-raf'-wa-jar",
+      "category": "particle_function",
+      "label_ar": "حَرْفُ الرَّفْعِ وَالْجَرِّ",
+      "label_id": "Harf rafa' wa jar",
+      "description": "Huruf yang berfungsi sebagai 'āmil (عَامِلٌ) yang menyebabkan isim yang mengikutinya berstatus marfū' (مَرْفُوعٌ) dan majrūr (مَجْرُورٌ).",
+      "applies_to": ["pos-harf"],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-harf-raf'-wa-jar-wa-nashb",
+      "category": "particle_function",
+      "label_ar": "حَرْفُ الرَّفْعِ وَالْجَرِّ وَالنَّصْبِ",
+      "label_id": "Harf rafa' wa jar wa nashb",
+      "description": "Huruf yang berfungsi sebagai 'āmil (عَامِلٌ) yang menyebabkan isim yang mengikutinya berstatus marfū' (مَرْفُوعٌ), majrūr (مَجْرُورٌ), dan manshub (مَنْصُوبٌ).",
+      "applies_to": ["pos-harf"],
+      "status": "draft"
+    },
+    {
+      "id": "subtype-harf-tamyiz-wa-nashb",
+      "category": "particle_function",
+      "label_ar": "حَرْفُ التَّمْيِيزِ وَالنَّصْبِ",
+      "label_id": "Harf tamyiz wa nashb",
+      "description": "Huruf yang berfungsi sebagai 'āmil (عَامِلٌ) yang menyebabkan isim yang mengikutinya berstatus tamyīz (تَمْيِيزٌ) dan manshub (مَنْصُوبٌ).",
+      "applies_to": ["pos-harf"],
+      "status": "draft"
+    },
     {
       "id": "subtype-al-ta'rif",
       "category": "particle_function",

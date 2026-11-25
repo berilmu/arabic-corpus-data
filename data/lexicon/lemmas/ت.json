@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "initial": "ت",
+  "lemmas": [
+    {
+      "id": "lemma-tashriif",
+      "lemma": "تَصْرِيفٌ",
+      "text_plain": "تصريف",
+      "root_id": "root-shrf",
+      "pattern_id": "pattern-taf'il",
+      "part_of_speech_id": "pos-isim",
+      "subtype_id": "subtype-isim-masdar",
+      "meanings": [
+        {
+          "text": "Perubahan",
+          "language": "id",
+          "notes": "Makna mashdar dari صَرَّفَ, yaitu proses perubahan atau pengubahan."
+        },
+        {
+          "text": "Pengubahan bentuk kata",
+          "language": "id",
+          "notes": "Dalam ilmu bahasa Arab, merujuk pada perubahan bentuk kata berdasarkan pola dan kaidah morfologi."
+        },
+        {
+          "text": "Ilmu tashrif",
+          "language": "id",
+          "notes": "Makna kontekstual yang merujuk pada disiplin ilmu yang mempelajari perubahan bentuk kata dalam bahasa Arab."
+        }
+      ],
+      "notes": "تَصْرِيفٌ merupakan mashdar dari صَرَّفَ يُصَرِّفُ dengan pola تَفْعِيلٌ. Kata ini berasal dari akar ص ر ف dan termasuk isim musytaq. Makna dasarnya adalah perubahan atau pengubahan. Dalam konteks ilmu bahasa Arab, kata ini merujuk pada proses perubahan bentuk kata berdasarkan kaidah morfologi dan juga digunakan untuk menyebut disiplin ilmu tashrif.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
+    }
+  ]
+}

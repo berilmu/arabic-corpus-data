@@ -13,9 +13,9 @@
       "verified_at": "2024-06-15T10:00:00Z"
     },
     {
-      "id": "role-ism-majrur",
+      "id": "role-isim-majrur",
       "type": "grammatical_state",
-      "category_id": "ism-majrur",
+      "category_id": "isim-majrur",
       "name_ar": "الاسم المجرور",
       "name_id": "Isim majrur",
       "notes": "Isim yang berada dalam keadaan majrur karena huruf jarr.",
@@ -90,12 +90,12 @@
       "verified_at": "2024-06-15T10:00:00Z"
     },
     {
-      "id": "role-ism-anna",
+      "id": "role-isim-anna",
       "type": "grammatical_role",
-      "category_id": "ism-anna",
-      "name_ar": "اِسْمُ أَنَّ",
+      "category_id": "isim-anna",
+      "name_ar": "اِسْمُ أَنَّ",
       "name_id": "Isim Anna",
-      "notes": "Kata yang berfungsi sebagai isim dalam konstruksi أَنَّ, biasanya menjadi mubtada' atau khabar.",
+      "notes": "Kata yang berfungsi sebagai isim dalam konstruksi أَنَّ, biasanya menjadi mubtada' atau khabar.",
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2026-11-25T00:00:00Z"

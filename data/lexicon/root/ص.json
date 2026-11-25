@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "initial": "ص",
+  "roots": [
+    {
+      "id": "root-shrf",
+      "radicals": ["ص", "ر", "ف"],
+      "display": "ص ر ف",
+      "radical_count": 3,
+      "meaning_note": "Berkaitan dengan makna perubahan, pengalihan, pemalingan, atau pengubahan dari satu keadaan ke keadaan lain. Dalam konteks ilmu bahasa Arab, akar kata ini menjadi dasar kata تَصْرِيفٌ yang merujuk pada perubahan bentuk kata berdasarkan kaidah morfologi.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2024-06-15T10:00:00Z"
+    }
+  ]
+}
