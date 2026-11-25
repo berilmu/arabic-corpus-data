@@ -61,9 +61,22 @@
       "description": "### Apa itu Tamyiz (التَّمْيِيزُ)?\n\nTamyiz adalah isim yang berfungsi menghilangkan ketidakjelasan makna suatu kata atau susunan kalimat dengan memberikan keterangan yang lebih spesifik. Tamyiz menjelaskan maksud unsur sebelumnya sehingga makna kalimat menjadi lebih jelas.\n\n### Jenis Tamyiz\n\nSecara umum, tamyiz dibedakan menjadi dua jenis:\n\n1. **تَمْيِيزُ الذَّاتِ (Tamyiz adz-Dzat):** Tamyiz yang menjelaskan sesuatu yang belum jelas dari segi jenis, ukuran, jumlah, atau takarannya. Jenis ini juga dikenal sebagai tamyiz mufrad.\n2. **تَمْيِيزُ النِّسْبَةِ (Tamyiz an-Nisbah):** Tamyiz yang menjelaskan ketidakjelasan makna suatu hubungan atau pernyataan dalam kalimat.\n\n### Contoh\n\n**اِشْتَرَيْتُ عِشْرِينَ كِتَابًا** — Aku membeli dua puluh buku.\n\n- **عِشْرِينَ** merupakan bilangan yang menyatakan jumlah dua puluh.\n- **كِتَابًا** merupakan tamyiz yang menjelaskan benda yang dihitung, yaitu buku.\n\nTanpa kata كِتَابًا, jenis benda yang berjumlah dua puluh belum diketahui secara jelas.\n\n### Kaidah Gramatikal\n\n1. Tamyiz umumnya berupa isim nakirah.\n2. Tamyiz bilangan 11 sampai 99 berbentuk isim mufrad dan berkedudukan manshub.\n3. Tamyiz bilangan 3 sampai 10 berbentuk jamak dan berkedudukan majrur.\n4. Tamyiz berfungsi menjelaskan unsur sebelumnya, baik berupa bilangan, ukuran, takaran, maupun hubungan makna dalam suatu kalimat.\n5. Kedudukan i'rab tamyiz bergantung pada jenis konstruksi yang menggunakannya.\n\n### Penerapan dalam خَمْسَةٌ وَثَلَاثُونَ بَابًا\n\nDalam susunan **خَمْسَةٌ وَثَلَاثُونَ بَابًا**, kata **بَابًا** merupakan تَمْيِيزُ الْعَدَدِ (tamyiz bilangan) yang menjelaskan susunan bilangan **خَمْسَةٌ وَثَلَاثُونَ**. Kata tersebut memperjelas bahwa jumlah tiga puluh lima yang disebutkan merujuk pada bab-bab ilmu tashrif. Berdasarkan kaidah bilangan 21 sampai 99, tamyiz berbentuk isim mufrad dan berkedudukan manshub. Oleh karena itu, بَابًا berbentuk tunggal dengan tanda nashab berupa fathah.",
       "source_label": "Tamyiz",
       "target_label": "Bilangan yang Dijelaskan",
-      "status": "draft",
-      "verified_by": null,
-      "verified_at": null
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
+    },
+
+    {
+      "id": "relation-atf",
+      "type": "syntactic_relation",
+      "label_ar": "الْعَطْفُ",
+      "label_id": "Athaf",
+      "description": "### Apa itu Athaf (الْعَطْفُ)?\n\nAthaf adalah hubungan sintaksis yang menghubungkan suatu unsur dengan unsur lainnya menggunakan حَرْفُ الْعَطْفِ (huruf athaf). Dalam hubungan ini, unsur yang terletak setelah huruf athaf disebut مَعْطُوفٌ (ma'tuf), sedangkan unsur yang menjadi acuan dan terletak sebelumnya disebut مَعْطُوفٌ عَلَيْهِ (ma'tuf 'alaih).\n\n### Unsur dalam Hubungan Athaf\n\n- **مَعْطُوفٌ عَلَيْهِ (Ma'tuf 'Alaih):** Unsur yang menjadi acuan bagi unsur lain yang dihubungkan kepadanya.\n- **حَرْفُ الْعَطْفِ (Harf Athaf):** Huruf atau kata penghubung yang menghubungkan dua unsur.\n- **مَعْطُوفٌ (Ma'tuf):** Unsur yang dihubungkan kepada ma'tuf 'alaih melalui huruf athaf.\n\n### Contoh\n\n**جَاءَ زَيْدٌ وَعَمْرٌو** — Zaid dan Amr telah datang.\n\n- **زَيْدٌ** merupakan ma'tuf 'alaih.\n- **وَ** merupakan huruf athaf.\n- **عَمْرٌو** merupakan ma'tuf.\n\n### Kaidah Gramatikal\n\n1. Athaf menghubungkan dua unsur yang memiliki hubungan sintaksis dalam suatu kalimat.\n2. Ma'tuf mengikuti ma'tuf 'alaih dalam kedudukan i'rab, baik marfu', manshub, maupun majrur.\n3. Huruf athaf memiliki fungsi makna yang berbeda-beda. Beberapa huruf athaf yang umum digunakan adalah وَ (dan), فَ (lalu), ثُمَّ (kemudian), أَوْ (atau), أَمْ (atau), بَلْ (bahkan/sebaliknya), لَكِنْ (tetapi), dan حَتَّى (hingga).\n4. Hubungan athaf dapat terjadi antara isim, fi'il, maupun unsur berupa kalimat, selama unsur-unsur tersebut memiliki kesesuaian dalam hubungan sintaksisnya.\n\n### Penerapan dalam خَمْسَةٌ وَثَلَاثُونَ\n\nDalam susunan **خَمْسَةٌ وَثَلَاثُونَ**, kata **خَمْسَةٌ** merupakan مَعْطُوفٌ عَلَيْهِ (ma'tuf 'alaih), sedangkan **ثَلَاثُونَ** merupakan مَعْطُوفٌ (ma'tuf). Keduanya dihubungkan menggunakan huruf athaf **وَ** dan membentuk susunan bilangan tiga puluh lima. Karena susunan bilangan tersebut menempati kedudukan khabar أَنَّ yang marfu', kedua unsur bilangan tersebut juga berkedudukan marfu'. خَمْسَةٌ memiliki tanda rafa' berupa dhammah, sedangkan ثَلَاثُونَ memiliki tanda rafa' berupa waw karena termasuk مُلْحَقٌ بِجَمْعِ الْمُذَكَّرِ السَّالِمِ.",
+      "source_label": "Ma'tuf",
+      "target_label": "Ma'tuf 'Alaih",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     }
   ]
 }
