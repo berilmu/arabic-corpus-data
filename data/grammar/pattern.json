@@ -102,6 +102,18 @@
       "status": "verified",
       "verified_by": "ms_ebta",
       "verified_at": "2026-11-25T00:00:00Z"
+    },
+
+    {
+      "id": "pattern-fa'lah",
+      "pattern": "فَعْلَةٌ",
+      "transliteration": "fa'lah",
+      "category": "morphological_pattern",
+      "semantic_functions": [],
+      "notes": "### Wazan فَعْلَةٌ (Fa'lah)\n\nWazan فَعْلَةٌ merupakan pola morfologis bahasa Arab yang tersusun dari tiga huruf akar dengan tambahan tā' marbūṭah (ة) pada bagian akhirnya.\n\n### Struktur Pola\n\nPola ini menggunakan tiga huruf ف، ع، dan ل sebagai lambang bagi tiga huruf akar kata:\n\n- **فَ** mewakili huruf akar pertama dengan harakat fatḥah.\n- **عْ** mewakili huruf akar kedua dalam keadaan sukun.\n- **لَةٌ** mewakili huruf akar ketiga dengan harakat fatḥah, kemudian diikuti tā' marbūṭah.\n\n### Contoh Penggunaan\n\n- **خَمْسَةٌ**: lima.\n- **جَلْسَةٌ**: satu kali duduk atau suatu sesi duduk.\n- **ضَرْبَةٌ**: satu pukulan.\n\n### Makna Morfologis\n\nTā' marbūṭah pada pola ini merupakan bagian dari bentuk morfologis kata. Dalam sejumlah kata, pola فَعْلَةٌ dapat digunakan untuk membentuk isim yang menunjukkan satu kejadian atau satu kali tindakan. Namun, fungsi dan makna tersebut tidak berlaku mutlak pada semua kata yang mengikuti pola ini.\n\nPada kata خَمْسَةٌ, pola ini membentuk isim bilangan yang menunjukkan jumlah lima. Makna bilangan tersebut merupakan makna leksikal kata, bukan makna yang dapat disimpulkan hanya dari pola فَعْلَةٌ.\n\n**Catatan:** Harakat akhir kata dapat berubah mengikuti kedudukan i'rab. Perubahan tersebut tidak dengan sendirinya mengubah pola morfologis kata.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
     }
   ]
 }

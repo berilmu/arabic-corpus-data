@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "initial": "ج",
+  "lemmas": [
+    {
+      "id": "root-khms",
+      "radicals": ["خ", "م", "س"],
+      "display": "خ م س",
+      "radical_count": 3,
+      "meaning_note": "Berkaitan dengan makna bilangan lima.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
+    }
+  ]
+}

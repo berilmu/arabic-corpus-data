@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "initial": "ج",
+  "lemmas": [
+    {
+      "id": "lemma-khamsatun",
+      "lemma": "خَمْسَةٌ",
+      "text_plain": "خمسة",
+      "root_id": "root-khms",
+      "pattern_id": "pattern-fa'lah",
+      "part_of_speech_id": "pos-isim",
+      "subtype_id": "subtype-isim-adad",
+      "meanings": [
+        {
+          "text": "Lima",
+          "language": "id",
+          "notes": "Makna dasar sebagai bilangan pokok yang menunjukkan jumlah lima."
+        },
+        {
+          "text": "Kelima",
+          "language": "id",
+          "notes": "Makna bilangan yang menunjukkan urutan atau posisi kelima apabila digunakan dalam konteks bilangan bertingkat."
+        }
+      ],
+      "notes": "خَمْسَةٌ merupakan isim 'adad (kata bilangan) yang menunjukkan jumlah lima. Kata ini berasal dari akar خ م س dan mengikuti pola فَعْلَةٌ. Bentuk خَمْسَةٌ merupakan bentuk feminin secara gramatikal, ditandai dengan tā' marbūṭah (ة). Dalam kaidah bilangan 3–10, bentuk bilangan berlawanan jenis dengan isim yang dihitung. Oleh karena itu, خَمْسَةٌ digunakan untuk menghitung isim mudzakkar, seperti بَابٌ, sedangkan خَمْسٌ digunakan untuk menghitung isim muannats. Kata ini termasuk isim mu'rab sehingga harakat akhirnya dapat berubah sesuai kedudukan sintaksisnya.",
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
+    }
+  ]
+}

@@ -80,6 +80,17 @@
       "status": "draft"
     },
     {
+      "id": "subtype-isim-adad",
+      "category": "nominal_type",
+      "label_ar": "اِسْمُ الْعَدَدِ",
+      "label_id": "Isim 'adad",
+      "description": "Isim yang menunjukkan bilangan atau jumlah sesuatu, baik berupa bilangan pokok (kardinal) maupun bilangan bertingkat (ordinal).",
+      "applies_to": ["pos-isim"],
+      "status": "verified",
+      "verified_by": "ms_ebta",
+      "verified_at": "2026-11-25T00:00:00Z"
+    },
+    {
       "id": "subtype-sifah-mushabbahah",
       "category": "derivational_form",
       "label_ar": "صفة مشبهة",
